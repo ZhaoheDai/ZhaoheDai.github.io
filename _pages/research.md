@@ -44,14 +44,14 @@ My research has been supported by the following grants:
 
 ## Fellowships
 I am grateful for the generous financial support from many organizations, including:
-* 2020	Marie Skłodowska-Curie Individual Fellowship, European Commission	€224,933
-* 2019	University Graduate Continuing Fellowship, UT Austin	$30,000
-* 2019	Outstanding self-financed students abroad, China Scholarship Council	$6,000
-* 2019	Eric Baker Becker III Memorial Graduate Scholarship, UT Austin	$2,500
-* 2018	Warren A. and Alice L. Meyer Endowed Scholarship in Engineering, UT Austin	$2,500
-* 2018	Student Travel Award for attending IMECE, Haythornthwaite Foundation	$1,000
-* 2017	Global Research Fellowship, UT Austin	$5,000
-* 2017	Warren A. and Alice L. Meyer Endowed Scholarship in Engineering, UT Austin	$3,500
-* 2016	Yung-Huai Kuo Endowed Scholarship in Mechanics, CAS	¥3,000
-* 2016	Presidential scholarship of the Chinese Academy of Sciences, CAS	¥5,000
-* 2015	National scholarships for graduate students, Institute of Mechanics, CAS	¥10,000
+* 2020, Marie Skłodowska-Curie Individual Fellowship, European Commission (€224,933)
+* 2019, University Graduate Continuing Fellowship, UT Austin ($30,000)
+* 2019, Outstanding self-financed students abroad, China Scholarship Council ($6,000)
+* 2019, Eric Baker Becker III Memorial Graduate Scholarship, UT Austin ($2,500)
+* 2018, Warren A. and Alice L. Meyer Endowed Scholarship in Engineering, UT Austin ($2,500)
+* 2018, Student Travel Award for attending IMECE, Haythornthwaite Foundation ($1,000)
+* 2017, Global Research Fellowship, UT Austin ($5,000)
+* 2017, Warren A. and Alice L. Meyer Endowed Scholarship in Engineering, UT Austin ($3,500)
+* 2016, Yung-Huai Kuo Endowed Scholarship in Mechanics, CAS (¥3,000)
+* 2016, Presidential scholarship of the Chinese Academy of Sciences, CAS (¥5,000)
+* 2015, National scholarships for graduate students, Institute of Mechanics, CAS (¥10,000)
