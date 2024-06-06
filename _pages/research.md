@@ -20,6 +20,12 @@ redirect_from:
 
 <img src="/images/Research2.png" width="700" class="center"><br>
 
+* W. Dong, Z. Dai*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024)
+* S. Liu, J. He, Y. Rao, Z. Dai, H. Ye, J. C. Tanir, Y. Li, N. Lu. <a href="https://doi.org/10.1126/sciadv.adf2709" style="text-decoration:none;">Conformability of flexible sheets on spherical surfaces</a>. <b>Science Advances</b> 9, eadf2709 (2023)
+* Z. Dai and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022)
+* Y. Hou†, Z. Dai†, S. Zhang†, S. Feng, G. Wang, L. Liu*, Z. Xu*, Q. Li*, Z. Zhang*. <a href="https://doi.org/10.1038/s41467-021-25302-2" style="text-decoration:none;">Elastocapillary cleaning of twisted bilayer graphene interfaces</a>. <b>Nature Communications</b> 12, 5069 (2021)
+
+
 
 
 ## How thin elastic solids deform?
@@ -29,7 +35,7 @@ redirect_from:
 * Z. Dai. <a href="https://doi.org/10.1115/1.4065338" style="text-decoration:none;">Analytical solutions for circular elastic membranes under pressure</a>. <b>Journal of Applied Mechanics</b> 91(8): 081002 (2024)
 * E. Chen and Z. Dai. <a href="https://doi.org/10.1115/1.4062831" style="text-decoration:none;">Axisymmetric peeling of thin elastic films: A perturbation solution</a>. <b>Journal of Applied Mechanics </b> 90(10), 101011 (2023)
 * Z. Dai and N. Lu. <a href="https://doi.org/10.1016/j.jmps.2021.104320" style="text-decoration:none;">Poking and bulging of suspended thin sheets: slippage, instabilities, and metrology</a>. <b>Journal of the Mechanics and Physics of Solids</b> 149, 104320 (2021)
-* G. Wang, Z. Dai, J. Xiao, S. Feng, C. Weng, L. Liu, Z. Xu, R. Huang, Z. Zhang. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)
+* G. Wang†, Z. Dai†, J. Xiao†, S. Feng, C. Weng, L. Liu, Z. Xu, R. Huang, Z. Zhang. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)
 
 ## Grants
 My research has been supported by the following grants:
