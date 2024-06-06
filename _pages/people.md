@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: "Principal Investigator"
 permalink: /people/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
