@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Research Group"
+title                    : "Dai Research Group"
 title_separator          : "-"
-name                     : &name "Yin Zhang"
-description              : &description "Dr. Zhang's Reasearch Group Website"
-url                      : https://yzhang951.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhaohe Dai"
+description              : &description "Group Website"
+url                      : https://ZhaoheDai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yzhang951/yzhang951.github.io"
+repository               : "ZhaoheDai/ZhaoheDai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yin Zhang"
+  name             : "Zhaohe Dai"
   avatar           : "PKU.png"
   bio              : "Assistant Professor at Department of Mechanics and Engineering Science, College of Engineering, Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en"
-  email            : "yinzhang@pku.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yin-Zhang-36"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=KlMdzWwAAAAJ&hl=en&oi=ao"
+  email            : "daizh@pku.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zhaohe-Dai"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yzhang951"
+  github           : "ZhaoheDai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9194-2233"
+  orcid            : "https://orcid.org/0000-0002-5205-089X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
