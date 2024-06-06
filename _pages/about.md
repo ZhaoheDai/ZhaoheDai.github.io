@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yin Zhang PKU"
+title: "Zhaohe Dai"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-The Zhang Research Group, led by Professor Yin Zhang, conducts research within the Department of Mechanics and Engineering Science at the College of Engineering, Peking University.
+My name is Zhaohe Dai. I am an Assistant Professor in the Department of Mechanics and Engineering Science, College of Engineering, Peking University (PKU). I received my B.Sc. degree in Theoretical and Applied Mechanics from the University of Science and Technology of China in 2013, M.S. degree in Solid Mechanics from the Institute of Mechanics in 2016, and Ph.D. in Solid Mechanics from the University of Texas at Austin in 2020. Before joining PKU in March 2022, I undertook postdoctoral research in the Mathematical Institute, University of Oxford, as a Marie Curie Fellow. 
 
-Our team specializes in simulating the mechanical properties of advanced engineering and energy materials, spanning from the nano to macro-scale. Our primary focus lies in materials modeling and simulation techniques.
+My research experiences have allowed me to acquire knowledge in a number of general areas in mechanics and materials, includeing thin film mechanics, surface phenomena, interface mechanics, 2D materials, and nanocarbon-based composites. Most of my published works have been concerned with the mechanics of thin solids and liquids, particularly focusing on elasticity metrology, elastocapillarity, wrinkling instability, adhesion, and friction. In general, I am interested in understanding various aspects of how slender solids deform when interacting with other objects, including liquids, rigid and deformable substrates. 
 
-Current research endeavors within the group encompass the mechanics of ultra-strength materials, 3D-printed metal alloys, strengthening mechanisms in high-entropy alloys, and the advancement of multiscale modeling methodologies.
+You may find my research interests, detailed publications, and a full CV on this website. Interested in anything on this web? Please feel free to contact me by emailing daizhpku.edu.cn.
 
 Principal Investigator
 ------
