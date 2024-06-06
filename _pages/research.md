@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## How thin elastic solids interact with other solids?
+## <font face = "WildWest" size = "5"> How thin elastic solids interact with other solids?</font><br />
 <p style="color:blue;">Keywards: Interface, Adhesion, Friction, Fracture</p>
 
 <img src="/images/Research1.png" width="700"><br>
