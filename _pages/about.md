@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 戴兆贺
 
 邮箱: daizh@pku.edu.cn
