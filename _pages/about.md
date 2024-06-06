@@ -16,10 +16,9 @@ redirect_from:
 
 我的研究方向是固体力学，感兴趣与表界面、纳米材料、细长结构相关的力学问题(见研究)。目前已发表SCI论文50余篇（见论文），授权中国发明专利3项。论文引用3000余次(见简历)。其中以第一/通讯作者在力学、物理、材料等领域顶级期刊发表18篇，包括 JMPS、PRL（其中两篇为封面论文）、PNAS、Adv. Mater.、Nat. Commun.、Nano Lett. 等。曾入选玛丽居里学者、国家级人才计划（青年）等项目。
 
-<br>
+<br/>
 每年招收机械硕士和（直/普）博士研究生；目前有博士后空缺，训练性课题支持本科生参与科研活动（详情见招聘），欢迎邮件讨论。
----
-<br>
+<br/>
 
 My name is Zhaohe Dai. I am an Assistant Professor in the Department of Mechanics and Engineering Science, College of Engineering, Peking University (PKU). I received my B.Sc. degree in Theoretical and Applied Mechanics from the University of Science and Technology of China in 2013, M.S. degree in Solid Mechanics from the Institute of Mechanics in 2016, and Ph.D. in Solid Mechanics from the University of Texas at Austin in 2020. Before joining PKU in March 2022, I undertook postdoctoral research in the Mathematical Institute, University of Oxford, as a Marie Curie Fellow. 
 
