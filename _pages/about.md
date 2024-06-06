@@ -2,12 +2,12 @@
 permalink: /
 title: "Zhaohe Dai"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
+author_profile: false
+redirect_frm: 
   - /about/
   - /about.html
 ---
-戴兆贺
+## 戴兆贺
 
 邮箱: daizh@pku.edu.cn
 
