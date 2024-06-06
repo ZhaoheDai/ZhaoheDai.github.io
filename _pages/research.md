@@ -33,9 +33,25 @@ Q. Ding, Y. Zhang, X. Chen, X. Fu, D. Chen, S. Chen, L. Gu, F. Wei, H. Bei, Y. G
 * G. Wang†, Z. Dai†, J. Xiao†, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)
 
 ## Grants
+My research has been supported by the following grants:
+
 * 2024-2027，面上项目， 国家自然科学基金委，52万元，主持
 * 2023-2024，超常环境非线性力学全国重点实验室开放基金，5 万元，主持
 * 2023-2024，新工科交叉青年专项，北京大学，17 万元，主持
 * 2022-2024，优青（海外）项目，国家自然科学基金委，300 万元， 主持
 * 2022-2024，北京大学学科建设项目，北京大学，100 万元，主持
 * 2020-2022，玛丽居里学者，欧盟地平线计划，约180 万元，主持
+
+## Fellowships
+I am grateful for the generous financial support from many organizations, including:
+* 2020	Marie Skłodowska-Curie Individual Fellowship, European Commission	€224,933
+* 2019	University Graduate Continuing Fellowship, UT Austin	$30,000
+* 2019	Outstanding self-financed students abroad, China Scholarship Council	$6,000
+* 2019	Eric Baker Becker III Memorial Graduate Scholarship, UT Austin	$2,500
+* 2018	Warren A. and Alice L. Meyer Endowed Scholarship in Engineering, UT Austin	$2,500
+* 2018	Student Travel Award for attending IMECE, Haythornthwaite Foundation	$1,000
+* 2017	Global Research Fellowship, UT Austin	$5,000
+* 2017	Warren A. and Alice L. Meyer Endowed Scholarship in Engineering, UT Austin	$3,500
+* 2016	Yung-Huai Kuo Endowed Scholarship in Mechanics, CAS	¥3,000
+* 2016	Presidential scholarship of the Chinese Academy of Sciences, CAS	¥5,000
+* 2015	National scholarships for graduate students, Institute of Mechanics, CAS	¥10,000
