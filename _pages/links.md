@@ -7,8 +7,18 @@ redirect_from:
 ---
 <h3>PKU</h3>
 
-<p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:IndianRed;">北大校内信息</a> <a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:IndianRed;">北大邮箱</a> 
+<p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:IndianRed;">北大校内信息</a> <a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#0C5EF0;">北大邮箱</a> 
 
+<h3>Other links</h3>
+<p style="text-align:left;"> 
+<a href="https://arxiv.org/list/cond-mat/new" style="text-decoration:none;color:IndianRed;">arxiv</a>
+<a href="https://shellbuckling.com/presentations/softShellsMembranes/index.html" style="text-decoration:none;color:#0C5EF0;">Soft shells and membranes</a>
+<a href="http://imechanica.org/" style="text-decoration:none;color:IndianRed;">imechanica</a><br>
+<a href="https://sites.utexas.edu/ruihuang/" style="text-decoration:none;color:IndianRed;">Huang group</a>
+<a href="https://sites.utexas.edu/nanshulu/" style="text-decoration:none;color:#0C5EF0;">Lu group</a>
+<a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:IndianRed;">Vella group</a>
+<a href="https://www.mathgenealogy.org/id.php?id=269836" style="text-decoration:none;color:#0C5EF0;">Mathematics Genealogy</a>
+</p>
 
 <h3>Applied Mechanics</h3>
 
@@ -32,6 +42,7 @@ redirect_from:
 <a href="https://www.nature.com/nphys/">Nature Physics</a><br>
 <a href="https://pubs.rsc.org/en/journals/journalissues/sm#!recentarticles">Soft Matter</a>
 <a href="https://pubs.acs.org/journal/langd5">Langmuir</a><br>
+<a href="https://journals.aps.org/prl/">Physical Review Letters</a><br>
 </p>
 
 
@@ -49,4 +60,55 @@ redirect_from:
 <a href="https://www.nature.com/nmat/">Nature Materials</a><br>
 <a href="https://www.nature.com/nnano/">Nature Nanotechnology</a><br>
 </p>
+
+
+<br>
+<a href="https://arxiv.org/list/cond-mat/new"><strong>Mechanics-focused</strong></a>
+<br>
+<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters">Extreme Mechanics Letters</a>
+<br>
+<a href="https://www.springer.com/journal/10704">International Journal of Fracture</a>
+<br>
+<a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences">International Journal of Mechanical Sciences</a>
+<br>
+<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science">International Journal of Engineering Science</a>
+<br>
+<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures">International Journal of Solids and Structures</a>
+<br>
+<a href="https://asmedigitalcollection.asme.org/appliedmechanics">Journal of Applied Mechanics</a>
+<br>
+<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics">Journal of Fluid Mechanics</a>
+<br>
+<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids">Journal of the Mechanics and Physics of Solids</a>
+<br>
+<a href="https://journals.aps.org/prfluids/">Physical Review Fluids</a>
+<br>
+<a href="https://royalsocietypublishing.org/journal/rspa">Proceedings of Royal Society A</a>
+<br>
+<b>Interdisciplinary</b>
+<br>
+<a href="https://www.cell.com/matter/newarticles">Matter</a>
+<br>
+<a href="https://www.nature.com/ncomms/">Nature Communications</a>
+<br>
+<a href="https://www.pnas.org/">Proceedings of the National Academy of Sciences</a>
+<br>
+<b>Reviews</b>
+<br>
+<a href="https://www.annualreviews.org/journal/conmatphys">Annual Review of Condensed Matter Physics</a>
+<br>
+<a href="https://www.annualreviews.org/journal/fluid">Annual Review of Fluid Mechanics</a>
+<br>
+<a href="https://asmedigitalcollection.asme.org/appliedmechanicsreviews">Applied Mechanics Reviews</a>
+<br>
+<a href="https://www.journals.elsevier.com/current-opinion-in-solid-state-and-materials-science">Current Opinion in Solid States & Materials Science</a>
+<br>
+<a href="https://www.journals.elsevier.com/materials-science-and-engineering-r-reports">Material Science and Engineering R</a>
+<br>
+<a href="https://www.nature.com/natrevphys/">Nature Review Physics</a>
+<br>
+<a href="https://www.nature.com/natrevmats/">Nature Review Materials</a>
+<br>
+<a href="https://www.journals.elsevier.com/progress-in-materials-science">Progress in Materials Science</a>
+
 
