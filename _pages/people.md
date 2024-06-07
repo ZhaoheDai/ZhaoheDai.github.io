@@ -9,7 +9,7 @@ author_profile: false
 
 <h3>课题组负责人   Principal Investigator</h3>
   
-* 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="text-decoration:none;color:red;"> CV</a>
+* 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="text-decoration:none;color:IndianRed;"> CV</a>
 
 
 <h3>博士后 Post-Docs</h3>   
@@ -52,10 +52,11 @@ author_profile: false
  * 2023.12-present, 丁重越, Chongyue Ding is working on dynamics of particle rafts.
 
  * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
-
-======
-
-<p style="color:blue;"><h2>毕业生 Alumni</h2></p>
+<br>
+<br>
+<br>
+<br>
+<h2>毕业生 Alumni</h2></p>
 
 <h3>本科生 Undergraduates</h3> 
 
