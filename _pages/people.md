@@ -52,8 +52,7 @@ author_profile: false
  * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
 
 
-
-## <p style="color:blue;"> 毕业生 Alumni </p>
+<p style="color:blue;">##  毕业生 Alumni </p>
 
 ## 毕业本科生 Undergraduates
 

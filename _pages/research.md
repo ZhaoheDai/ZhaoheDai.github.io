@@ -9,6 +9,8 @@ redirect_from:
 {% include base_path %}
 
 ## Thin film mechanics
+<p style="color:blue;">Keywards: Graphene, 2D materials, Membranes, Wrinkling</p>
+
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div><br>
 
 ## Surfaces and interfaces
@@ -22,7 +24,7 @@ redirect_from:
 * W. Dong, Z. Dai&#42, L. Liu&ast, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024)
 * S. Liu, J. He, Y. Rao, Z. Dai, H. Ye, J. C. Tanir, Y. Li&ast, N. Lu&ast. <a href="https://doi.org/10.1126/sciadv.adf2709" style="text-decoration:none;">Conformability of flexible sheets on spherical surfaces</a>. <b>Science Advances</b> 9, eadf2709 (2023)
 * Z. Dai and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022)
-* <p>Y. Hou†, Z. Dai†, S. Zhang†, S. Feng, G. Wang, L. Liu*, Z. Xu*, Q. Li*, Z. Zhang*.</p> <a href="https://doi.org/10.1038/s41467-021-25302-2" style="text-decoration:none;">Elastocapillary cleaning of twisted bilayer graphene interfaces</a>. <b>Nature Communications</b> 12, 5069 (2021)
+* <p>Y. Hou†, Z. Dai†, S. Zhang†, S. Feng, G. Wang, L. Liu*, Z. Xu*, Q. Li*, Z. Zhang*. <a href="https://doi.org/10.1038/s41467-021-25302-2" style="text-decoration:none;">Elastocapillary cleaning of twisted bilayer graphene interfaces</a>. <b>Nature Communications</b> 12, 5069 (2021) </p> 
 
 ## Approximate theory for thin elastic layers 
 
