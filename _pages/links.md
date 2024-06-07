@@ -6,8 +6,10 @@ author_profile: true
 redirect_from: 
 ---
 <h3>PKU</h3>
-<p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" target="_blank">北大校内信息</span></a> <a href="https://mail.pku.edu.cn/" target="_blank"><span style="font-family:Arial;">北大邮箱</span></a></span> 
+<p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:#6495ED;">北大校内信息</a> <a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#2ECC71;">北大邮箱</span></a>
 </p>
+
+<h3>PKU</h3>
 
 <p>
 	<span style="font-family:Courier New;"> 
