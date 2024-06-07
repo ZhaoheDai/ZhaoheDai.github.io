@@ -56,7 +56,7 @@ author_profile: false
 <br>
 <br>
 <br>
-<h2>毕业生 Alumni</h2></p>
+<h2>毕业生 Alumni</h2>
 
 <h3>本科生 Undergraduates</h3> 
 
