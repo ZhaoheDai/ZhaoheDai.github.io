@@ -38,8 +38,8 @@ author_profile: false
 <br>
 <h3>2019</h3>
 
-<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)</p>
-*  Highlighted as an Editors' Suggestion, featured on the journal Cover and by news media MRS News.</li>
+<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)</p></li>
+*  Highlighted as an Editors' Suggestion, featured on the journal Cover and by news media MRS News.
 
 <li><p><u>Z. Dai</u><sup>†</sup>, G. Wang<sup>†</sup>, Z. Zheng, Y. Wang, S. Zhang, X. Qi, P. Tan, L. Liu*, Z. Xu, Q. Li, Z. Cheng*, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2019.03.014" style="text-decoration:none;color:Blue;">Mechanical Responses of Boron-doped Monolayer Graphene</a>. <b>Carbon</b> 147, 594 (2019)</p></li>
 
@@ -60,8 +60,8 @@ author_profile: false
 
 <br>
 <h3>2018</h3>
-<li><p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018)<br>
-*  Highlighted as an Editors' Suggestion, featured on the Journal Cover.</p></li>
+<li><p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018)</p>
+*  Highlighted as an Editors' Suggestion, featured on the Journal Cover.</li>
 
 <li><p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:Blue;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018)</p></li>
 
