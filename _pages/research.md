@@ -8,13 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-## How thin elastic solids interact with other solids?
-<p style="color:blue;">Keywards: Interface, Adhesion, Friction, Fracture</p>
+## Thin film mechanics
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div><br>
 
+## Surfaces and interfaces
+<div style="text-align: center;"><img src="/images/Research1.png" width="700"></div><br>
 
-
-## How thin elastic solids interact with liquids?
+## Elastocapillarity 
 <p style="color:blue;">Keywards: Wetting, Liquid-solid interactions, Dewetting, Lubrication</p>
 
 <img src="/images/Research2.png" width="700"><br>
@@ -24,11 +24,13 @@ redirect_from:
 * Z. Dai and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022)
 * Y. Hou†, Z. Dai†, S. Zhang†, S. Feng, G. Wang, L. Liu*, Z. Xu*, Q. Li*, Z. Zhang*. <a href="https://doi.org/10.1038/s41467-021-25302-2" style="text-decoration:none;">Elastocapillary cleaning of twisted bilayer graphene interfaces</a>. <b>Nature Communications</b> 12, 5069 (2021)
 
+## Approximate theory for thin elastic layers 
 
 
+## Elastic strain engineering
 
-## How thin elastic solids deform?
-<p style="color:blue;">Keywards: Approximate theory, Wrinkling, Membranes</p>
+
+## Assembly and composites of nano building blocks
 
 <img src="/images/Research3.png" width="500"><br>
 * Z. Dai. <a href="https://doi.org/10.1115/1.4065338" style="text-decoration:none;">Analytical solutions for circular elastic membranes under pressure</a>. <b>Journal of Applied Mechanics</b> 91(8): 081002 (2024)
