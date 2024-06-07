@@ -40,16 +40,21 @@ author_profile: false
 <br>
 <h3>2023</h3>
 
-<li><p>C. Yu and <u>Z. Dai</u>*. <a href="https://doi.org/10.20517/jmi.2023.27" style="text-decoration:none;color:Blue;">Characterizing the wetting behavior of 2D materials: A review</a>. <b>Journal of Material Informatics</b> 3, 20 (2023)</p></li>
+<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.20517/jmi.2023.27" style="text-decoration:none;color:Blue;">Characterizing the wetting behavior of 2D materials: A review</a>. <b>Journal of Material Informatics</b> 3, 20 (2023)</p></li>
+<p style="text-align:center;"><img src="/images/publications/2023_JMI.png" width="500"></p>
 
-<li><p>E. Chen and <u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4062831" style="text-decoration:none;color:Blue;">Axisymmetric peeling of thin elastic films: A perturbation solution</a>. <b>Journal of Applied Mechanics</b> 90(10), 101011 (2023)</p></li>
+<li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4062831" style="text-decoration:none;color:Blue;">Axisymmetric peeling of thin elastic films: A perturbation solution</a>. <b>Journal of Applied Mechanics</b> 90(10), 101011 (2023)</p></li>
+<p style="text-align:center;"><img src="/images/publications/59.jpg" width="500"></p>
 
 <li><p>S. Liu, J. He, Y. Rao, <u>Z. Dai</u>, H. Ye, J. C. Tanir, Y. Li, N. Lu. <a href="https://doi.org/10.1126/sciadv.adf2709" style="text-decoration:none;color:Blue;">Conformability of flexible sheets on spherical surfaces</a>. <b>Science Advances</b> 9, eadf2709 (2023)</p></li>
+<p style="text-align:center;"><img src="/images/publications/2023_SciAdv.jpg" width="500"></p>
 
 <li><p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:Blue;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023)</p></li>
+<p style="text-align:center;"><img src="/images/publications/2023_JMPS.jpg" width="500"></p>
 
 <li><p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:Blue;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023)</p></li>
 *  Featured on the journal Cover
+<p style="text-align:center;"><img src="/images/publications/57.jpg" width="500"></p>
 
 <br>
 <h3>2022</h3>
