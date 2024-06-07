@@ -9,7 +9,39 @@ redirect_from:
 <p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:#6495ED;">北大校内信息</a> <a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#2ECC71;">北大邮箱</span></a>
 </p>
 
-<h3>PKU</h3>
+<h3>Applied Mechanics</h3>
+<p style="text-align:left;">
+						<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters" target="_blank"><span style="font-family:Arial;">Extreme Mechanics Letters</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://www.springer.com/journal/10704" target="_blank"><span style="font-family:Arial;">International Journal of Fracture</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences" target="_blank"><span style="font-family:Arial;">International Journal of Mechanical Sciences</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science" target="_blank"><span style="font-family:Arial;">International Journal of Engineering Science</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures" target="_blank"><span style="font-family:Arial;">International Journal of Solids and Structures</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://asmedigitalcollection.asme.org/appliedmechanics" target="_blank"><span style="font-family:Arial;">Journal of Applied Mechanics</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics" target="_blank"><span style="font-family:Arial;">Journal of Fluid Mechanics</span></a><span style="font-family:&quot;line-height:1;"></span> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids" target="_blank"><span style="font-family:Arial;">Journal of the Mechanics and Physics of Solids</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://journals.aps.org/prfluids/" target="_blank"><span style="font-family:Arial;">Physical Review Fluids</span></a> 
+					</p>
+					<p style="text-align:left;background-color:#CCCCCC;">
+						<a href="https://royalsocietypublishing.org/journal/rspa" target="_blank"><span style="font-family:Arial;">Proceeding of Royal Society A</span></a> 
+					</p>
+
+<h3>Material Science</h3>
 
 <p>
 	<span style="font-family:Courier New;"> 
