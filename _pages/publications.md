@@ -35,7 +35,7 @@ author_profile: false
 <li><p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:Blue;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_AM.png" width="500"></p>
 
-<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:Blue;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023)<p style="color:IndianRed;">Featured on the journal <a href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300535" style="color:Blue;">cover</a>.</p></p></li> 
+<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:Blue;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023) <font color="IndianRed">Featured on the journal</font> <a href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300535" style="color:IndianRed;">cover</a>.</p></li> 
 
 <br>
 <h3>2023</h3>
