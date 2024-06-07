@@ -54,9 +54,9 @@ author_profile: false
  * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
 
 
-<p style="color:blue;">##  毕业生 Alumni </p>
+<p style="color:blue;"><b>毕业生 Alumni</b></p>
 
-## 毕业本科生 Undergraduates
+## 本科生 Undergraduates
 
 * 2022.09-2023.08, 陈尔腾, 毕设题目：基底黏附二维材料压痕响应研究。<p style="color:blue;"> 毕业去向：北京大学攻读博士学位。</p>
 
