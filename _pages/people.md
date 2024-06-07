@@ -3,9 +3,10 @@ layout: archive
 permalink: /people/
 author_profile: false
 ---
+
 ## 课题组负责人   Principal Investigator
   
-  戴兆贺 (Zhaohe Dai) <a href="http://academicpages.github.io/files/CV.pdf" style="text-decoration:none;color:red;"> CV</a>
+  戴兆贺 (Zhaohe Dai) <a href="http://academicpages.github.io/files/CV2024.pdf" style="text-decoration:none;color:red;"> CV</a>
 
 
 ## 博士后 Post-Docs
