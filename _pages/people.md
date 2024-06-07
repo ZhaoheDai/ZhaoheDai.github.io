@@ -1,18 +1,18 @@
 ---
 layout: archive
-title: "<h1>People</h1>"
+title: "<h2>People</h2>"
 permalink: /people/
 author_profile: false
 ---
 
 {% include base_path %}
 
-<h2>课题组负责人   Principal Investigator</h2>
+<h3>课题组负责人   Principal Investigator</h3>
   
 * 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="text-decoration:none;color:red;"> CV</a>
 
 
-<h2>博士后 Post-Docs</h2>   
+<h3>博士后 Post-Docs</h3>   
 
 * 2022.07-present, 李航, Hang Li is working on elastocapillarity and elastocaloric materials.
 
@@ -21,7 +21,7 @@ author_profile: false
 * 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
 
 
-<h2>博士研究生 Graduate Students</h2> 
+<h3>博士研究生 Graduate Students</h3> 
 
 * 2022.09-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses.
 
@@ -34,12 +34,12 @@ author_profile: false
 * 2024.09-present, 曹嘉聪, iacong Cao is working on the computational mechanics of elastic membranes.
 
 
-<h2>硕士研究生 Graduate Students</h2> 
+<h3>硕士研究生 Graduate Students</h3> 
 
 * 2024.09-present, 张国政，Guozheng Zhang is working on the indentation of substrate-shell structures.
 
 
-<h2>本科生 Undergraduate Students</h2> 
+<h3>本科生 Undergraduate Students</h3> 
 
  * 2023.06-present, 陆煌, Huang Lu is working on peeling of adhesive tapes.
 
@@ -54,16 +54,15 @@ author_profile: false
  * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
 
 
-======
-<h1>毕业生 Alumni</h1> 
 
+<p style="color:blue;"><h2>\毕业生 Alumni</h2> </p>
 
-<h2>本科生 Undergraduates</h2> 
+<h3>本科生 Undergraduates</h3> 
 
 * 2022.09-2023.08, <b>陈尔腾</b>, 毕设题目：基底黏附二维材料压痕响应研究。<b>毕业去向：北京大学攻读博士学位。</b>
 
-* 2022.10-2023.08, 曾维嘉, 毕设题目：刚性球与弹性薄膜的黏附问题研究。<p style="color:blue;"> 毕业去向：北京大学攻读博士学位。</p>
+* 2022.10-2023.08, <b>曾维嘉</b>, 毕设题目：刚性球与弹性薄膜的黏附问题研究。 <b>毕业去向：北京大学攻读博士学位。</b>
 
-* 2023.09-2024.08, 曹嘉聪, 毕设题目：二维材料界面黏附能的高通量表方法研究。<p style="color:blue;"> 毕业去向：北京大学攻读博士学位。</p>
+* 2023.09-2024.08, <b>曹嘉聪</b>, 毕设题目：二维材料界面黏附能的高通量表方法研究。<b>毕业去向：北京大学攻读博士学位。</b>
 
-* 2023.09-2024.08, 张国政, 毕设题目：横观各向同性对不同厚度组合的弹性面板-单层土体体系的静力响应的影响。<p style="color:blue;"> 毕业去向：北京大学攻读硕士学位。</p>
+* 2023.09-2024.08, <b>张国政</b>, 毕设题目：横观各向同性对不同厚度组合的弹性面板-单层土体体系的静力响应的影响。<b>毕业去向：北京大学攻读硕士学位。</b>
