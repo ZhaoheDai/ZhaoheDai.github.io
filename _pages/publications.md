@@ -43,7 +43,7 @@ author_profile: false
 <h3>2017</h3>
 
 <p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017)</p>
-*  Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg.
+*  Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, and Nanotechweb (see <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Altmetric</a>).
 
 <p>G. Wang, X. Li, Y. Wang, Z. Zheng, <u>Z. Dai</u>, X. Qi, L. Liu*, Z. Cheng, Z. Xu, P. Tan*, Z. Zhang*. <a href="https://doi.org/10.1021/acs.jpcc.7b05771" style="text-decoration:none;color:Blue;">Interlayer Coupling Behaviors of Boron Doped Multilayer Graphene</a>. <b>Journal of Physical Chemistry</b> 121, 26034 (2017)</p>
 
