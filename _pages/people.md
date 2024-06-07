@@ -1,20 +1,18 @@
 ---
 layout: archive
-title: "People"
+title: "<h1>People</h1>"
 permalink: /people/
 author_profile: false
 ---
 
 {% include base_path %}
 
-<table class="big"  width="1200" cellpadding="13" cellspacing="13">
-
-## 课题组负责人   Principal Investigator
+<h2>课题组负责人   Principal Investigator</h2>
   
 * 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="text-decoration:none;color:red;"> CV</a>
 
 
-## 博士后 Post-Docs   
+<h2>博士后 Post-Docs</h2>   
 
 * 2022.07-present, 李航, Hang Li is working on elastocapillarity and elastocaloric materials.
 
@@ -22,40 +20,8 @@ author_profile: false
 
 * 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
 
-<h3>MSc Students</h3>
 
-<table class="fixedl" align=leftr>
-  <tr><td>  <p><b><a href="http://www.damtp.cam.ac.uk/people/mcg57/">Michael Gomez</a></b></p></td>
-<td><p>2014</p></td>
-  <td><p>Flow-induced snap-through</p></td>
-</tr>
-  <tr><td>  <p><b>Andreas Hadjittofis</b></p></td>
-<td><p>2014</p></td>
-  <td><p>Dynamic models of elastocapillary aggregation</p></td>
-</tr>
-  <tr><td>  <p><b><a href="https://www.maths.ox.ac.uk/people/doireann.okiely">Doireann O'Kiely</a></b></p></td>
-<td><p>2013</p></td>
-  <td><p>Onset of menisci</p></td>
-  </tr>
-  <tr><td>  <p><b>Huaqi Wang</b></p></td>
-<td><p>2015</p></td>
-  <td><p>Analysis of floating drops</p></td>
-</tr>
-
-  <tr><td>  <p><b>Jessica Williams</b></p></td>
-<td><p>2015</p></td>
-  <td><p>Indentation of a floating film: the role of elasticity and incompressibility</p></td>
-</tr>
-
-  <tr><td>  <p><b><a href="https://www.maths.ox.ac.uk/people/clint.wong">Clint Wong</a></b></p></td>
-<td><p>2016</p></td>
-  <td><p>Drops at deformable interfaces</p></td>
-</tr>
-
-</table>
-
-
-## 博士研究生 Graduate Students
+<h2>博士研究生 Graduate Students</h2> 
 
 * 2022.09-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses.
 
@@ -68,12 +34,12 @@ author_profile: false
 * 2024.09-present, 曹嘉聪, iacong Cao is working on the computational mechanics of elastic membranes.
 
 
-## 硕士研究生 Graduate Students
+<h2>硕士研究生 Graduate Students</h2> 
 
 * 2024.09-present, 张国政，Guozheng Zhang is working on the indentation of substrate-shell structures.
 
 
-## 本科生 Undergraduate Students
+<h2>本科生 Undergraduate Students</h2> 
 
  * 2023.06-present, 陆煌, Huang Lu is working on peeling of adhesive tapes.
 
@@ -88,11 +54,13 @@ author_profile: false
  * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
 
 
-<p style="color:blue;"><b>毕业生 Alumni</b></p>
+======
+<h1>毕业生 Alumni</h1> 
 
-## 本科生 Undergraduates
 
-* 2022.09-2023.08, 陈尔腾, 毕设题目：基底黏附二维材料压痕响应研究。<p style="color:blue;"> 毕业去向：北京大学攻读博士学位。</p>
+<h2>本科生 Undergraduates</h2> 
+
+* 2022.09-2023.08, <b>陈尔腾</b>, 毕设题目：基底黏附二维材料压痕响应研究。<b>毕业去向：北京大学攻读博士学位。</b>
 
 * 2022.10-2023.08, 曾维嘉, 毕设题目：刚性球与弹性薄膜的黏附问题研究。<p style="color:blue;"> 毕业去向：北京大学攻读博士学位。</p>
 
