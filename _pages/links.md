@@ -5,7 +5,6 @@ permalink: /links/
 author_profile: true
 redirect_from: 
 ---
-<h3>PKU</h3>
 
 <p style="text-align:left;"> 
 	<a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:IndianRed;">北大校内信息</a> <br> 
