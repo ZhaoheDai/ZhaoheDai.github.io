@@ -10,7 +10,7 @@ author_profile: false
 </table>
 <br>
 <table border=0>
-  <tr><td width=170 ><img src="/images/publications/Cover_2022AMI.png" width="170"></td><td width=170><img src="/images/publications/Cover_2023NL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2024_AIS.png" width="170"></td><td width=170><img src="/images/publications/Cover_2024NL.png" width="170"></td></tr>
+  <tr><td width=170 ><img src="/images/publications/Cover_2022AMI.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2023NL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2024_AIS.png" width="170"></td><td width=170><img src="/images/publications/Cover_2024NL.png" width="170"></td></tr>
 </table>
 <br>
 <br>
