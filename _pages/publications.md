@@ -6,7 +6,11 @@ author_profile: false
 ---
 <h3>Cover Gallary</h3>
 <table border=0>
-  <tr><td width=150 ><img src="/images/publications/Cover_2024NL.png" width="150"></td><td width=150><img src="/images/publications/Cover_2024_AIS.png" width="150"></td><td width=150><img src="/images/publications/Cover_2023NL.jpg" width="50"></td></tr>
+  <tr><td width=150 ><img src="/images/publications/Cover_2016afm.png" width="150"></td><td width=150><img src="/images/publications/Cover_2016softmatter.png" width="150"></td><td width=150><img src="/images/publications/Cover_2018_PRL.jpg" width="150"></td><td width=150><img src="/images/publications/Cover_2019AM.jpg" width="150"></td><td width=150><img src="/images/publications/Cover_2019prl.png" width="150"></td></tr>
+</table>
+<br>
+<table border=0>
+  <tr><td width=150 ><img src="/images/publications/Cover_2016afm.png" width="150"></td><td width=150><img src="/images/publications/Cover_2016softmatter.png" width="150"></td><td width=150><img src="/images/publications/Cover_2018_PRL.jpg" width="150"></td><td width=150><img src="/images/publications/Cover_2019AM.jpg" width="150"></td><td width=150><img src="/images/publications/Cover_2019prl.png" width="150"></td></tr>
 </table>
 <br>
 <br>
