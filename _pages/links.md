@@ -8,19 +8,15 @@ redirect_from:
 <h3>PKU</h3>
 
 <p style="text-align:left;"> 
-	<a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:IndianRed;">北大校内信息</a> 
-	<a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#0C5EF0;">北大邮箱</a> 
-	<a href="https://arxiv.org/list/cond-mat/new" style="text-decoration:none;color:IndianRed;">arxiv</a>
-	<a href="https://shellbuckling.com/presentations/softShellsMembranes/index.html" style="text-decoration:none;color:#0C5EF0;">Shells and Membranes</a>
-	<a href="http://imechanica.org/" style="text-decoration:none;color:IndianRed;">imechanica</a><br> 
-
-
-<h3>Other links</h3>
-<p style="text-align:left;"> 
-<a href="https://sites.utexas.edu/ruihuang/" style="text-decoration:none;color:IndianRed;">Huang group</a>
-<a href="https://sites.utexas.edu/nanshulu/" style="text-decoration:none;color:#0C5EF0;">Lu group</a>
-<a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:IndianRed;">Vella group</a>
-<a href="https://www.mathgenealogy.org/id.php?id=269836" style="text-decoration:none;color:#0C5EF0;">Mathematics Genealogy</a>
+	<a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:IndianRed;">北大校内信息</a> <br> 
+	<a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:IndianRed;">北大邮箱</a> <br> 
+	<a href="https://arxiv.org/list/cond-mat/new">arxiv</a><br> 
+	<a href="https://shellbuckling.com/presentations/softShellsMembranes/index.html">Shells and Membranes</a><br> 
+	<a href="http://imechanica.org/">imechanica</a><br> 
+	<a href="https://sites.utexas.edu/ruihuang/">Huang group</a>
+	<a href="https://sites.utexas.edu/nanshulu/">Lu group</a>
+	<a href="https://people.maths.ox.ac.uk/vella/">Vella group</a>
+	<a href="https://www.mathgenealogy.org/id.php?id=269836">Mathematics Genealogy</a>
 </p>
 
 
