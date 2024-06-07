@@ -29,13 +29,13 @@ author_profile: false
 <li><p><u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4065338" style="text-decoration:none;color:Blue;">Analytical solutions for circular elastic membranes under pressure</a>. <b>Journal of Applied Mechanics</b> 91(8): 081002 (2024)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_JAM.png" width="500"></p>
 
-<li><p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:Blue;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024)</p></li>
-<p style="text-align:center;"><img src="/images/publications/2024_NanoLett.png" width="500"></p>
+<li><p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:Blue;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024_AIS.PNG" style="color:IndianRed;">cover</a></p></li>
+<p style="text-align:center;"><img src="/images/publications/Cover_2024NL.png" width="500"></p>
 
 <li><p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:Blue;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_AM.png" width="500"></p>
 
-<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:Blue;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023) <font color="IndianRed">Featured on the journal</font> <a href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300535" style="color:IndianRed;">cover</a>.</p></li> 
+<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:Blue;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024_AIS.PNG" style="color:IndianRed;">cover</a></p></li> 
 
 <br>
 <h3>2023</h3>
@@ -52,8 +52,7 @@ author_profile: false
 <li><p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:Blue;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_JMPS.jpg" width="500"></p>
 
-<li><p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:Blue;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023)</p></li>
-*  Featured on the journal Cover
+<li><p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:Blue;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2023NL.jpg" style="color:IndianRed;">cover</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/57.jpg" width="500"></p>
 
 <br>
