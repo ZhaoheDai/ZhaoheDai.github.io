@@ -17,29 +17,82 @@ author_profile: false
 <div class="shadowbox">
   <p>You can also find my articles on my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en">Google Scholar</a> profile.</p>
 </div>
-<br>
-<br>
 
+<br>
 <ol reversed>
+<br>
 <h3>2024</h3>
 
+<li><p>L. Yang*, S. Yue, Y. Tao, S. Qiao, H. Li, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:Blue;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p></li>
+
+<li><p><u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4065338" style="text-decoration:none;color:Blue;">Analytical solutions for circular elastic membranes under pressure</a>. <b>Journal of Applied Mechanics</b> 91(8): 081002 (2024)</p></li>
+
+<li><p>B. Wang, J. Li, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:Blue;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024)</p></li>
+
+<li><p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:Blue;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024)</p></li>
+
+<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:Blue;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023)</p></li>
+  
 <br>
 <h3>2023</h3>
+
+<li><p>C. Yu and <u>Z. Dai</u>*. <a href="https://doi.org/10.20517/jmi.2023.27" style="text-decoration:none;color:Blue;">Characterizing the wetting behavior of 2D materials: A review</a>. <b>Journal of Material Informatics</b> 3, 20 (2023)</p></li>
+
+<li><p>E. Chen and <u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4062831" style="text-decoration:none;color:Blue;">Axisymmetric peeling of thin elastic films: A perturbation solution</a>. <b>Journal of Applied Mechanics</b> 90(10), 101011 (2023)</p></li>
+
+<li><p>S. Liu, J. He, Y. Rao, <u>Z. Dai</u>, H. Ye, J. C. Tanir, Y. Li, N. Lu. <a href="https://doi.org/10.1126/sciadv.adf2709" style="text-decoration:none;color:Blue;">Conformability of flexible sheets on spherical surfaces</a>. <b>Science Advances</b> 9, eadf2709 (2023)</p></li>
+
+<li><p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:Blue;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023)</p></li>
+
+<li><p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:Blue;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023)</p></li>
+*  Featured on the journal Cover
 
 <br>
 <h3>2022</h3>
 
+<li><p><u>Z. Dai</u>, Y. Rao, N. Lu*. <a href="https://doi.org/10.1016/j.ijsolstr.2022.111829" style="text-decoration:none;color:Blue;">Two-dimensional crystals on adhesive substrates subjected to uniform transverse pressure</a>. <b>International Journal of Solids and Structures</b> 257, 111829 (2022)</p></li>
+
+<li><p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:Blue;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022)</p></li>
+
+<li><p>T. Yang, X. Jiang, Y. Huang. Q. Tian, L. Zhang, <u>Z. Dai</u>, H. Zhu*. <a href="https://doi.org/10.1016/j.isci.2021.103728" style="text-decoration:none;color:Blue;">Mechanical sensors based on two-dimensional materials: sensing mechanisms, structural designs and wearable applications</a>. <b>iScience</b> 25, 103728 (2022)</p></li>
+
+<li><p>W. Wang, X. Ma, <u>Z. Dai</u>, S. Zhang, Y. Hou, G. Wang, Q. Li, L. Liu*, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1002/admi.202101939" style="text-decoration:none;color:Blue;">Mechanical Behavior of Blisters Spontaneously Formed by Multilayer 2D Materials</a>. <b>Advanced Materials Interfaces</b> 2101939 (2022)</p></li>
+
 <br>
 <h3>2021</h3>
 
+<li><p>Y. Hou<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, S. Zhang<sup>†</sup>, S. Feng, G. Wang, L. Liu*, Z. Xu*, Q. Li*, Z. Zhang*. <a href="https://doi.org/10.1038/s41467-021-25302-2" style="text-decoration:none;color:Blue;">Elastocapillary cleaning of twisted bilayer graphene interfaces</a>. <b>Nature Communications</b> 12, 5069 (2021)</p></li>
+
+<li><p>F. Shuang, <u>Z. Dai</u>, K. Aifantis*. <a href="https://doi.org/10.1021/acsami.1c05129" style="text-decoration:none;color:Blue;">Strengthening Metals by Graphene Inclusions: Transition from Interface Hardening to Precipitate Hardening</a>. <b>ACS Applied Materials & Interfaces</b> 13, 26610 (2021)</p></li>
+
+<li><p>Y. Rao<sup>†</sup>, S. Qiao<sup>†</sup>, <u>Z. Dai</u>, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104399" style="text-decoration:none;color:Blue;">Elastic Wetting: Substrate-Supported Droplets Confined by Ultrathin Elastic Membranes</a>. <b>Journal of the Mechanics and Physics of Solids</b> 151, 104399 (2021)</p></li>
+
+<li><p><u>Z. Dai</u>*, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104320" style="text-decoration:none;color:Blue;">Poking and bulging of suspended thin sheets: slippage, instabilities, and metrology</a>. <b>Journal of the Mechanics and Physics of Solids</b> 149, 104320 (2021)</p></li>
+
+<li><p>D. Sanchez, <u>Z. Dai</u>, N. Lu*. <a href="https://doi.org/10.1016/j.trechm.2020.12.011" style="text-decoration:none;color:Blue;">2D Material Bubbles: Fabrication, Characterization, and Applications</a>. <b>Trends in Chemistry</b> 3, 204 (2021)</p></li>
+
+<li><p>G. Wang, Z. Zhang, Y. Wang, E. Gao, X. Jia, <u>Z. Dai</u>, C. Weng, L. Liu*, Y. Zhang, Z. Zhang*. <a href="https://pubs.acs.org/doi/10.1021/acsami.0c19835" style="text-decoration:none;color:Blue;">Out-of-Plane Deformations Determined Mechanics of Vanadium Disulfide (VS2) Sheets</a>. <b>ACS Applied Materials & Interfaces</b> 13, 3040 (2021)</p></li>
+
+<li><p>J. Shi, W. Zeng, <u>Z. Dai</u>, L. Wang, Q. Wang, S. Lin, Y. Xiong, S. Yang, S. Shang, W. Chen, L. Zhao, X. Ding, X. Tao*, Yang Chai*. <a href="https://doi.org/10.1002/smsc.202000011" style="text-decoration:none;color:Blue;">Piezo-catalytic foam for highly efficient degradation of aqueous organics</a>. <b>Small Science</b> 1, 2000011 (2021)</p></li>
+
 <br>
 <h3>2020</h3>
+
+<li><p><u>Z. Dai</u>, N. Lu, K. Liechti, R. Huang*. <a href="https://doi.org/10.1016/j.cossms.2020.100837" style="text-decoration:none;color:Blue;">Mechanics at the Interfaces of 2D Materials: Challenges and Opportunities</a>. <b>Current Opinions in Solid State & Materials Science</b> 24, 100837 (2020)</p></li>
+
+<li><p><u>Z. Dai</u>, D. Sanchez, C. J. Brennan, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2019.103843" style="text-decoration:none;color:Blue;">Radial Buckle Delamination Around Two-Dimensional Material Tents</a>. <b>Journal of the Mechanics and Physics of Solids</b> 137, 103843 (2020)</p></li>
+
+<li><p>Y. Hou, X. Ren, J. Fan, G. Wang, <u>Z. Dai</u>, C. Jin, Y. Zhu, S. Zhang, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.0c12000" style="text-decoration:none;color:Blue;">Preparation of Twisted Bilayer Graphene via Wetting Transfer Method</a>. <b>ACS Applied Materials & Interfaces</b> 12, 40958 (2020)</p></li>
+
+<li><p>C. Weng, T. Xing, H. Jin, G. Wang, <u>Z. Dai</u>, Z. Zeng, Y. Pei, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compositesa.2020.105927" style="text-decoration:none;color:Blue;">Mechanically robust ANF/MXene composite films with tunable electromagnetic interference shielding performance</a>. <b>Composites Part A: Applied Science and Manufacturing</b> 135, 105927 (2020)</p></li>
+
+<li><p>H. Jang, <u>Z. Dai</u>, K. Ha, S. K. Ameri, N. Lu*. <a href="https://doi.org/10.1088/2053-1583/ab4c0f" style="text-decoration:none;color:Blue;">Stretchability of Chemical Vapor Deposited Graphene Supported by Submicron-Thick Polymeric Substrates</a>. <b>2D Materials</b> 7, 014003 (2020)</p></li>
 
 <br>
 <h3>2019</h3>
 
 <li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)</p></li>
-*  Highlighted as an Editors' Suggestion, featured on the journal Cover and by news media MRS News.
+Highlighted as an Editors' Suggestion, featured on the journal Cover and by news media MRS News.
 
 <li><p><u>Z. Dai</u><sup>†</sup>, G. Wang<sup>†</sup>, Z. Zheng, Y. Wang, S. Zhang, X. Qi, P. Tan, L. Liu*, Z. Xu, Q. Li, Z. Cheng*, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2019.03.014" style="text-decoration:none;color:Blue;">Mechanical Responses of Boron-doped Monolayer Graphene</a>. <b>Carbon</b> 147, 594 (2019)</p></li>
 
