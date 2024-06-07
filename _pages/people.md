@@ -11,28 +11,23 @@ author_profile: false
 
 
 ## 博士后 Post-Docs   
-                                                     |
-| --------         | ------ | ------------------------------------------------------------ |
-| [2022.07-present](#)    | 2016   | Description of the item in the list                          |
-| [2023.07-present](#)    | 2019   | Description of the item in the list                          |
-| [2024.07-present](#)    | 2022   | Description of the item in the list                          |
 
-   &nbsp 李航      Hang Li is working on elastocapillarity and elastocaloric materials.
+* 2022.07-present, 李航, Hang Li is working on elastocapillarity and elastocaloric materials.
 
-   &emsp 李居曜    Juyao Li is working on elastocalorics and morphing based on thin plates.
+* 2023.07-present, 李居曜, Juyao Li is working on elastocalorics and morphing based on thin plates.
 
-   &emsp 王文祥    Wenxiang is working on strain engineering in multifunctional 2D devices.
+* 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
 
 
 ## 博士生 Graduate Students
 
-  2022.09-present &emsp 于川立    Chuanli Yu is working on the metrology of surface/interface energies/stresses.
+* 2022.09-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses.
 
-  2022.12-present &emsp 郑婉莹    Wanying Zheng is working on the elastocapillarity of thin elastic solids.
+* 2022.12-present, 郑婉莹, Wanying Zheng is working on the elastocapillarity of thin elastic solids.
 
-  2023.09-present &emsp 陈尔腾    Erteng Chen is working on pulling and pushing of adhesive nanostructures.
+* 2023.09-present, 陈尔腾, Erteng Chen is working on pulling and pushing of adhesive nanostructures.
 
-  2023.09-present &emsp 曾维嘉    Weijia Zeng is working on adhesion of slender structures (co-advised with Prof. Y. Wei).
+* 2023.09-present, 曾维嘉, Weijia Zeng is working on adhesion of slender structures (co-advised with Prof. Y. Wei).
 
-  2024.09-present &emsp 曹嘉聪    Jiacong Cao is working on the computational mechanics of elastic membranes.
+* 2024.09-present, 曹嘉聪, iacong Cao is working on the computational mechanics of elastic membranes.
 
