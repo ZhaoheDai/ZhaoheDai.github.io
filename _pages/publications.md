@@ -8,17 +8,12 @@ author_profile: false
 <table border=0>
   <tr><td width=170 ><img src="/images/publications/Cover_2016afm.png" width="170"></td><td width=170><img src="/images/publications/Cover_2016softmatter.png" width="170"></td><td width=170><img src="/images/publications/Cover_2018_PRL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2019AM.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2019prl.png" width="170"></td></tr>
 </table>
-<br>
 <table border=0>
   <tr><td width=170 ><img src="/images/publications/Cover_2022AMI.JPG" width="170"></td><td width=170><img src="/images/publications/Cover_2023NL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2024_AIS.png" width="170"></td><td width=170><img src="/images/publications/Cover_2024NL.png" width="170"></td></tr>
 </table>
-<br>
-<br>
-<div class="shadowbox">
-  <p>You can also find my articles on my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en">Google Scholar</a> profile.</p>
-</div>
 
-<br>
+<p>You can also find my articles on my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en">Google Scholar</a> profile.</p>
+
 <ol reversed>
 <br>
 <h3>2024</h3>
