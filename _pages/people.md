@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "People"
 permalink: /people/
 author_profile: false
 ---
@@ -11,7 +12,7 @@ author_profile: false
 
 ## 博士后 Post-Docs
 
-  2022.07-present &emsp 李航      Hang Li is working on elastocapillarity and elastocaloric materials.
+  2022.07-present &nbsp 李航      Hang Li is working on elastocapillarity and elastocaloric materials.
 
   2023.07-present &emsp 李居曜    Juyao Li is working on elastocalorics and morphing based on thin plates.
 
