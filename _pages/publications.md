@@ -19,6 +19,7 @@ author_profile: false
 </div>
 <br>
 <br>
+
 <ol reversed>
 <h3>2024</h3>
 
@@ -39,59 +40,59 @@ author_profile: false
 
 <br>
 <h3>2018</h3>
-27. <p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018)<br>
-*  Highlighted as an Editors' Suggestion, featured on the Journal Cover.</p>
+<li><p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018)<br>
+*  Highlighted as an Editors' Suggestion, featured on the Journal Cover.</p></li>
 
-26. <p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:Blue;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018)</p>
+<li><p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:Blue;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018)</p></li>
 
-25. <p>Y. Chen, <u>Z. Dai</u>, C. Weng, G. Wang, Y. Hou, X. Liu, X. Cong, P. Tan, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1039/C8RA07974A" style="text-decoration:none;color:Blue;">Engineering the Interface in Mechanically Responsive Graphene-Based Films</a>. <b>RSC Advances</b> 8, 36257 (2018)</p>
+<li><p>Y. Chen, <u>Z. Dai</u>, C. Weng, G. Wang, Y. Hou, X. Liu, X. Cong, P. Tan, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1039/C8RA07974A" style="text-decoration:none;color:Blue;">Engineering the Interface in Mechanically Responsive Graphene-Based Films</a>. <b>RSC Advances</b> 8, 36257 (2018)</p></li>
 
-24. <p>J. Shi, L. Wang, <u>Z. Dai</u>, L. Zhao, M. Du, H. Li*, Y. Fang*. <a href="https://doi.org/10.1002/smll.201800819" style="text-decoration:none;color:Blue;">Multiscale Hierarchical Design of a Flexible Piezoresistive Pressure Sensor with High Sensitivity and Wide Linearity Range</a>. <b>Small</b> 14, 1800819 (2018)</p>
+<li><p>J. Shi, L. Wang, <u>Z. Dai</u>, L. Zhao, M. Du, H. Li*, Y. Fang*. <a href="https://doi.org/10.1002/smll.201800819" style="text-decoration:none;color:Blue;">Multiscale Hierarchical Design of a Flexible Piezoresistive Pressure Sensor with High Sensitivity and Wide Linearity Range</a>. <b>Small</b> 14, 1800819 (2018)</p></li>
 
-23. <p>Y. Wang, Y. Qiu, S. K. Ameri, H. Jang, <u>Z. Dai</u>, Y. Huang*, N. Lu*. <a href="https://doi.org/10.1038/s41528-017-0019-4" style="text-decoration:none;color:Blue;">Low-cost, μm-thick, tape-free electronic tattoo sensors with minimized motion and sweat artifacts</a>. <b>npj Flexible Electronics</b> 2, 6 (2018)</p>
+<li><p>Y. Wang, Y. Qiu, S. K. Ameri, H. Jang, <u>Z. Dai</u>, Y. Huang*, N. Lu*. <a href="https://doi.org/10.1038/s41528-017-0019-4" style="text-decoration:none;color:Blue;">Low-cost, μm-thick, tape-free electronic tattoo sensors with minimized motion and sweat artifacts</a>. <b>npj Flexible Electronics</b> 2, 6 (2018)</p></li>
 
-22. <p>W. Li, L. Zhao, <u>Z. Dai</u>, H. Jin*, F. Duan, Z. Zeng, Z. Zhang*. <a href="https://doi.org/10.1007/s12274-018-1973-4" style="text-decoration:none;color:Blue;">A temperature-activated nanocomposite metamaterial absorber with a wide tunability</a>. <b>Nano Research</b> 11, 3931 (2018)</p>
+<li><p>W. Li, L. Zhao, <u>Z. Dai</u>, H. Jin*, F. Duan, Z. Zeng, Z. Zhang*. <a href="https://doi.org/10.1007/s12274-018-1973-4" style="text-decoration:none;color:Blue;">A temperature-activated nanocomposite metamaterial absorber with a wide tunability</a>. <b>Nano Research</b> 11, 3931 (2018)</p></li>
 
-21. <p>M. Choi<sup>†</sup>, J. Yang<sup>†</sup>, D. Kim<sup>†</sup>, <u>Z. Dai</u>, J. Kim, H. Seung, V. Kale, N. Lu, T. Hyeon*, D. Kim*. <a href="https://doi.org/10.1002/adma.201703279" style="text-decoration:none;color:Blue;">Extremely vivid transparent light-emitting diodes based on quantum dots</a>. <b>Advanced Materials</b> 30, 1703279 (2018)<br>
-*  Highlighted by Advanced Science News.</p>
+<li><p>M. Choi<sup>†</sup>, J. Yang<sup>†</sup>, D. Kim<sup>†</sup>, <u>Z. Dai</u>, J. Kim, H. Seung, V. Kale, N. Lu, T. Hyeon*, D. Kim*. <a href="https://doi.org/10.1002/adma.201703279" style="text-decoration:none;color:Blue;">Extremely vivid transparent light-emitting diodes based on quantum dots</a>. <b>Advanced Materials</b> 30, 1703279 (2018)
+*  Highlighted by Advanced Science News.</p></li>
 
 <br>
 <h3>2017</h3>
 
-20. <p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017)<br>
-*  Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, and Nanotechweb (see <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Altmetric</a>).</p>
+<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017)
+*  Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, and Nanotechweb (see <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Altmetric</a>).</p></li>
 
-18. <p>G. Wang, X. Li, Y. Wang, Z. Zheng, <u>Z. Dai</u>, X. Qi, L. Liu*, Z. Cheng, Z. Xu, P. Tan*, Z. Zhang*. <a href="https://doi.org/10.1021/acs.jpcc.7b05771" style="text-decoration:none;color:Blue;">Interlayer Coupling Behaviors of Boron Doped Multilayer Graphene</a>. <b>Journal of Physical Chemistry</b> 121, 26034 (2017)</p>
+<li><p>G. Wang, X. Li, Y. Wang, Z. Zheng, <u>Z. Dai</u>, X. Qi, L. Liu*, Z. Cheng, Z. Xu, P. Tan*, Z. Zhang*. <a href="https://doi.org/10.1021/acs.jpcc.7b05771" style="text-decoration:none;color:Blue;">Interlayer Coupling Behaviors of Boron Doped Multilayer Graphene</a>. <b>Journal of Physical Chemistry</b> 121, 26034 (2017)</p></li>
 
-18. <p>J. Shi, J. Hu, <u>Z. Dai</u>, W. Zhao, P. Liu, L. Zhao, Y. Guo, T. Yang, L. Zou, K. Jiang, H. Li*, Y. Fang*. <a href="https://doi.org/10.1016/j.carbon.2017.08.006" style="text-decoration:none;color:Blue;">Graphene Welded Carbon Nanotube Crossbars for Biaxial Strain Sensors</a>. <b>Carbon</b> 123, 786 (2017)</p>
+<li><p>J. Shi, J. Hu, <u>Z. Dai</u>, W. Zhao, P. Liu, L. Zhao, Y. Guo, T. Yang, L. Zou, K. Jiang, H. Li*, Y. Fang*. <a href="https://doi.org/10.1016/j.carbon.2017.08.006" style="text-decoration:none;color:Blue;">Graphene Welded Carbon Nanotube Crossbars for Biaxial Strain Sensors</a>. <b>Carbon</b> 123, 786 (2017)</p></li>
 
-17. <p>Y. Hou, Y. Zhu, X. Liu, <u>Z. Dai</u>, L. Liu, H. Wu*, Z. Zhang*. <a href="https://doi.org/10.1088/1361-6463/aa7fd4" style="text-decoration:none;color:Blue;">Elastic-plastic properties of graphene engineered by oxygen functional groups</a>. <b>Journal of Physics D Applied Physics</b> 50, 385305 (2017)</p>
+<li><p>Y. Hou, Y. Zhu, X. Liu, <u>Z. Dai</u>, L. Liu, H. Wu*, Z. Zhang*. <a href="https://doi.org/10.1088/1361-6463/aa7fd4" style="text-decoration:none;color:Blue;">Elastic-plastic properties of graphene engineered by oxygen functional groups</a>. <b>Journal of Physics D Applied Physics</b> 50, 385305 (2017)</p></li>
 
-16. <p>G. Wang, E. Gao, <u>Z. Dai</u>, L. Liu*, Z. Xu*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2017.06.004" style="text-decoration:none;color:Blue;">Degradation and recovery of graphene/polymer interfaces under cyclic mechanical loading</a>. <b>Composites Science and Technology</b> 149, 220 (2017)</p>
+<li><p>G. Wang, E. Gao, <u>Z. Dai</u>, L. Liu*, Z. Xu*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2017.06.004" style="text-decoration:none;color:Blue;">Degradation and recovery of graphene/polymer interfaces under cyclic mechanical loading</a>. <b>Composites Science and Technology</b> 149, 220 (2017)</p></li>
 
-15. <p>Y. Li, K. Jiang, J. Feng, J. Liu, R. Huang, Z. Chen, J. Yang, <u>Z. Dai</u>, Y. Chen, N. Wang, W. Zhang, W. Zheng*, G. Yang*, X. Jiang*. <a href="https://doi.org/10.1002/adhm.201601343" style="text-decoration:none;color:Blue;">Construction of Small‐Diameter Vascular Graft by Shape-Memory and Self-Rolling Bacterial Cellulose Membrane</a>. <b>Advanced Healthcare Materials</b> 6, 1601343 (2017)</p>
+<li><p>Y. Li, K. Jiang, J. Feng, J. Liu, R. Huang, Z. Chen, J. Yang, <u>Z. Dai</u>, Y. Chen, N. Wang, W. Zhang, W. Zheng*, G. Yang*, X. Jiang*. <a href="https://doi.org/10.1002/adhm.201601343" style="text-decoration:none;color:Blue;">Construction of Small‐Diameter Vascular Graft by Shape-Memory and Self-Rolling Bacterial Cellulose Membrane</a>. <b>Advanced Healthcare Materials</b> 6, 1601343 (2017)</p></li>
 
-14. <p>Q. Wu, <u>Z. Dai</u>, Y. Su*, A. A. Volinsky*, L. Liu, Z. Zhang. <a href="https://doi.org/10.1016/j.carbon.2017.02.022" style="text-decoration:none;color:Blue;">Cyclic microbridge testing of graphene oxide membrane</a>. <b>Carbon</b> 116, 479 (2017)</p>
+<li><p>Q. Wu, <u>Z. Dai</u>, Y. Su*, A. A. Volinsky*, L. Liu, Z. Zhang. <a href="https://doi.org/10.1016/j.carbon.2017.02.022" style="text-decoration:none;color:Blue;">Cyclic microbridge testing of graphene oxide membrane</a>. <b>Carbon</b> 116, 479 (2017)</p></li>
 
 <h3>Before 2016</h3>
 
-13. <p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:Blue;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016)</p>
-<div style="text-align: center;"><img src="/images/publications/16.jpg" width="500"></div>
+<li><p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:Blue;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016)</p>
+<div style="text-align: center;"><img src="/images/publications/16.jpg" width="500"></div></li>
 
-12. <p><u>Z. Dai</u>, C. Weng, L. Liu*, X. Zhao, J. Kuang, Y. Hou, J. Shi, Y. Wei, J. Lou*, Z. Zhang*. <a href="https://doi.org/10.1038/srep32989" style="text-decoration:none;color:Blue;">Multifunctional Polymer-Based Graphene Foams with Buckled Structure and Negative Poisson’s Ratio</a>. <b>Scientific Reports</b> 6, 32989 (2016)</p>
-<div style="text-align: center;"><img src="/images/publications/15.jpg" width="500"></div><br>
+<li><p><u>Z. Dai</u>, C. Weng, L. Liu*, X. Zhao, J. Kuang, Y. Hou, J. Shi, Y. Wei, J. Lou*, Z. Zhang*. <a href="https://doi.org/10.1038/srep32989" style="text-decoration:none;color:Blue;">Multifunctional Polymer-Based Graphene Foams with Buckled Structure and Negative Poisson’s Ratio</a>. <b>Scientific Reports</b> 6, 32989 (2016)</p>
+<div style="text-align: center;"><img src="/images/publications/15.jpg" width="500"></div></li>
 
-11. <p><u>Z. Dai</u>, Y. Wang, L. Liu*, X. Liu, P. Tan, Z. Xu*, J. Kuang, Q. Liu, J. Lou, Z. Zhang*. <a href="https://doi.org/10.1002/adfm.201503917" style="text-decoration:none;color:Blue;">Hierarchical Graphene Based Films with Dynamic Self-stiffening for Biomimetic Artificial Muscle</a>. <b>Advanced Functional Materials</b> 26, 7003 (2016)</p>
-<div style="text-align: center;"><img src="/images/publications/14.jpg" width="500"></div><br>
+<li><p><u>Z. Dai</u>, Y. Wang, L. Liu*, X. Liu, P. Tan, Z. Xu*, J. Kuang, Q. Liu, J. Lou, Z. Zhang*. <a href="https://doi.org/10.1002/adfm.201503917" style="text-decoration:none;color:Blue;">Hierarchical Graphene Based Films with Dynamic Self-stiffening for Biomimetic Artificial Muscle</a>. <b>Advanced Functional Materials</b> 26, 7003 (2016)</p>
+<div style="text-align: center;"><img src="/images/publications/14.jpg" width="500"></div></li>
 
-10. <p><u>Z. Dai</u>, L. Liu*, J. Kuang, Y. Wei, H. Zhu*, Z. Zhang*. <a href="https://doi.org/10.1038/srep18930" style="text-decoration:none;color:Blue;">Three-dimensional Sponges with Super Mechanical Stability: Harnessing True Elasticity of Individual Carbon Nanotubes in Macroscopic Architectures</a>. <b>Scientific Reports</b> 6, 18930 (2016)</p>
-<div style="text-align: center;"><img src="/images/publications/13.jpg" width="500"></div><br>
+<li><p><u>Z. Dai</u>, L. Liu*, J. Kuang, Y. Wei, H. Zhu*, Z. Zhang*. <a href="https://doi.org/10.1038/srep18930" style="text-decoration:none;color:Blue;">Three-dimensional Sponges with Super Mechanical Stability: Harnessing True Elasticity of Individual Carbon Nanotubes in Macroscopic Architectures</a>. <b>Scientific Reports</b> 6, 18930 (2016)</p>
+<div style="text-align: center;"><img src="/images/publications/13.jpg" width="500"></div></li>
 
-9. <p>G. Wang, <u>Z. Dai</u>, L. Liu*, H. Hu, Q. Dai*, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.6b03069" style="text-decoration:none;color:Blue;">Tuning the Interfacial Mechanical Behaviors of Monolayer Graphene/PMMA Nanocomposites</a>. <b>ACS Applied Materials & Interfaces</b> 8, 22554 (2016)</p>
+<li><p>G. Wang, <u>Z. Dai</u>, L. Liu*, H. Hu, Q. Dai*, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.6b03069" style="text-decoration:none;color:Blue;">Tuning the Interfacial Mechanical Behaviors of Monolayer Graphene/PMMA Nanocomposites</a>. <b>ACS Applied Materials & Interfaces</b> 8, 22554 (2016)</p></li>
 
-8. <p>W. Feng, W. Zhou, <u>Z. Dai</u>, A. Yasina, H. Yang*. <a href="https://doi.org/10.1039/C5TB02737C" style="text-decoration:none;color:Blue;">Tough Polypseudorotaxane Supramolecular Hydrogel with Dual-responsive Shape Memory Property</a>. <b>Journal of Materials Chemistry B</b> 4, 1924 (2016)</p>
+<li><p>W. Feng, W. Zhou, <u>Z. Dai</u>, A. Yasina, H. Yang*. <a href="https://doi.org/10.1039/C5TB02737C" style="text-decoration:none;color:Blue;">Tough Polypseudorotaxane Supramolecular Hydrogel with Dual-responsive Shape Memory Property</a>. <b>Journal of Materials Chemistry B</b> 4, 1924 (2016)</p></li>
 
-7. <p>J. Shi, X. Li*, H. Cheng, Z. Liu, L. Zhao, T. Yang, <u>Z. Dai</u>, Z. Cheng, L. Yang, E. Shi, M. Du, Z. Zhang, A. Cao, H. Zhu*, Y. Fang*. <a href="https://doi.org/10.1002/adfm.201504804" style="text-decoration:none;color:Blue;">Graphene Reinforced Carbon Nanotube Networks for Wearable Strain Sensors</a>. <b>Advanced Functional Materials</b> 26, 2078 (2016)</p>
+<li><p>J. Shi, X. Li*, H. Cheng, Z. Liu, L. Zhao, T. Yang, <u>Z. Dai</u>, Z. Cheng, L. Yang, E. Shi, M. Du, Z. Zhang, A. Cao, H. Zhu*, Y. Fang*. <a href="https://doi.org/10.1002/adfm.201504804" style="text-decoration:none;color:Blue;">Graphene Reinforced Carbon Nanotube Networks for Wearable Strain Sensors</a>. <b>Advanced Functional Materials</b> 26, 2078 (2016)</p></li>
 
 <li><p>J. Kuang, <u>Z. Dai</u>, L. Liu*, Z. Yang, M. Jin, Z. Zhang*. <a href="https://doi.org/10.1039/C5NR00841G" style="text-decoration:none;color:Blue;">Synergistic effects from graphene and carbon nanotubes endow ordered hierarchical structure foams with a combination of compressibility, super-elasticity and stability and potential application as pressure sensors</a>. <b>Nanoscale</b> 7, 9252 (2015)</p>
 <p style="text-align:center;"><img src="/images/publications/9.jpg" width="300"></p></li>
@@ -108,13 +109,12 @@ author_profile: false
 <li><p><u>Z. Dai</u>, Y. Gao, L. Liu*, P. Pötschke, J. Yang, Z. Zhang*. <a href="https://doi.org/10.1016/j.polymer.2013.05.013" style="text-decoration:none;color:Blue;">Creep-resistant behavior of MWCNT-polycarbonate melt spun nanocomposite fibers at elevated temperature</a>. <b>Polymer</b> 54, 3723 (2013)</p>
 <div style="text-align: center;"><img src="/images/publications/1.png" width="500"></div><br></li>
 
-</ol>
+
 <h3>Other writings</h3>
 
-3. <p>Y. Li, G. Wang, <u>Z. Dai</u>, Y. Hou, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-19-037" style="text-decoration:none;color:Blue;">Measurement of Young’s Modulus of 2D Materials Through in situ Through-Hole Bubble Tests</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-19-037 (2019)</p>
+<li><p>Y. Li, G. Wang, <u>Z. Dai</u>, Y. Hou, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-19-037" style="text-decoration:none;color:Blue;">Measurement of Young’s Modulus of 2D Materials Through in situ Through-Hole Bubble Tests</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-19-037 (2019)</p></li>
 
-2. <p>J. Xiao, G. Wang, <u>Z. Dai</u>, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-18-061" style="text-decoration:none;color:Blue;">Nanoindentation of Multilayer Two-dimensional Materials: An Experimental Study</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-18-061 (2018)</p>
+<li><p>J. Xiao, G. Wang, <u>Z. Dai</u>, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-18-061" style="text-decoration:none;color:Blue;">Nanoindentation of Multilayer Two-dimensional Materials: An Experimental Study</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-18-061 (2018)</p></li>
 
-1. <p>H. Jeong, T. Ha, I. Kuang, L. Shen, <u>Z. Dai</u>, N. Sun, N. Lu*. <a href="https://doi.org/10.1109/EMBC.2017.8037756" style="text-decoration:none;color:Blue;">NFC-Enabled, Tattoo-Like Stretchable Biosensor Manufactured by “Cut-and-Paste” Method</a>. <b>IEEE Engineering in Medicine and Biology Society</b> DOI: 10.1109/EMBC.2017.8037756 (2017)</p>
-
-
+<li><p>H. Jeong, T. Ha, I. Kuang, L. Shen, <u>Z. Dai</u>, N. Sun, N. Lu*. <a href="https://doi.org/10.1109/EMBC.2017.8037756" style="text-decoration:none;color:Blue;">NFC-Enabled, Tattoo-Like Stretchable Biosensor Manufactured by “Cut-and-Paste” Method</a>. <b>IEEE Engineering in Medicine and Biology Society</b> DOI: 10.1109/EMBC.2017.8037756 (2017)</p></li>
+</ol>
