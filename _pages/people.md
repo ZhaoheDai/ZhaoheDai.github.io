@@ -7,6 +7,8 @@ author_profile: false
 
 {% include base_path %}
 
+<table class="big"  width="1200" cellpadding="13" cellspacing="13">
+
 ## 课题组负责人   Principal Investigator
   
 * 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="text-decoration:none;color:red;"> CV</a>
