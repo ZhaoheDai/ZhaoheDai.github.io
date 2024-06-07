@@ -95,6 +95,7 @@ author_profile: false
 6. <p>J. Kuang, <u>Z. Dai</u>, L. Liu*, Z. Yang, M. Jin, Z. Zhang*. <a href="https://doi.org/10.1039/C5NR00841G" style="text-decoration:none;color:Blue;">Synergistic effects from graphene and carbon nanotubes endow ordered hierarchical structure foams with a combination of compressibility, super-elasticity and stability and potential application as pressure sensors</a>. <b>Nanoscale</b> 7, 9252 (2015)</p>
 <p style="text-align:center;"><img src="/images/publications/9.jpg" width="300"></p>
 
+<ol start="3">
 5. <p>G. Wang, L. Liu*, <u>Z. Dai</u>, Q. Liu, H. Miao, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2015.01.022" style="text-decoration:none;color:Blue;">Biaxial Compressive Behavior of Embedded Monolayer Graphene inside Flexible Poly (methyl methacrylate) Matrix</a>. <b>Carbon</b> 86, 69 (2015)</p>
 
 4. <p>Q. Liu, L. Liu*, K. Xie, Y. Meng, H. Wu, G. Wang, <u>Z. Dai</u>, Z. Wei, Z. Zhang*. <a href="https://doi.org/10.1039/C5TA00669D" style="text-decoration:none;color:Blue;">Synergistic effect of ar-GO/PANI nanocomposite electrode based air working ionic actuator with a large actuation stroke and long-term durability</a>. <b>Journal of Materials Chemistry A</b> 3, 8380 (2015)</p>
@@ -105,7 +106,7 @@ author_profile: false
 
 1. <p><u>Z. Dai</u>, Y. Gao, L. Liu*, P. Pötschke, J. Yang, Z. Zhang*. <a href="https://doi.org/10.1016/j.polymer.2013.05.013" style="text-decoration:none;color:Blue;">Creep-resistant behavior of MWCNT-polycarbonate melt spun nanocomposite fibers at elevated temperature</a>. <b>Polymer</b> 54, 3723 (2013)</p>
 <div style="text-align: center;"><img src="/images/publications/1.png" width="500"></div><br>
-
+</ol>
 
 <h3>Other writings</h3>
 
