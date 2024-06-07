@@ -20,6 +20,36 @@ author_profile: false
 
 * 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
 
+<table class="fixedl" align=leftr>
+  <tr><td>  <p><b><a href="http://www.damtp.cam.ac.uk/people/mcg57/">Michael Gomez</a></b></p></td>
+<td><p>2014</p></td>
+  <td><p>Flow-induced snap-through</p></td>
+</tr>
+  <tr><td>  <p><b>Andreas Hadjittofis</b></p></td>
+<td><p>2014</p></td>
+  <td><p>Dynamic models of elastocapillary aggregation</p></td>
+</tr>
+  <tr><td>  <p><b><a href="https://www.maths.ox.ac.uk/people/doireann.okiely">Doireann O'Kiely</a></b></p></td>
+<td><p>2013</p></td>
+  <td><p>Onset of menisci</p></td>
+  </tr>
+  <tr><td>  <p><b>Huaqi Wang</b></p></td>
+<td><p>2015</p></td>
+  <td><p>Analysis of floating drops</p></td>
+</tr>
+
+  <tr><td>  <p><b>Jessica Williams</b></p></td>
+<td><p>2015</p></td>
+  <td><p>Indentation of a floating film: the role of elasticity and incompressibility</p></td>
+</tr>
+
+  <tr><td>  <p><b><a href="https://www.maths.ox.ac.uk/people/clint.wong">Clint Wong</a></b></p></td>
+<td><p>2016</p></td>
+  <td><p>Drops at deformable interfaces</p></td>
+</tr>
+
+</table>
+
 
 ## 博士研究生 Graduate Students
 
