@@ -6,20 +6,29 @@ author_profile: false
 
 {% include base_path %}
 
-<img src='/images/bio-photo.jpg' width="200"><br>
-## Dr. Yin Zhang 张寅
-<a href="/cv/">Full CV</a>
+## 课题组负责人   Principal Investigator
+
+     戴兆贺          Zhaohe Dai
 
 
-### Education
-* 2011.08-2015.07 &emsp;B.S. in Theoretical and Applied Mechanics, Peking University <br>Advisor: Prof. Huiling Duan
-* 2015.08-2021.08 &emsp;Ph.D in Mechanical Engineering, Georgia Institute of Technology <br>Advisor: Prof. Ting Zhu
+## 博士后 Post-Docs
 
-### Experience
-* 2021.09-2023.01 &emsp;Postdoctoral Associate, Massachusetts Institute of Technology <br>Advisor: Prof. Ju Li
-* 2023.03-now &emsp;&emsp;&ensp;Assistant Professor, Peking University
+  2022.07-present &emsp 李航      Hang Li is working on elastocapillarity and elastocaloric materials.
 
-{% for post in site.people %}
-  {% include archive-single.html %}
-{% endfor %}
+  2023.07-present &emsp 李居曜    Juyao Li is working on elastocalorics and morphing based on thin plates.
+
+  2024.07-present &emsp 王文祥    Wenxiang is working on strain engineering in multifunctional 2D devices.
+
+
+## 博士生 Graduate Students
+
+  2022.09-present &emsp 于川立    Chuanli Yu is working on the metrology of surface/interface energies/stresses.
+
+  2022.12-present &emsp 郑婉莹    Wanying Zheng is working on the elastocapillarity of thin elastic solids.
+
+  2023.09-present &emsp 陈尔腾    Erteng Chen is working on pulling and pushing of adhesive nanostructures.
+
+  2023.09-present &emsp 曾维嘉    Weijia Zeng is working on adhesion of slender structures (co-advised with Prof. Y. Wei).
+
+  2024.09-present &emsp 曹嘉聪    Jiacong Cao is working on the computational mechanics of elastic membranes.
 
