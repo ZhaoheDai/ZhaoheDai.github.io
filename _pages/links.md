@@ -36,18 +36,24 @@ redirect_from:
 	<a href="https://asmedigitalcollection.asme.org/appliedmechanics">Journal of Applied Mechanics</a><br> 
 	<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics">Journal of Fluid Mechanics</a><br> 
 	<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids">Journal of the Mechanics and Physics of Solids</a><br> 
-	<a href="https://journals.aps.org/prfluids/">Physical Review Fluids</a><br> 
 </p>
 
 
 <h3>Applied Physics</h3>
 
 <p style="text-align:left;">
-<a href="https://royalsocietypublishing.org/journal/rspa" style="text-decoration:none;color:IndianRed;">Proceeding of Royal Society A</a>
 <a href="https://www.nature.com/nphys/">Nature Physics</a><br>
-<a href="https://pubs.rsc.org/en/journals/journalissues/sm#!recentarticles">Soft Matter</a>
+<a href="https://pubs.rsc.org/en/journals/journalissues/sm#!recentarticles">Soft Matter</a><br> 
 <a href="https://pubs.acs.org/journal/langd5">Langmuir</a><br>
 <a href="https://journals.aps.org/prl/">Physical Review Letters</a><br>
+<a href="https://journals.aps.org/prfluids/">Physical Review Fluids</a><br> 
+<a href="https://royalsocietypublishing.org/journal/rspa">Proceeding of Royal Society A</a><br> 
+<a href="https://www.cell.com/matter/newarticles">Matter</a>
+<br>
+<a href="https://www.nature.com/ncomms/">Nature Communications</a>
+<br>
+<a href="https://www.pnas.org/">Proceedings of the National Academy of Sciences</a>
+<br>
 </p>
 
 
@@ -67,39 +73,7 @@ redirect_from:
 </p>
 
 
-<br>
-<a href="https://arxiv.org/list/cond-mat/new"><strong>Mechanics-focused</strong></a>
-<br>
-<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters">Extreme Mechanics Letters</a>
-<br>
-<a href="https://www.springer.com/journal/10704">International Journal of Fracture</a>
-<br>
-<a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences">International Journal of Mechanical Sciences</a>
-<br>
-<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science">International Journal of Engineering Science</a>
-<br>
-<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures">International Journal of Solids and Structures</a>
-<br>
-<a href="https://asmedigitalcollection.asme.org/appliedmechanics">Journal of Applied Mechanics</a>
-<br>
-<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics">Journal of Fluid Mechanics</a>
-<br>
-<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids">Journal of the Mechanics and Physics of Solids</a>
-<br>
-<a href="https://journals.aps.org/prfluids/">Physical Review Fluids</a>
-<br>
-<a href="https://royalsocietypublishing.org/journal/rspa">Proceedings of Royal Society A</a>
-<br>
-<b>Interdisciplinary</b>
-<br>
-<a href="https://www.cell.com/matter/newarticles">Matter</a>
-<br>
-<a href="https://www.nature.com/ncomms/">Nature Communications</a>
-<br>
-<a href="https://www.pnas.org/">Proceedings of the National Academy of Sciences</a>
-<br>
-<b>Reviews</b>
-<br>
+<h3>Reviews</h3>
 <a href="https://www.annualreviews.org/journal/conmatphys">Annual Review of Condensed Matter Physics</a>
 <br>
 <a href="https://www.annualreviews.org/journal/fluid">Annual Review of Fluid Mechanics</a>
