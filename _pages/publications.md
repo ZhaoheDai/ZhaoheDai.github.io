@@ -19,6 +19,22 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 <br>
 <h3>2024</h3>
 
+<h3>2017</h3>
+
+<p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017)</p>
+Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg.
+<p>G. Wang, X. Li, Y. Wang, Z. Zheng, <u>Z. Dai</u>, X. Qi, L. Liu*, Z. Cheng, Z. Xu, P. Tan*, Z. Zhang*. <a href="https://doi.org/10.1021/acs.jpcc.7b05771" style="text-decoration:none;color:Blue;">Interlayer Coupling Behaviors of Boron Doped Multilayer Graphene</a>. <b>Journal of Physical Chemistry</b> 121, 26034 (2017)</p>
+
+<p>J. Shi, J. Hu, <u>Z. Dai</u>, W. Zhao, P. Liu, L. Zhao, Y. Guo, T. Yang, L. Zou, K. Jiang, H. Li*, Y. Fang*. <a href="https://doi.org/10.1016/j.carbon.2017.08.006" style="text-decoration:none;color:Blue;">Graphene Welded Carbon Nanotube Crossbars for Biaxial Strain Sensors</a>. <b>Carbon</b> 123, 786 (2017)</p>
+
+<p>Y. Hou, Y. Zhu, X. Liu, <u>Z. Dai</u>, L. Liu, H. Wu*, Z. Zhang*. <a href="https://doi.org/10.1088/1361-6463/aa7fd4" style="text-decoration:none;color:Blue;">Elastic-plastic properties of graphene engineered by oxygen functional groups</a>. <b>Journal of Physics D Applied Physics</b> 50, 385305 (2017)</p>
+
+<p>G. Wang, E. Gao, <u>Z. Dai</u>, L. Liu*, Z. Xu*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2017.06.004" style="text-decoration:none;color:Blue;">Degradation and recovery of graphene/polymer interfaces under cyclic mechanical loading</a>. <b>Composites Science and Technology</b> 149, 220 (2017)</p>
+
+<p>Y. Li, K. Jiang, J. Feng, J. Liu, R. Huang, Z. Chen, J. Yang, <u>Z. Dai</u>, Y. Chen, N. Wang, W. Zhang, W. Zheng*, G. Yang*, X. Jiang*. <a href="https://doi.org/10.1002/adhm.201601343" style="text-decoration:none;color:Blue;">Construction of Small‐Diameter Vascular Graft by Shape-Memory and Self-Rolling Bacterial Cellulose Membrane</a>. <b>Advanced Healthcare Materials</b> 6, 1601343 (2017)</p>
+
+<p>Q. Wu, <u>Z. Dai</u>, Y. Su*, A. A. Volinsky*, L. Liu, Z. Zhang. <a href="https://doi.org/10.1016/j.carbon.2017.02.022" style="text-decoration:none;color:Blue;">Cyclic microbridge testing of graphene oxide membrane</a>. <b>Carbon</b> 116, 479 (2017)</p>
+
 <h3>Before 2016</h3>
 
 <p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:Blue;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016)</p>
