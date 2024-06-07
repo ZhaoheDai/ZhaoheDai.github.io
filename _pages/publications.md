@@ -100,7 +100,6 @@ author_profile: false
 <h3>2019</h3>
 
 <li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019) <font color="Gold">ESI high cited paper</font> <font color="IndianRed">Highlighted as an Editors' Suggestion, featured on the journal <a href="https://journals.aps.org/prl/issues/123/11" style="color:IndianRed;">cover</a> and by news media <a href="https://www.cambridge.org/core/journals/mrs-bulletin/news/interlayer-shear-determines-bending-rigidity-in-van-der-waals-materials" style="color:IndianRed;">MRS News</a></font> </p></li>
-.
 
 <li><p><u>Z. Dai</u><sup>†</sup>, G. Wang<sup>†</sup>, Z. Zheng, Y. Wang, S. Zhang, X. Qi, P. Tan, L. Liu*, Z. Xu, Q. Li, Z. Cheng*, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2019.03.014" style="text-decoration:none;color:Blue;">Mechanical Responses of Boron-doped Monolayer Graphene</a>. <b>Carbon</b> 147, 594 (2019)</p></li>
 
@@ -199,4 +198,4 @@ author_profile: false
 <li><p>J. Xiao, G. Wang, <u>Z. Dai</u>, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-18-061" style="text-decoration:none;color:Blue;">Nanoindentation of Multilayer Two-dimensional Materials: An Experimental Study</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-18-061 (2018)</p></li>
 
 <li><p>H. Jeong, T. Ha, I. Kuang, L. Shen, <u>Z. Dai</u>, N. Sun, N. Lu*. <a href="https://doi.org/10.1109/EMBC.2017.8037756" style="text-decoration:none;color:Blue;">NFC-Enabled, Tattoo-Like Stretchable Biosensor Manufactured by “Cut-and-Paste” Method</a>. <b>IEEE Engineering in Medicine and Biology Society</b> DOI: 10.1109/EMBC.2017.8037756 (2017)</p></li>
-</ol>
+
