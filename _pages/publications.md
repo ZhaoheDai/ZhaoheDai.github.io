@@ -73,14 +73,14 @@ author_profile: false
 
 <li><p>W. Li, L. Zhao, <u>Z. Dai</u>, H. Jin*, F. Duan, Z. Zeng, Z. Zhang*. <a href="https://doi.org/10.1007/s12274-018-1973-4" style="text-decoration:none;color:Blue;">A temperature-activated nanocomposite metamaterial absorber with a wide tunability</a>. <b>Nano Research</b> 11, 3931 (2018)</p></li>
 
-<li><p>M. Choi<sup>†</sup>, J. Yang<sup>†</sup>, D. Kim<sup>†</sup>, <u>Z. Dai</u>, J. Kim, H. Seung, V. Kale, N. Lu, T. Hyeon*, D. Kim*. <a href="https://doi.org/10.1002/adma.201703279" style="text-decoration:none;color:Blue;">Extremely vivid transparent light-emitting diodes based on quantum dots</a>. <b>Advanced Materials</b> 30, 1703279 (2018)
-*  Highlighted by Advanced Science News.</p></li>
+<li><p>M. Choi<sup>†</sup>, J. Yang<sup>†</sup>, D. Kim<sup>†</sup>, <u>Z. Dai</u>, J. Kim, H. Seung, V. Kale, N. Lu, T. Hyeon*, D. Kim*. <a href="https://doi.org/10.1002/adma.201703279" style="text-decoration:none;color:Blue;">Extremely vivid transparent light-emitting diodes based on quantum dots</a>. <b>Advanced Materials</b> 30, 1703279 (2018)</p>
+*  Highlighted by Advanced Science News.</li>
 
 <br>
 <h3>2017</h3>
 
-<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017)
-*  Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, and Nanotechweb (see <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Altmetric</a>).</p></li>
+<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017)</p>
+*  Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, and Nanotechweb (see <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Altmetric</a>).</li>
 
 <li><p>G. Wang, X. Li, Y. Wang, Z. Zheng, <u>Z. Dai</u>, X. Qi, L. Liu*, Z. Cheng, Z. Xu, P. Tan*, Z. Zhang*. <a href="https://doi.org/10.1021/acs.jpcc.7b05771" style="text-decoration:none;color:Blue;">Interlayer Coupling Behaviors of Boron Doped Multilayer Graphene</a>. <b>Journal of Physical Chemistry</b> 121, 26034 (2017)</p></li>
 
@@ -94,6 +94,7 @@ author_profile: false
 
 <li><p>Q. Wu, <u>Z. Dai</u>, Y. Su*, A. A. Volinsky*, L. Liu, Z. Zhang. <a href="https://doi.org/10.1016/j.carbon.2017.02.022" style="text-decoration:none;color:Blue;">Cyclic microbridge testing of graphene oxide membrane</a>. <b>Carbon</b> 116, 479 (2017)</p></li>
 
+<br>
 <h3>Before 2016</h3>
 
 <li><p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:Blue;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016)</p>
