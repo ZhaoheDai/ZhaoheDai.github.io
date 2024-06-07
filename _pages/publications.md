@@ -6,7 +6,7 @@ author_profile: false
 ---
 <h3>Cover Gallary</h3>
 <table border=0>
-  <tr><td width=50 ><img src="/images/publications/Cover_2024NL.png" width="50"></div><div><img src="/images/publications/Cover_2024_AIS.png" width="50"></div><div><img src="/images/publications/Cover_2023NL.jpg" width="50"></td></tr>
+  <tr><td width=50 ><img src="/images/publications/Cover_2024NL.png" width="50"></td><td width=50><img src="/images/publications/Cover_2024_AIS.png" width="50"></td><td width=50><img src="/images/publications/Cover_2023NL.jpg" width="50"></td></tr>
 </table>
 <br>
 <br>
