@@ -38,6 +38,26 @@ author_profile: false
 <br>
 <h3>2019</h3>
 
+<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)</p>
+*  Highlighted as an Editors' Suggestion, featured on the journal Cover and by news media MRS News.</li>
+
+<li><p><u>Z. Dai</u><sup>†</sup>, G. Wang<sup>†</sup>, Z. Zheng, Y. Wang, S. Zhang, X. Qi, P. Tan, L. Liu*, Z. Xu, Q. Li, Z. Cheng*, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2019.03.014" style="text-decoration:none;color:Blue;">Mechanical Responses of Boron-doped Monolayer Graphene</a>. <b>Carbon</b> 147, 594 (2019)</p></li>
+
+<li><p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:Blue;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019)</p>
+*  ESI highly cited paper; Selected as the journal Frontispiece.</li>
+
+<li><p>C. Weng, G. Wang, <u>Z. Dai</u>, Y. Pei, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1039/C9NR07988B" style="text-decoration:none;color:Blue;">Buckled AgNW/MXene Hybrid Hierarchical Sponges for High-Performance Electromagnetic Interference Shielding</a>. <b>Nanoscale</b> 11, 22804 (2019)</p></li>
+
+<li><p>J. Shi, S. Lv, L. Wang, <u>Z. Dai</u>, S. Yang, L. Zhao, H. Tian, M. Du, H. Li*, Y. Fang*. <a href="https://doi.org/10.1002/admi.201901223" style="text-decoration:none;color:Blue;">Crack Control in Biotemplated Gold Films for Wide-range, Highly Sensitive Strain Sensing</a>. <b>Advanced Materials Interfaces</b> 6, 1901223 (2019)</p></li>
+
+<li><p>H. Jeong, L. Wang, T. Ha, R. Mitbander, X. Yang, <u>Z. Dai</u>, L. Shen, N. Sun, N. Lu*. <a href="https://doi.org/10.1002/admt.201900117" style="text-decoration:none;color:Blue;">Modular and Reconfigurable Wireless E-Tattoos for Personalized Sensing</a>. <b>Advanced Materials Technologies</b> 1900117 (2019)</p></li>
+
+<li><p>X. Yang, Y. Huang, <u>Z. Dai</u>, J. Barber, P. Wang, N. Lu*. <a href="https://doi.org/10.1007/s11431-018-9400-9" style="text-decoration:none;color:Blue;">“Cut-and-Paste” Method for the Rapid Prototyping of Soft Electronics</a>. <b>Science China Technological Sciences</b> 62, 199 (2019)</p></li>
+
+<li><p>C. Weng, <u>Z. Dai</u>, G. Wang, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.8b19890" style="text-decoration:none;color:Blue;">Elastomer-Free, Stretchable and Conformable Silver Nanowire Conductors Enabled by 3D Buckled Microstructures</a>. <b>ACS Applied Materials & Interfaces</b> 11, 6541 (2019)</p></li>
+
+<li><p>L. Zhao, J. Zhao*, C. Zhang, Y. Liu, J. Shi, <u>Z. Dai</u>, Y. Guo, B. Li, H. Zhang, X. Feng, J. Zhang, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.8b19890" style="text-decoration:none;color:Blue;">Hierarchical Surface Patterns Tuned by Shape Memory Polymers</a>. <b>ACS Applied Materials & Interfaces</b> 11, 1563 (2019)</p></li>
+
 <br>
 <h3>2018</h3>
 <li><p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018)<br>
