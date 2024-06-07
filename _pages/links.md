@@ -7,31 +7,36 @@ redirect_from:
 ---
 <h3>PKU</h3>
 
-<p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:IndianRed;">北大校内信息</a> <a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#0C5EF0;">北大邮箱</a> 
+
+<p style="text-align:left;"> 
+	<a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:IndianRed;">北大校内信息</a> 
+	<a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#0C5EF0;">北大邮箱</a> 
+	<a href="https://arxiv.org/list/cond-mat/new" style="text-decoration:none;color:IndianRed;">arxiv</a>
+	<a href="https://shellbuckling.com/presentations/softShellsMembranes/index.html" style="text-decoration:none;color:#0C5EF0;">Shells and Membranes</a>
+	<a href="http://imechanica.org/" style="text-decoration:none;color:IndianRed;">imechanica</a><br> 
+
 
 <h3>Other links</h3>
 <p style="text-align:left;"> 
-<a href="https://arxiv.org/list/cond-mat/new" style="text-decoration:none;color:IndianRed;">arxiv</a>
-<a href="https://shellbuckling.com/presentations/softShellsMembranes/index.html" style="text-decoration:none;color:#0C5EF0;">Soft shells and membranes</a>
-<a href="http://imechanica.org/" style="text-decoration:none;color:IndianRed;">imechanica</a><br>
 <a href="https://sites.utexas.edu/ruihuang/" style="text-decoration:none;color:IndianRed;">Huang group</a>
 <a href="https://sites.utexas.edu/nanshulu/" style="text-decoration:none;color:#0C5EF0;">Lu group</a>
 <a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:IndianRed;">Vella group</a>
 <a href="https://www.mathgenealogy.org/id.php?id=269836" style="text-decoration:none;color:#0C5EF0;">Mathematics Genealogy</a>
 </p>
 
+
 <h3>Applied Mechanics</h3>
 
 <p style="text-align:left;">
-	<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters" style="text-decoration:none;color:IndianRed;">Extreme Mechanics Letters</a> 
-	<a href="https://www.springer.com/journal/10704" style="text-decoration:none;color:IndianRed;">International Journal of Fracture</a> 
-	<a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences" style="text-decoration:none;color:IndianRed;">International Journal of Mechanical Sciences</a>
-	<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science" style="text-decoration:none;color:IndianRed;">International Journal of Engineering Science</a>
-	<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures" style="text-decoration:none;color:IndianRed;">International Journal of Solids and Structures</a>
-	<a href="https://asmedigitalcollection.asme.org/appliedmechanics" style="text-decoration:none;color:IndianRed;">Journal of Applied Mechanics</a>
-	<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics" style="text-decoration:none;color:IndianRed;">Journal of Fluid Mechanics</a>
-	<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids" style="text-decoration:none;color:IndianRed;">Journal of the Mechanics and Physics of Solids</a>
-	<a href="https://journals.aps.org/prfluids/" style="text-decoration:none;color:IndianRed;">Physical Review Fluids</a>
+	<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters">Extreme Mechanics Letters</a><br> 
+	<a href="https://www.springer.com/journal/10704">International Journal of Fracture</a><br> 
+	<a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences">International Journal of Mechanical Sciences</a><br> 
+	<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science" >International Journal of Engineering Science</a><br> 
+	<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures">International Journal of Solids and Structures</a><br> 
+	<a href="https://asmedigitalcollection.asme.org/appliedmechanics">Journal of Applied Mechanics</a><br> 
+	<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics">Journal of Fluid Mechanics</a><br> 
+	<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids">Journal of the Mechanics and Physics of Solids</a><br> 
+	<a href="https://journals.aps.org/prfluids/">Physical Review Fluids</a><br> 
 </p>
 
 
