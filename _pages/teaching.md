@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
+title: "<h2>Teaching</h2>"
 permalink: /teaching/
 author_profile: false
 ---
 
-## 本科生课程：断裂力学 Fracture mechanics
+<h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
-<b>开课时间</b>：2024春 
+* <b>开课时间</b>：2024春 
 <b>教学方式</b>：板书授课
 课程类别：专业限选课
 课程学分：3 

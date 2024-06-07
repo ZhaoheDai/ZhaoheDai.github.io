@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Links"
+title: "<h2>Links</h2>"
 permalink: /links/
 author_profile: true
 redirect_from: 
