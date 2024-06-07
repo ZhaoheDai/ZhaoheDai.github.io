@@ -38,6 +38,21 @@ author_profile: false
 
 <br>
 <h3>2018</h3>
+27. <p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018)<br>
+*  Highlighted as an Editors' Suggestion, featured on the Journal Cover.</p>
+
+26. <p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:Blue;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018)</p>
+
+25. <p>Y. Chen, <u>Z. Dai</u>, C. Weng, G. Wang, Y. Hou, X. Liu, X. Cong, P. Tan, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1039/C8RA07974A" style="text-decoration:none;color:Blue;">Engineering the Interface in Mechanically Responsive Graphene-Based Films</a>. <b>RSC Advances</b> 8, 36257 (2018)</p>
+
+24. <p>J. Shi, L. Wang, <u>Z. Dai</u>, L. Zhao, M. Du, H. Li*, Y. Fang*. <a href="https://doi.org/10.1002/smll.201800819" style="text-decoration:none;color:Blue;">Multiscale Hierarchical Design of a Flexible Piezoresistive Pressure Sensor with High Sensitivity and Wide Linearity Range</a>. <b>Small</b> 14, 1800819 (2018)</p>
+
+23. <p>Y. Wang, Y. Qiu, S. K. Ameri, H. Jang, <u>Z. Dai</u>, Y. Huang*, N. Lu*. <a href="https://doi.org/10.1038/s41528-017-0019-4" style="text-decoration:none;color:Blue;">Low-cost, μm-thick, tape-free electronic tattoo sensors with minimized motion and sweat artifacts</a>. <b>npj Flexible Electronics</b> 2, 6 (2018)</p>
+
+22. <p>W. Li, L. Zhao, <u>Z. Dai</u>, H. Jin*, F. Duan, Z. Zeng, Z. Zhang*. <a href="https://doi.org/10.1007/s12274-018-1973-4" style="text-decoration:none;color:Blue;">A temperature-activated nanocomposite metamaterial absorber with a wide tunability</a>. <b>Nano Research</b> 11, 3931 (2018)</p>
+
+21. <p>M. Choi<sup>†</sup>, J. Yang<sup>†</sup>, D. Kim<sup>†</sup>, <u>Z. Dai</u>, J. Kim, H. Seung, V. Kale, N. Lu, T. Hyeon*, D. Kim*. <a href="https://doi.org/10.1002/adma.201703279" style="text-decoration:none;color:Blue;">Extremely vivid transparent light-emitting diodes based on quantum dots</a>. <b>Advanced Materials</b> 30, 1703279 (2018)<br>
+*  Highlighted by Advanced Science News.</p>
 
 <br>
 <h3>2017</h3>
