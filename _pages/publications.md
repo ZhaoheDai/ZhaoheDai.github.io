@@ -43,6 +43,8 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 1. <p><u>Z. Dai</u>, Y. Gao, L. Liu*, P. Pötschke, J. Yang, Z. Zhang*. <a href="https://doi.org/10.1016/j.polymer.2013.05.013" style="text-decoration:none;color:Blue;">Creep-resistant behavior of MWCNT-polycarbonate melt spun nanocomposite fibers at elevated temperature</a>. <b>Polymer</b> 54, 3723 (2013)</p>
 
+<div style="text-align: center;"><img src="/images/publications/1.png" width="300"></div><br>
+
 
 <h3>Other writings</h3>
 
