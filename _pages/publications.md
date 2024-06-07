@@ -58,7 +58,7 @@ author_profile: false
 <br>
 <h3>2022</h3>
 
-<li><p><u>Z. Dai</u>, Y. Rao, N. Lu*. <a href="https://doi.org/10.1016/j.ijsolstr.2022.111829" style="text-decoration:none;color:Blue;">Two-dimensional crystals on adhesive substrates subjected to uniform transverse pressure</a>. <b>International Journal of Solids and Structures</b> 257, 111829 (2022)</p></li>
+<li><p><u>Z. Dai</u>, Y. Rao, N. Lu*. <a href="https://doi.org/10.1016/j.ijsolstr.2022.111829" style="text-decoration:none;color:Blue;">Two-dimensional crystals on adhesive substrates subjected to uniform transverse pressure</a>. <b>International Journal of Solids and Structures</b> 257, 111829 (2022) <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures/vol/257/suppl/C" style="color:IndianRed;">Special Issue in the honour Dr Stelios Kyriakides</a></p></li>
 
 <li><p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:Blue;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022)</p></li>
 
