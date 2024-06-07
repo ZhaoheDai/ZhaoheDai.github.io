@@ -14,7 +14,9 @@ author_profile: false
 </table>
 <br>
 <br>
-You can also find my articles on my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en">Google Scholar</a> profile.
+<div class="shadowbox">
+  <p>You can also find my articles on my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en">Google Scholar</a> profile.</p>
+</div>
 <br>
 <br>
 <h3>2024</h3>
@@ -38,8 +40,8 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <h3>Before 2016</h3>
 
-<p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:Blue;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016)</p>
-<div style="text-align: center;"><img src="/images/publications/16.jpg" width="500"></div><br>
+13. <p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:Blue;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016)</p>
+<div style="text-align: center;"><img src="/images/publications/16.jpg" width="500"></div>
 
 12. <p><u>Z. Dai</u>, C. Weng, L. Liu*, X. Zhao, J. Kuang, Y. Hou, J. Shi, Y. Wei, J. Lou*, Z. Zhang*. <a href="https://doi.org/10.1038/srep32989" style="text-decoration:none;color:Blue;">Multifunctional Polymer-Based Graphene Foams with Buckled Structure and Negative Poisson’s Ratio</a>. <b>Scientific Reports</b> 6, 32989 (2016)</p>
 <div style="text-align: center;"><img src="/images/publications/15.jpg" width="500"></div><br>
