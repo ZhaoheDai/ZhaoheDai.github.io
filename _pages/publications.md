@@ -49,7 +49,7 @@ author_profile: false
 <li><p>S. Liu, J. He, Y. Rao, <u>Z. Dai</u>, H. Ye, J. C. Tanir, Y. Li, N. Lu. <a href="https://doi.org/10.1126/sciadv.adf2709" style="text-decoration:none;color:Blue;">Conformability of flexible sheets on spherical surfaces</a>. <b>Science Advances</b> 9, eadf2709 (2023)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_SciAdv.jpg" width="500"></p>
 
-<li><p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:Blue;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023)</p></li>
+<li><p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:Blue;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023) <a href="https://www.sciencedirect.com/special-issue/10JQ8M7S6BR" style="color:IndianRed;">Emerging Topics in Mechanics:On the Occasion of the 60th Anniversary of Professor Yonggang Huang</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_JMPS.jpg" width="500"></p>
 
 <li><p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:Blue;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2023NL.jpg" style="color:IndianRed;">cover</a></p></li>
@@ -58,7 +58,7 @@ author_profile: false
 <br>
 <h3>2022</h3>
 
-<li><p><u>Z. Dai</u>, Y. Rao, N. Lu*. <a href="https://doi.org/10.1016/j.ijsolstr.2022.111829" style="text-decoration:none;color:Blue;">Two-dimensional crystals on adhesive substrates subjected to uniform transverse pressure</a>. <b>International Journal of Solids and Structures</b> 257, 111829 (2022) <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures/vol/257/suppl/C" style="color:IndianRed;">Special Issue in the honour Dr Stelios Kyriakides</a> <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="color:IndianRed;"> pdf</a></p></li>
+<li><p><u>Z. Dai</u>, Y. Rao, N. Lu*. <a href="https://doi.org/10.1016/j.ijsolstr.2022.111829" style="text-decoration:none;color:Blue;">Two-dimensional crystals on adhesive substrates subjected to uniform transverse pressure</a>. <b>International Journal of Solids and Structures</b> 257, 111829 (2022) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="color:IndianRed;"> pdf</a> <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures/vol/257/suppl/C" style="color:IndianRed;">Special Issue in the honour Dr Stelios Kyriakides</a> </p></li>
 
 <li><p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:Blue;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022)</p></li>
 
@@ -77,7 +77,7 @@ author_profile: false
 
 <li><p><u>Z. Dai</u>*, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104320" style="text-decoration:none;color:Blue;">Poking and bulging of suspended thin sheets: slippage, instabilities, and metrology</a>. <b>Journal of the Mechanics and Physics of Solids</b> 149, 104320 (2021)</p></li>
 
-<li><p>D. Sanchez, <u>Z. Dai</u>, N. Lu*. <a href="https://doi.org/10.1016/j.trechm.2020.12.011" style="text-decoration:none;color:Blue;">2D Material Bubbles: Fabrication, Characterization, and Applications</a>. <b>Trends in Chemistry</b> 3, 204 (2021)</p></li>
+<li><p>D. Sanchez, <u>Z. Dai</u>, N. Lu*. <a href="https://doi.org/10.1016/j.trechm.2020.12.011" style="text-decoration:none;color:Blue;">2D Material Bubbles: Fabrication, Characterization, and Applications</a>. <b>Trends in Chemistry</b> 3, 204 (2021) <font color="IndianRed">Invited review</font></p></li>
 
 <li><p>G. Wang, Z. Zhang, Y. Wang, E. Gao, X. Jia, <u>Z. Dai</u>, C. Weng, L. Liu*, Y. Zhang, Z. Zhang*. <a href="https://pubs.acs.org/doi/10.1021/acsami.0c19835" style="text-decoration:none;color:Blue;">Out-of-Plane Deformations Determined Mechanics of Vanadium Disulfide (VS2) Sheets</a>. <b>ACS Applied Materials & Interfaces</b> 13, 3040 (2021)</p></li>
 
@@ -86,7 +86,7 @@ author_profile: false
 <br>
 <h3>2020</h3>
 
-<li><p><u>Z. Dai</u>, N. Lu, K. Liechti, R. Huang*. <a href="https://doi.org/10.1016/j.cossms.2020.100837" style="text-decoration:none;color:Blue;">Mechanics at the Interfaces of 2D Materials: Challenges and Opportunities</a>. <b>Current Opinions in Solid State & Materials Science</b> 24, 100837 (2020)</p></li>
+<li><p><u>Z. Dai</u>, N. Lu, K. Liechti, R. Huang*. <a href="https://doi.org/10.1016/j.cossms.2020.100837" style="text-decoration:none;color:Blue;">Mechanics at the Interfaces of 2D Materials: Challenges and Opportunities</a>. <b>Current Opinions in Solid State & Materials Science</b> 24, 100837 (2020) <a href="https://www.sciencedirect.com/special-issue/10KTFKXPFSP" style="color:IndianRed;">Special Issue: 2D Materials</a></p></li>
 
 <li><p><u>Z. Dai</u>, D. Sanchez, C. J. Brennan, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2019.103843" style="text-decoration:none;color:Blue;">Radial Buckle Delamination Around Two-Dimensional Material Tents</a>. <b>Journal of the Mechanics and Physics of Solids</b> 137, 103843 (2020)</p></li>
 
@@ -99,8 +99,8 @@ author_profile: false
 <br>
 <h3>2019</h3>
 
-<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019)</p></li>
-Highlighted as an Editors' Suggestion, featured on the journal Cover and by news media MRS News.
+<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019) <font color="Gold">ESI high cited paper</font> <font color="IndianRed">Highlighted as an Editors' Suggestion, featured on the journal <a href="https://journals.aps.org/prl/issues/123/11" style="color:IndianRed;">cover</a> and by news media <a href="https://www.cambridge.org/core/journals/mrs-bulletin/news/interlayer-shear-determines-bending-rigidity-in-van-der-waals-materials" style="color:IndianRed;">MRS News</a></font> </p></li>
+.
 
 <li><p><u>Z. Dai</u><sup>†</sup>, G. Wang<sup>†</sup>, Z. Zheng, Y. Wang, S. Zhang, X. Qi, P. Tan, L. Liu*, Z. Xu, Q. Li, Z. Cheng*, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2019.03.014" style="text-decoration:none;color:Blue;">Mechanical Responses of Boron-doped Monolayer Graphene</a>. <b>Carbon</b> 147, 594 (2019)</p></li>
 
