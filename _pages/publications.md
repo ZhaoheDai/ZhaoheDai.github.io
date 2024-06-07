@@ -52,7 +52,7 @@ author_profile: false
 <li><p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:Blue;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023) <a href="https://www.sciencedirect.com/special-issue/10JQ8M7S6BR" style="color:IndianRed;">Emerging Topics in Mechanics:On the Occasion of the 60th Anniversary of Professor Yonggang Huang</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_JMPS.jpg" width="500"></p>
 
-<li><p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:Blue;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2023NL.jpg" style="color:IndianRed;">cover</a></p></li>
+<li><p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:Blue;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <font color="IndianRed">Featured on the journal</font> <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="color:IndianRed;">cover</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/57.jpg" width="500"></p>
 
 <br>
