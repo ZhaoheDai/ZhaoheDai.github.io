@@ -11,17 +11,19 @@ redirect_from:
 
 <h3>Applied Mechanics</h3>
 
-<p style="text-align:left;"><a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters" style="text-decoration:none;color:#CD6155;">Extreme Mechanics Letters</a> <a href="https://www.springer.com/journal/10704" style="text-decoration:none;color:#AF7AC5;">International Journal of Fracture</a> <a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences" style="text-decoration:none;color:#3498DB;">International Journal of Mechanical Sciences</a><br>
+<p style="text-align:left;">
+	<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters" style="text-decoration:none;color:IndianRed;">Extreme Mechanics Letters</a> 
+	<a href="https://www.springer.com/journal/10704" style="text-decoration:none;color:IndianRed;">International Journal of Fracture</a> 
+	<a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences" style="text-decoration:none;color:IndianRed;">International Journal of Mechanical Sciences</a>
+	<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science" style="text-decoration:none;color:IndianRed;">International Journal of Engineering Science</a>
+	<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures" style="text-decoration:none;color:IndianRed;">International Journal of Solids and Structures</a>
+	<a href="https://asmedigitalcollection.asme.org/appliedmechanics" style="text-decoration:none;color:IndianRed;">Journal of Applied Mechanics</a>
+	<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics" style="text-decoration:none;color:IndianRed;">Journal of Fluid Mechanics</a>
+	<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids" style="text-decoration:none;color:IndianRed;">Journal of the Mechanics and Physics of Solids</a>
+	<a href="https://journals.aps.org/prfluids/" style="text-decoration:none;color:IndianRed;">Physical Review Fluids</a>
+	
 
-<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science" style="text-decoration:none;color:#16A085;">International Journal of Engineering Science</a>
-<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures" style="text-decoration:none;color:#2ECC71;">International Journal of Solids and Structures</a>
-<a href="https://asmedigitalcollection.asme.org/appliedmechanics" style="text-decoration:none;color:#F1C40F;">Journal of Applied Mechanics</a><br>
-
-<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics" style="text-decoration:none;color:#E67E22;">Journal of Fluid Mechanics</a>
-<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids" style="text-decoration:none;color:#7F8C8D;">Journal of the Mechanics and Physics of Solids</a>
-<a href="https://journals.aps.org/prfluids/" style="text-decoration:none;color:#2C3E50;">Physical Review Fluids</a><br>
-
-<a href="https://royalsocietypublishing.org/journal/rspa" style="text-decoration:none;color:#6495ED;">Proceeding of Royal Society A</a>
+<a href="https://royalsocietypublishing.org/journal/rspa" style="text-decoration:none;color:IndianRed;">Proceeding of Royal Society A</a>
 </p>
 
 
