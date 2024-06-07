@@ -29,13 +29,13 @@ author_profile: false
 <li><p><u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4065338" style="text-decoration:none;color:Blue;">Analytical solutions for circular elastic membranes under pressure</a>. <b>Journal of Applied Mechanics</b> 91(8): 081002 (2024)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_JAM.png" width="500"></p>
 
-<li><p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:Blue;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024NL.PNG" style="color:IndianRed;">cover</a></p></li>
+<li><p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:Blue;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <font color="IndianRed">Featured on the journal</font> <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="color:IndianRed;">cover</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_NanoLett.png" width="500"></p>
 
-<li><p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:Blue;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024)</p></li>
+<li><p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:Blue;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024) <font color="IndianRed">Invited review</font></p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_AM.png" width="500"></p>
 
-<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:Blue;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024_AIS.PNG" style="color:IndianRed;">cover</a></p></li> 
+<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:Blue;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023) <font color="IndianRed">Featured on the journal</font> <a href="https://doi.org/10.1002/aisy.202300535" style="color:IndianRed;">cover</a></p></li> 
 
 <br>
 <h3>2023</h3>
