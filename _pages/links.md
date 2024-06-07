@@ -6,13 +6,23 @@ author_profile: true
 redirect_from: 
 ---
 <h3>PKU</h3>
-<p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:#6495ED;">北大校内信息</a> <a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#2ECC71;">北大邮箱</span></a>
+
+<p style="text-align:left;"> <a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:#6495ED;">北大校内信息</a> <a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:#2ECC71;">北大邮箱</a> <a href="https://www.journals.elsevier.com/international-journal-of-mechanical-sciences">International Journal of Mechanical Sciences</a>
+<a href="https://www.journals.elsevier.com/international-journal-of-engineering-science">International Journal of Engineering Science</a>
+<a href="https://www.journals.elsevier.com/international-journal-of-solids-and-structures">International Journal of Solids and Structures</a>
+<a href="https://asmedigitalcollection.asme.org/appliedmechanics">Journal of Applied Mechanics</a>
+<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics">Journal of Fluid Mechanics</a>
+<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids">Journal of the Mechanics and Physics of Solids</a>
+<a href="https://journals.aps.org/prfluids/">Physical Review Fluids</a>
+<a href="https://royalsocietypublishing.org/journal/rspa">Proceeding of Royal Society A</a>
 </p>
 
 <h3>Applied Mechanics</h3>
-<p style="text-align:left;">
-						<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters" target="_blank"><span style="font-family:Arial;">Extreme Mechanics Letters</span></a> 
-					</p>
+
+<p style="text-align:left;"><a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters">Extreme Mechanics Letters</a> <a href="https://www.springer.com/journal/10704">International Journal of Fracture</a>
+
+</p>
+
 					<p style="text-align:left;background-color:#CCCCCC;">
 						<a href="https://www.springer.com/journal/10704" target="_blank"><span style="font-family:Arial;">International Journal of Fracture</span></a> 
 					</p>
