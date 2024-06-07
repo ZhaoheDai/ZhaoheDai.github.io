@@ -40,7 +40,7 @@ author_profile: false
 <br>
 <h3>2023</h3>
 
-<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.20517/jmi.2023.27" style="text-decoration:none;color:Blue;">Characterizing the wetting behavior of 2D materials: A review</a>. <b>Journal of Material Informatics</b> 3, 20 (2023)</p></li>
+<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.20517/jmi.2023.27" style="text-decoration:none;color:Blue;">Characterizing the wetting behavior of 2D materials: A review</a>. <b>Journal of Material Informatics</b> 3, 20 (2023) <font color="IndianRed">Invited review</font></p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_JMI.png" width="500"></p>
 
 <li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4062831" style="text-decoration:none;color:Blue;">Axisymmetric peeling of thin elastic films: A perturbation solution</a>. <b>Journal of Applied Mechanics</b> 90(10), 101011 (2023)</p></li>
