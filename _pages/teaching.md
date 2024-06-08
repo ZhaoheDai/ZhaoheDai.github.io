@@ -9,25 +9,98 @@ author_profile: false
 <p style="color:indianred;"><b>声明</b>：附件中的讲义存在笔误，内容在不同学期也会微调，最新版笔记或指正错误欢迎直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
 
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Star Rating</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Star Rating System</title>
+    <style>
+        .rating {
+            display: flex;
+            direction: row-reverse;
+            justify-content: center;
+            font-size: 2rem;
+            cursor: pointer;
+        }
+
+        .rating input {
+            display: none;
+        }
+
+        .rating label {
+            color: lightgray;
+            font-size: 2rem;
+            padding: 0 5px;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+
+        .rating label:hover,
+        .rating label:hover ~ label,
+        .rating input:checked ~ label {
+            color: gold;
+        }
+
+        .rating-info {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 1.5rem;
+        }
+    </style>
 </head>
 <body>
     <div class="rating">
-        <span class="star" data-value="5">&#9733;</span>
-        <span class="star" data-value="4">&#9733;</span>
-        <span class="star" data-value="3">&#9733;</span>
-        <span class="star" data-value="2">&#9733;</span>
-        <span class="star" data-value="1">&#9733;</span>
+        <input type="radio" id="star5" name="rating" value="5">
+        <label for="star5" title="5 stars">&#9733;</label>
+        <input type="radio" id="star4" name="rating" value="4">
+        <label for="star4" title="4 stars">&#9733;</label>
+        <input type="radio" id="star3" name="rating" value="3">
+        <label for="star3" title="3 stars">&#9733;</label>
+        <input type="radio" id="star2" name="rating" value="2">
+        <label for="star2" title="2 stars">&#9733;</label>
+        <input type="radio" id="star1" name="rating" value="1">
+        <label for="star1" title="1 star">&#9733;</label>
     </div>
-    <script src="script.js"></script>
+    <div class="rating-info">
+        Rated by <span id="rating-count">0</span> people<br>
+        Average rating: <span id="average-rating">0</span>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const stars = document.querySelectorAll('.rating input');
+            const ratingCountElement = document.getElementById('rating-count');
+            const averageRatingElement = document.getElementById('average-rating');
+            let ratingCount = 0;
+            let totalRating = 0;
+
+            stars.forEach(star => {
+                star.addEventListener('change', () => {
+                    if (!star.classList.contains('rated')) {
+                        ratingCount++;
+                        totalRating += parseInt(star.value);
+                        ratingCountElement.textContent = ratingCount;
+                        star.classList.add('rated');
+                    }
+
+                    stars.forEach(s => s.nextElementSibling.classList.remove('checked'));
+                    star.nextElementSibling.classList.add('checked');
+                    let prev = star.previousElementSibling;
+                    while (prev) {
+                        prev.classList.add('checked');
+                        prev = prev.previousElementSibling.previousElementSibling;
+                    }
+
+                    // Update average rating
+                    const averageRating = (totalRating / ratingCount).toFixed(1);
+                    averageRatingElement.textContent = averageRating;
+                });
+            });
+        });
+    </script>
 </body>
 </html>
+
 
 * <b>开课时间</b>：2024春，2026春 <br>
 * <b>教学方式</b>：板书授课<br>
