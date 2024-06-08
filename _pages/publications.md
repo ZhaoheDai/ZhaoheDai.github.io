@@ -12,7 +12,7 @@ author_profile: false
   <tr><td width=170 ><img src="/images/publications/Cover_2022AMI.JPG" width="170"></td><td width=170><img src="/images/publications/Cover_2023NL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2024_AIS.png" width="170"></td><td width=170><img src="/images/publications/Cover_2024NL.png" width="170"></td></tr>
 </table>
 
-<p>You can also find my articles on my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en">Google Scholar</a> profile.</p>
+<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:IndianRed;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en" style="color:IndianRed;">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:IndianRed;">ResearchGate</a> profile.
 
 <ol reversed>
 <br>
@@ -179,7 +179,7 @@ author_profile: false
 <li><p>J. Shi, X. Li*, H. Cheng, Z. Liu, L. Zhao, T. Yang, <u>Z. Dai</u>, Z. Cheng, L. Yang, E. Shi, M. Du, Z. Zhang, A. Cao, H. Zhu*, Y. Fang*. <a href="https://doi.org/10.1002/adfm.201504804" style="text-decoration:none;color:Blue;">Graphene Reinforced Carbon Nanotube Networks for Wearable Strain Sensors</a>. <b>Advanced Functional Materials</b> 26, 2078 (2016) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2016afm.png" style="color:IndianRed;">Cover</a></p></li>
 
 <li><p>J. Kuang, <u>Z. Dai</u>, L. Liu*, Z. Yang, M. Jin, Z. Zhang*. <a href="https://doi.org/10.1039/C5NR00841G" style="text-decoration:none;color:Blue;">Synergistic effects from graphene and carbon nanotubes endow ordered hierarchical structure foams with a combination of compressibility, super-elasticity and stability and potential application as pressure sensors</a>. <b>Nanoscale</b> 7, 9252 (2015)</p>
-<p style="text-align:center;"><img src="/images/publications/9.jpg" width="300"></p></li>
+<p style="text-align:center;"><img src="/images/publications/9.jpg" width="500"></p></li>
 
 
 <li><p>G. Wang, L. Liu*, <u>Z. Dai</u>, Q. Liu, H. Miao, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2015.01.022" style="text-decoration:none;color:Blue;">Biaxial Compressive Behavior of Embedded Monolayer Graphene inside Flexible Poly (methyl methacrylate) Matrix</a>. <b>Carbon</b> 86, 69 (2015)</p></li>
