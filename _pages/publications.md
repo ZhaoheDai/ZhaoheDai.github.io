@@ -54,8 +54,10 @@ author_profile: false
 <h3>2022</h3>
 
 <li><p><u>Z. Dai</u>, Y. Rao, N. Lu*. <a href="https://doi.org/10.1016/j.ijsolstr.2022.111829" style="text-decoration:none;color:Blue;">Two-dimensional crystals on adhesive substrates subjected to uniform transverse pressure</a>. <b>International Journal of Solids and Structures</b> 257, 111829 (2022) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="color:IndianRed;"> pdf</a> <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures/vol/257/suppl/C" style="color:IndianRed;">Special Issue in the honour Dr Stelios Kyriakides</a> </p></li>
+<div style="text-align: center;"><img src="/images/publications/55.jpg" width="500"></div>
 
 <li><p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:Blue;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022)</p></li>
+<div style="text-align: center;"><img src="/images/publications/54.jpg" width="500"></div>
 
 <li><p>T. Yang, X. Jiang, Y. Huang. Q. Tian, L. Zhang, <u>Z. Dai</u>, H. Zhu*. <a href="https://doi.org/10.1016/j.isci.2021.103728" style="text-decoration:none;color:Blue;">Mechanical sensors based on two-dimensional materials: sensing mechanisms, structural designs and wearable applications</a>. <b>iScience</b> 25, 103728 (2022)</p></li>
 
@@ -65,12 +67,14 @@ author_profile: false
 <h3>2021</h3>
 
 <li><p>Y. Hou<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, S. Zhang<sup>†</sup>, S. Feng, G. Wang, L. Liu*, Z. Xu*, Q. Li*, Z. Zhang*. <a href="https://doi.org/10.1038/s41467-021-25302-2" style="text-decoration:none;color:Blue;">Elastocapillary cleaning of twisted bilayer graphene interfaces</a>. <b>Nature Communications</b> 12, 5069 (2021)</p></li>
+<div style="text-align: center;"><img src="/images/publications/51.jpg" width="500"></div>
 
 <li><p>F. Shuang, <u>Z. Dai</u>, K. Aifantis*. <a href="https://doi.org/10.1021/acsami.1c05129" style="text-decoration:none;color:Blue;">Strengthening Metals by Graphene Inclusions: Transition from Interface Hardening to Precipitate Hardening</a>. <b>ACS Applied Materials & Interfaces</b> 13, 26610 (2021)</p></li>
 
 <li><p>Y. Rao<sup>†</sup>, S. Qiao<sup>†</sup>, <u>Z. Dai</u>, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104399" style="text-decoration:none;color:Blue;">Elastic Wetting: Substrate-Supported Droplets Confined by Ultrathin Elastic Membranes</a>. <b>Journal of the Mechanics and Physics of Solids</b> 151, 104399 (2021)</p></li>
 
 <li><p><u>Z. Dai</u>*, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104320" style="text-decoration:none;color:Blue;">Poking and bulging of suspended thin sheets: slippage, instabilities, and metrology</a>. <b>Journal of the Mechanics and Physics of Solids</b> 149, 104320 (2021)</p></li>
+<div style="text-align: center;"><img src="/images/publications/48.jpg" width="500"></div>
 
 <li><p>D. Sanchez, <u>Z. Dai</u>, N. Lu*. <a href="https://doi.org/10.1016/j.trechm.2020.12.011" style="text-decoration:none;color:Blue;">2D Material Bubbles: Fabrication, Characterization, and Applications</a>. <b>Trends in Chemistry</b> 3, 204 (2021) <font color="IndianRed">Invited review</font></p></li>
 
@@ -82,8 +86,10 @@ author_profile: false
 <h3>2020</h3>
 
 <li><p><u>Z. Dai</u>, N. Lu, K. Liechti, R. Huang*. <a href="https://doi.org/10.1016/j.cossms.2020.100837" style="text-decoration:none;color:Blue;">Mechanics at the Interfaces of 2D Materials: Challenges and Opportunities</a>. <b>Current Opinions in Solid State & Materials Science</b> 24, 100837 (2020) <a href="https://www.sciencedirect.com/special-issue/10KTFKXPFSP" style="color:IndianRed;">Special Issue: 2D Materials</a></p></li>
+<div style="text-align: center;"><img src="/images/publications/44.jpg" width="500"></div>
 
 <li><p><u>Z. Dai</u>, D. Sanchez, C. J. Brennan, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2019.103843" style="text-decoration:none;color:Blue;">Radial Buckle Delamination Around Two-Dimensional Material Tents</a>. <b>Journal of the Mechanics and Physics of Solids</b> 137, 103843 (2020)</p></li>
+<div style="text-align: center;"><img src="/images/publications/43.jpg" width="500"></div>
 
 <li><p>Y. Hou, X. Ren, J. Fan, G. Wang, <u>Z. Dai</u>, C. Jin, Y. Zhu, S. Zhang, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.0c12000" style="text-decoration:none;color:Blue;">Preparation of Twisted Bilayer Graphene via Wetting Transfer Method</a>. <b>ACS Applied Materials & Interfaces</b> 12, 40958 (2020)</p></li>
 
@@ -95,11 +101,13 @@ author_profile: false
 <h3>2019</h3>
 
 <li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:Blue;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019) <font color="IndianRed">Highlighted as an Editors' Suggestion, featured on the journal <a href="http://zhaohedai.github.io/images/publications/Cover_2019prl.png" style="color:IndianRed;">Cover</a> and by news media <a href="https://www.cambridge.org/core/journals/mrs-bulletin/news/interlayer-shear-determines-bending-rigidity-in-van-der-waals-materials" style="color:IndianRed;">MRS News</a></font>  <font color="Gold">ESI highly cited paper</font></p></li>
+<div style="text-align: center;"><img src="/images/publications/39.jpg" width="500"></div>
 
 <li><p><u>Z. Dai</u><sup>†</sup>, G. Wang<sup>†</sup>, Z. Zheng, Y. Wang, S. Zhang, X. Qi, P. Tan, L. Liu*, Z. Xu, Q. Li, Z. Cheng*, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2019.03.014" style="text-decoration:none;color:Blue;">Mechanical Responses of Boron-doped Monolayer Graphene</a>. <b>Carbon</b> 147, 594 (2019)</p></li>
+<div style="text-align: center;"><img src="/images/publications/38.jpg" width="500"></div>
 
 <li><p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:Blue;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <font color="IndianRed">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:IndianRed;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font></p></li>
-
+<div style="text-align: center;"><img src="/images/publications/37.jpg" width="500"></div>
 
 <li><p>C. Weng, G. Wang, <u>Z. Dai</u>, Y. Pei, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1039/C9NR07988B" style="text-decoration:none;color:Blue;">Buckled AgNW/MXene Hybrid Hierarchical Sponges for High-Performance Electromagnetic Interference Shielding</a>. <b>Nanoscale</b> 11, 22804 (2019)</p></li>
 
@@ -115,9 +123,11 @@ author_profile: false
 
 <br>
 <h3>2018</h3>
-<li><p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018) <font color="IndianRed">Highlighted as an Editors' Suggestion, featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019prl.png" style="color:IndianRed;">Cover</a> </p></li>
+<li><p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:Blue;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018) <font color="IndianRed">Highlighted as an Editors' Suggestion, featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2018_PRL.jpg" style="color:IndianRed;">Cover</a> </p></li>
+<div style="text-align: center;"><img src="/images/publications/30.jpg" width="500"></div>
 
 <li><p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:Blue;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018)</p></li>
+<div style="text-align: center;"><img src="/images/publications/29.jpg" width="500"></div>
 
 <li><p>Y. Chen, <u>Z. Dai</u>, C. Weng, G. Wang, Y. Hou, X. Liu, X. Cong, P. Tan, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1039/C8RA07974A" style="text-decoration:none;color:Blue;">Engineering the Interface in Mechanically Responsive Graphene-Based Films</a>. <b>RSC Advances</b> 8, 36257 (2018)</p></li>
 
@@ -132,8 +142,8 @@ author_profile: false
 <br>
 <h3>2017</h3>
 
-<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017) <font color="IndianRed">Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, Chinese Academy of Science, and Nanotechweb (see</font> <a href="https://aps.altmetric.com/details/22013151/news" style="color:IndianRed;">Altmetric</a>) </p>
-
+<li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:Blue;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017) <font color="IndianRed">Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, Chinese Academy of Science, and Nanotechweb (see</font> <a href="https://aps.altmetric.com/details/22013151/news" style="color:IndianRed;">Altmetric</a>) </p></li>
+<div style="text-align: center;"><img src="/images/publications/23.jpg" width="500"></div>
 
 <li><p>G. Wang, X. Li, Y. Wang, Z. Zheng, <u>Z. Dai</u>, X. Qi, L. Liu*, Z. Cheng, Z. Xu, P. Tan*, Z. Zhang*. <a href="https://doi.org/10.1021/acs.jpcc.7b05771" style="text-decoration:none;color:Blue;">Interlayer Coupling Behaviors of Boron Doped Multilayer Graphene</a>. <b>Journal of Physical Chemistry</b> 121, 26034 (2017)</p></li>
 
@@ -164,9 +174,9 @@ author_profile: false
 
 <li><p>G. Wang, <u>Z. Dai</u>, L. Liu*, H. Hu, Q. Dai*, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.6b03069" style="text-decoration:none;color:Blue;">Tuning the Interfacial Mechanical Behaviors of Monolayer Graphene/PMMA Nanocomposites</a>. <b>ACS Applied Materials & Interfaces</b> 8, 22554 (2016)</p></li>
 
-<li><p>W. Feng, W. Zhou, <u>Z. Dai</u>, A. Yasina, H. Yang*. <a href="https://doi.org/10.1039/C5TB02737C" style="text-decoration:none;color:Blue;">Tough Polypseudorotaxane Supramolecular Hydrogel with Dual-responsive Shape Memory Property</a>. <b>Journal of Materials Chemistry B</b> 4, 1924 (2016)</p></li>
+<li><p>W. Feng, W. Zhou, <u>Z. Dai</u>, A. Yasina, H. Yang*. <a href="https://doi.org/10.1039/C5TB02737C" style="text-decoration:none;color:Blue;">Tough Polypseudorotaxane Supramolecular Hydrogel with Dual-responsive Shape Memory Property</a>. <b>Journal of Materials Chemistry B</b> 4, 1924 (2016) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2016softmatter.png" style="color:IndianRed;">Cover</a></p></li>
 
-<li><p>J. Shi, X. Li*, H. Cheng, Z. Liu, L. Zhao, T. Yang, <u>Z. Dai</u>, Z. Cheng, L. Yang, E. Shi, M. Du, Z. Zhang, A. Cao, H. Zhu*, Y. Fang*. <a href="https://doi.org/10.1002/adfm.201504804" style="text-decoration:none;color:Blue;">Graphene Reinforced Carbon Nanotube Networks for Wearable Strain Sensors</a>. <b>Advanced Functional Materials</b> 26, 2078 (2016)</p></li>
+<li><p>J. Shi, X. Li*, H. Cheng, Z. Liu, L. Zhao, T. Yang, <u>Z. Dai</u>, Z. Cheng, L. Yang, E. Shi, M. Du, Z. Zhang, A. Cao, H. Zhu*, Y. Fang*. <a href="https://doi.org/10.1002/adfm.201504804" style="text-decoration:none;color:Blue;">Graphene Reinforced Carbon Nanotube Networks for Wearable Strain Sensors</a>. <b>Advanced Functional Materials</b> 26, 2078 (2016) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2016afm.png" style="color:IndianRed;">Cover</a></p></li>
 
 <li><p>J. Kuang, <u>Z. Dai</u>, L. Liu*, Z. Yang, M. Jin, Z. Zhang*. <a href="https://doi.org/10.1039/C5NR00841G" style="text-decoration:none;color:Blue;">Synergistic effects from graphene and carbon nanotubes endow ordered hierarchical structure foams with a combination of compressibility, super-elasticity and stability and potential application as pressure sensors</a>. <b>Nanoscale</b> 7, 9252 (2015)</p>
 <p style="text-align:center;"><img src="/images/publications/9.jpg" width="300"></p></li>
