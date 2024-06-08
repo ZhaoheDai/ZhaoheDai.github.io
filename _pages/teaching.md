@@ -5,7 +5,7 @@ author_profile: false
 ---
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
-* <b>开课时间</b>：2024春 <br>
+* <b>开课时间</b>：2024春,2026春 <br>
 * <b>教学方式</b>：板书授课<br>
 * <b>课程类别</b>：专业限选课<br>
 * <b>课程学分</b>：3 <br>
@@ -37,3 +37,60 @@ author_profile: false
 	* J.R. Rice, “Mathematical Analysis in the Mechanics of Fracture”, in Fracture: An Advanced Treatise, vol. 2, ed. by H. Liebowitz, Academic Press, pp. 191-311, 1968. （作者是断裂力学先驱者，在线性和非线性断裂中的J积分、内聚力模型等方面有非常详细的阐述） 
 	* A.T. Zehnder, Fracture Mechanics, Springer, 2012. （优秀的的断裂力学教科书，其中包含了实验表征介绍的章节；可以通过北京大学内网下载电子版）
 	* L. B. Freund, and S. Suresh. Thin film materials. Cambridge university press, 2004. （薄膜断裂部分参考了书中的第五章）
+
+
+<br>
+<h3>本科生课程：材料力学B Mechanics of Materials</h3>
+
+* <b>开课时间</b>：2023春 (周培源班握手计划)，2024春 
+* <b>教学方式</b>：板书授课
+* <b>课程类别</b>：专业必修课
+* <b>课程学分</b>：3 
+* <b>课程简介</b>：材料力学课程作为一门基础的力学课程，具有固体力学引论的特性。通过材料力学的基本概念，拉伸和压缩，扭转与弯曲，复杂应力状态，压杆稳定性、弹性杆系能量法等内容，主要介绍弹性杆件和杆系结构在强度、刚度和稳定性方面的概念和计算方法等基础知识，为后续课程打下基础。
+* <b>课程大纲</b>：为了更好的与以学习过的理论力学和后续将要学习的弹性力学进行链接，我们微调了课程章节，并添加了部分训练性例题，具体如下：
+	* 第一章 课程介绍以及基本概论 （4学时） Intro pdf
+	* 第二章 拉伸与压缩 （5学时）pdf
+	* 第三章 扭转 （5-6学时）pdf
+	* 第四章 弯曲内力与应力 （6-7学时）pdf
+	* 期中考试
+	* 第五章 弯曲变形 （10 学时）pdf
+	* 第六章 压杆稳定性 （6学时）pdf Examples
+	* 第七章 应力、应变分析和强度理论（8学时）pdf
+	* 第八章 弹性杆系的一般性质（8学时）pdf
+	* 期末考试
+* <b>声明</b>：上述笔记存在不少笔误，内容随着教学的进行也会微调，如感兴趣最新版的笔记请直接邮件联系我。
+* <b>参考书目</b>
+	* 材料力学（第三版），殷有泉，励争，北京大学出版社
+
+<br>
+<h3>研究生课程：表界面物理力学 Mechanics and Physics of Surfaces and Interfaces</h3>
+
+* <b>开课时间</b>：2022秋,2023秋,2025秋 
+* <b>课程编号</b>：08611650
+* <b>授课对象</b>：力学、航空航天、能源环境、先进制造专业
+* <b>教学方式</b>：课堂板书为主
+* <b>课程类别</b>：专业选修课
+* <b>课程学分</b>：3
+* <b>课程简介</b>：宏观中经常忽略的表面和界面作用在微米尺度或更小尺度下变得非常重要，甚至主导物质的物理/力学行为与性质。随着系统和工艺的不断缩小，对表界面物理和力学的理解愈发关键。常见的例子包括微电子、表面涂层、labs-on-a-chip、纳米制造、聚合物加工等工程系统，也有细胞运动、壁虎粘附墙壁等许多有趣的生物系统。
+本课程将重点关注由表面或两相之间界面的存在而引发的物理和力学现象，包括接触、黏附、（反）润湿等经典问题。主要涉及表面张力、范德华力等表面和分子间作用力，梁、板、壳、固膜、液膜等研究对象。该课程的具体目标是：1.介绍范德华相互作用及其影响；2.介绍表面能/表面张力的概念及其应用；3.简介关于梁、板、壳、膜等连续介质力学的约化模型；4.研究和分析这些模型在表界面作用力下的静态和动态响应；5.培养一些对表界面物理和力学的建模技能。
+* <b>课程大纲</b>：为了实现上述这些目标，研究以下具体主题：
+	* 第一章 概论 (3学时) Lecture 1
+	* 第二章 范德华力、表面张力、界面应力的分子起源 (6课时)  Lecture 2 and 3
+	* 第三章 涉及表面张力的静态液体平衡问题 (9课时) Lecture 4, 5 and 6
+	* 第四章 涉及表面张力的可变形固体平衡问题 (6课时) Lecture 7 and 8
+	* 第五章 表面张力驱动的流动与线性稳定性理论 (9课时) Lecture 9, 10, and 11
+	* 第六章 表面张力诱发的动态弹性毛细现象 (6课时) Lecture 12 and 13
+	* 第七章 固体接触、黏附、脱粘/断裂理论 (6课时) Lecture 14 and 15
+	* 前沿专题(3-6课时)、结课报告 (3-6课时)
+
+* <b>课程考核</b>：平时作业（7次×10%/每次） + 结课项目（摘要5%，报告25%）
+
+* <b>参考书目</b>：  
+	* Israelachvili, Jacob N. Intermolecular and surface forces. Academic press, 2011.（优秀教材，比较详细的介绍了表界面物理化学）
+    D. Qu′er′e, F. Brochard-Wyart, and P.-Gi. de Gennes. Capillarity and Wetting Phenomena, Springer, 2004.（优秀的表界面现象参考书，但缺乏推导细节）
+	* Freund, Lambert Ben, and Subra Suresh. Thin film materials. Cambridge university press, 2004. （我们只关注部分章节，重点讨论固体薄膜材料）
+	* Barber, James R. Contact mechanics. Berlin: Springer International Publishing, 2018.（只关注这本书中的梁、板等约化模型章节）
+	* Maugis, Daniel. Contact, adhesion and rupture of elastic solids. Springer Science & Business Media, 2000.（优秀参考书，第一章详细介绍了范德华和表面张力的力学描述，此外我们还关注后续章节中的固体黏附部分）
+	* Barenblatt, Grigory Isaakovich. Flow, deformation and fracture. Cambridge University Press, 2014.（本课程只介绍书中固体断裂部分）
+	* 赵亚溥，表界与界面物理力学，科学出版社 以及 纳米与介观力学，科学出版社. （本课程重点介绍这两部书中的黏附部分）
+	* 德克萨斯大学奥斯汀分校的 Surface Phenonmena（Roger Bonnecaze）课程、牛津大学的 Topics in Fluid Mechanics（Dominic Vella、Andreas Muench）课程以及麻省理工大学的 Interfacial Phenomena （John Bush）课程。
