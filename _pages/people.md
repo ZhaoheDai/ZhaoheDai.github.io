@@ -9,7 +9,7 @@ author_profile: false
 
 <h3>课题组负责人   Principal Investigator</h3>
   
-* 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="color:indianred;"> CV</a>
+* 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="color:black;"><i class="fa fa-file" aria-hidden="true"></i></a>
 
 
 <h3>博士后 Post-Docs</h3>   
