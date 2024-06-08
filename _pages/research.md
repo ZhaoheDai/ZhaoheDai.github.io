@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Thin film mechanics
-<p style="color:blue;">Keywards: Graphene, 2D materials, Membranes, Wrinkling</p>
+<p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling</p>
 
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div><br>
 
@@ -17,7 +17,7 @@ redirect_from:
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div><br>
 
 ## Elastocapillarity 
-<p style="color:blue;">Keywards: Wetting, Liquid-solid interactions, Dewetting, Lubrication</p>
+<p style="color:indianred;">Keywards: Wetting, Liquid-solid interactions, Dewetting, Lubrication</p>
 
 <img src="/images/Research2.png" width="700"><br>
 
