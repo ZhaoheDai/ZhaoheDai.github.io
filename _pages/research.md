@@ -78,7 +78,7 @@ redirect_from:
 
 <h3>Assembly and composites of nano building blocks</h3>
 
-<p style="color:indianred;">Keywards: NanoComposites, Self-assembly, Strain harding, Sponges, Negative Poisson's ratio</p>
+<p style="color:indianred;">Keywards: Functional composites, Self-assembly, Mechanical properties, Sponges, Negative Poisson's ratio</p>
 <p style="text-align:center;"><img src="/images/publications/9.jpg" width="500"></p>
 
 1. <p><u>Z. Dai</u>, C. Weng, L. Liu*, X. Zhao, J. Kuang, Y. Hou, J. Shi, Y. Wei, J. Lou*, Z. Zhang*. <a href="https://doi.org/10.1038/srep32989" style="text-decoration:none;color:black;">Multifunctional Polymer-Based Graphene Foams with Buckled Structure and Negative Poisson’s Ratio</a>. <b>Scientific Reports</b> 6, 32989 (2016) <a href="http://zhaohedai.github.io/files/15.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
