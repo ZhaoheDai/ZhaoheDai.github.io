@@ -3,6 +3,9 @@ layout: archive
 permalink: /publications/
 author_profile: false
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <h3>Cover Gallary</h3>
 <table border=0>
   <tr><td width=145 ><img src="/images/publications/Cover_2016afm.png" width="145"></td><td width=145><img src="/images/publications/Cover_2016softmatter.png" width="145"></td><td width=145><img src="/images/publications/Cover_2018_PRL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019AM.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019prl.png" width="145"></td><td width=145 ><img src="/images/publications/Cover_2022AMI.JPG" width="145"></td></tr>
