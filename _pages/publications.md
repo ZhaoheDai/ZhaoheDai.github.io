@@ -12,10 +12,10 @@ author_profile: false
   <tr><td width=170 ><img src="/images/publications/Cover_2022AMI.JPG" width="170"></td><td width=170><img src="/images/publications/Cover_2023NL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2024_AIS.png" width="170"></td><td width=170><img src="/images/publications/Cover_2024NL.png" width="170"></td></tr>
 </table>
 
-<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:IndianRed;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en" style="color:IndianRed;">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:IndianRed;">ResearchGate</a> profile.
+<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:IndianRed;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en" style="color:IndianRed;">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:IndianRed;">ResearchGate</a> profile. </p>
 
 <ol reversed>
-<br>
+
 <h3>2024</h3>
 
 <li><p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:Blue;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p></li>
