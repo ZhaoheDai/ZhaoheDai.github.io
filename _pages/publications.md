@@ -63,7 +63,7 @@ author_profile: false
 
 <li><p>T. Yang, X. Jiang, Y. Huang. Q. Tian, L. Zhang, <u>Z. Dai</u>, H. Zhu*. <a href="https://doi.org/10.1016/j.isci.2021.103728" style="text-decoration:none;color:#6495ED;">Mechanical sensors based on two-dimensional materials: sensing mechanisms, structural designs and wearable applications</a>. <b>iScience</b> 25, 103728 (2022) <a href="http://zhaohedai.github.io/files/53.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 
-<li><p>W. Wang, X. Ma, <u>Z. Dai</u>, S. Zhang, Y. Hou, G. Wang, Q. Li, L. Liu*, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1002/admi.202101939" style="text-decoration:none;color:#6495ED;">Mechanical Behavior of Blisters Spontaneously Formed by Multilayer 2D Materials</a>. <b>Advanced Materials Interfaces</b> 2101939 (2022) <a href="http://zhaohedai.github.io/files/52.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2022AMI.jpg" style="color:#7B7D7D;">Cover</a></p></li>
+<li><p>W. Wang, X. Ma, <u>Z. Dai</u>, S. Zhang, Y. Hou, G. Wang, Q. Li, L. Liu*, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1002/admi.202101939" style="text-decoration:none;color:#6495ED;">Mechanical Behavior of Blisters Spontaneously Formed by Multilayer 2D Materials</a>. <b>Advanced Materials Interfaces</b> 2101939 (2022) <a href="http://zhaohedai.github.io/files/52.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2022AMI.JPG" style="color:#7B7D7D;">Cover</a></p></li>
 
 <br>
 <h3>2021</h3>
