@@ -24,64 +24,60 @@ My research has equipped me with extensive knowledge in various areas of mechani
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visitor Counter and Location</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <title>Roll a Number</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap">
     <style>
-        #map {
-            height: 400px;
-            width: 100%;
+        body {
+            font-family: 'Raleway', sans-serif;
+            text-align: center;
+            margin-top: 50px;
+            background-color: #f5f5f5;
+            color: #333;
         }
-        .counter {
-            font-size: 24px;
+        h1 {
+            font-size: 36px;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+        #result {
+            font-size: 72px;
+            color: #e74c3c;
             margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #ecf0f1;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            font-size: 24px;
+            padding: 15px 30px;
+            color: #fff;
+            background-color: #3498db;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(52, 152, 219, 0.5);
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+        button:hover {
+            background-color: #2980b9;
+            box-shadow: 0 6px 12px rgba(52, 152, 219, 0.5);
         }
     </style>
 </head>
 <body>
-    <div class="counter">Visitor Count: <span id="visitorCount">0</span></div>
-    <div id="map"></div>
+    <h1>Roll a Number between 0 and 100</h1>
+    <div id="result">0</div>
+    <button onclick="rollNumber()">Roll</button>
 
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
-        // Visitor counter using local storage
-        function updateVisitorCount() {
-            if (localStorage.visitorCount) {
-                localStorage.visitorCount = Number(localStorage.visitorCount) + 1;
-            } else {
-                localStorage.visitorCount = 1;
+        function rollNumber() {
+            const randomNumber = Math.floor(Math.random() * 101); // Random number between 0 and 100
+            document.getElementById('result').innerText = randomNumber;
+            if (randomNumber === 0 || randomNumber === 100) {
+                alert("Congrats! Your rolling result has been sent to daizh@pku.edu.cn");
             }
-            document.getElementById('visitorCount').innerText = localStorage.visitorCount;
-        }
-
-        updateVisitorCount();
-
-        // Function to get user's location and display on map
-        function showPosition(position) {
-            const latitude = position.coords.latitude;
-            const longitude = position.coords.longitude;
-
-            // Initialize map
-            const map = L.map('map').setView([latitude, longitude], 13);
-
-            // Add OpenStreetMap tiles
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            }).addTo(map);
-
-            // Add marker at user's location
-            L.marker([latitude, longitude]).addTo(map)
-                .bindPopup('You are here!')
-                .openPopup();
-        }
-
-        function errorHandler(err) {
-            console.warn(`ERROR(${err.code}): ${err.message}`);
-        }
-
-        if (navigator.geolocation) {
-            navigator.geolocation.getCurrentPosition(showPosition, errorHandler);
-        } else {
-            alert("Geolocation is not supported by this browser.");
         }
     </script>
 </body>
