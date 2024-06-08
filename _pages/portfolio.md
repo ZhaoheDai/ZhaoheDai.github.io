@@ -11,7 +11,7 @@ author_profile: false
 2023/07/15 Attending the conference of physical mechanics at Dalian.
 
 <img src="/images/Album/2022Winter.jpg" width="500"><br>
-2023/03/13 First in-person group meeting
+2023/03/13 First in-person group meeting as some of us have recovered from the Covid-19.
 
 <img src="/images/Album/2022Summer.jpg" width="500"><br>
 2022/08/09 First walk with Chuanli and Hang around WeiMing Lake.
