@@ -58,7 +58,7 @@ author_profile: false
 	* 第四章 弯曲内力与应力 （6-7学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 期中考试
 	* 第五章 弯曲变形 （10 学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
-	* 第六章 压杆稳定性 （6学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> Examples
+	* 第六章 压杆稳定性 （6学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6Examples.pdf" style="text-decoration:none;color:black;">Beyond<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 第七章 应力、应变分析和强度理论（8学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 第八章 弹性杆系的一般性质（8学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 期末考试
