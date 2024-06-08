@@ -64,6 +64,9 @@ author_profile: false
 	* 期末考试
 * <b>参考书目</b>
 	* 材料力学（第三版），殷有泉，励争，北京大学出版社
+	* Timoshenko, Stephen P., and James M. Gere. Theory of elastic stability. Courier Corporation, 2012. (压杆稳定性章节中会涉及该书中的若干例题)
+	* Timoshenko, Stephen P. Strength of Materials, Part 2: Advanced Theory and Problems. CBS Publishers, 2002. (弹性杆系的一般性质章节中会涉及该书中若干例题)
+
 
 <br>
 <h3>研究生课程：表界面物理力学 Mechanics and Physics of Surfaces and Interfaces</h3>
