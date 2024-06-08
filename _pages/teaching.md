@@ -19,8 +19,7 @@ author_profile: false
 	* KI, KII, KIII的确定 （含傅里叶变换法）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Westergaard应力函数（含III型各向异性） <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Rice加权函数法 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
-	<p style="color:indianred;"><b>注</b>：掌握第一部分内容后，基本可以使用、推导应力强度因子手册中大部分公式。</p>
+	* 断裂准则 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
 * <b>第二部分：断裂力学专题</b>
 	* 非线性断裂（含Dugdale, J积分，介绍HRR）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 范德华力 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
@@ -28,9 +27,9 @@ author_profile: false
 	* 接触与粘附 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic10.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 动态断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic11.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  
 	* 界面断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic12.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
-	<p style="color:indianred;"><b>注</b>：上述讲义存在不少笔误，内容随着不同学期也会微调，如感兴趣最新版的笔记或指正错误请直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
+	<p style="color:indianred;"><b>注</b>：上述讲义存在不少笔误，内容在不同学期也会微调，最新版笔记或指正错误请直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
 * <b>考核方法</b>：作业 60% + 期中考试 30% + 大作业10%
-	* 4-5次作业，其目的是练习课堂所授概念。在能帮助你理解和学习的前提下，欢迎学生与任何人（包括导师、其他学生，和我）讨论作业题目（除了个别指定题目外）。 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf">HW1<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf">HW2<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf">HW3<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf">HW4<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf">HW5<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* 4-5次作业，其目的是练习课堂所授概念。在能帮助你理解和学习的前提下，欢迎学生与任何人（包括导师、其他学生，和我）讨论作业题目（除了个别指定题目外）。 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW1<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW2<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW3<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW4<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW5<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 两次随堂“测试”，每次两道题，其目的是巩固相关概念的理解。题目的类型和难度与作业相当，考试时可以查阅自己的课堂笔记和我认可的教科书。
 	* 一次大作业，内容为调研断裂力学方面的相关（有趣的）实验，研读文献并在课堂汇报。其目的是学习文献中如何发现问题、提出模型、解决/回答问题的研究思路。
 
