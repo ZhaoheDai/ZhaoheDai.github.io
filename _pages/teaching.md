@@ -45,6 +45,7 @@ author_profile: false
 
 <br>
 <h3>本科生课程：材料力学B Mechanics of Materials</h3>
+<div style="text-align: center;"><img src="/teaching/MechanicsMaterials/Flyer.PNG" width="600"></div>
 
 * <b>开课时间</b>：2023春 (周培源班握手计划)，2024春 
 * <b>教学方式</b>：板书授课
@@ -70,7 +71,7 @@ author_profile: false
 
 <br>
 <h3>研究生课程：表界面物理力学 Mechanics and Physics of Surfaces and Interfaces</h3>
-<div style="text-align: center;"><img src="/teaching/SurfaceInterface/flyer.png" width="600"></div>
+<div style="text-align: center;"><img src="/teaching/SurfaceInterface/Flyer.PNG" width="600"></div>
 * <b>开课时间</b>：2022秋	，2023秋，2025秋 
 * <b>课程编号</b>：08611650
 * <b>授课对象</b>：力学、航空航天、能源环境、先进制造专业
