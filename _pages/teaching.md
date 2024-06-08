@@ -5,6 +5,9 @@ author_profile: false
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<p style="color:indianred;"><b>声明</b>：附件中的讲义存在笔误，内容在不同学期也会微调，最新版笔记或指正错误欢迎直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
+
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
 * <b>开课时间</b>：2024春，2026春 <br>
@@ -16,7 +19,7 @@ author_profile: false
 	* 概论 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Introduction.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Griffith理论/思想 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Irwin裂纹尖端应力场 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* KI, KII, KIII的确定 （含傅里叶变换法）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* K<sub>I</sub>, K<sub>II</sub>, K<sub>III</sub>的确定 （含傅里叶变换法）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Westergaard应力函数（含III型各向异性） <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Rice加权函数法 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 断裂准则 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
@@ -27,7 +30,6 @@ author_profile: false
 	* 接触与粘附 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic10.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 动态断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic11.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  
 	* 界面断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic12.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
-	<p style="color:indianred;"><b>注</b>：上述讲义存在不少笔误，内容在不同学期也会微调，最新版笔记或指正错误请直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
 * <b>考核方法</b>：作业 60% + 期中考试 30% + 大作业10%
 	* 4-5次作业，其目的是练习课堂所授概念。在能帮助你理解和学习的前提下，欢迎学生与任何人（包括导师、其他学生，和我）讨论作业题目（除了个别指定题目外）。 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW1<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW2<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW3<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW4<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW5<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 两次随堂“测试”，每次两道题，其目的是巩固相关概念的理解。题目的类型和难度与作业相当，考试时可以查阅自己的课堂笔记和我认可的教科书。
@@ -50,17 +52,16 @@ author_profile: false
 * <b>课程学分</b>：3 
 * <b>课程简介</b>：材料力学课程作为一门基础的力学课程，具有固体力学引论的特性。通过材料力学的基本概念，拉伸和压缩，扭转与弯曲，复杂应力状态，压杆稳定性、弹性杆系能量法等内容，主要介绍弹性杆件和杆系结构在强度、刚度和稳定性方面的概念和计算方法等基础知识，为后续课程打下基础。
 * <b>课程大纲</b>：为了更好的与以学习过的理论力学和后续将要学习的弹性力学进行链接，我们微调了课程章节，并添加了部分训练性例题，具体如下：
-	* 第一章 课程介绍以及基本概论 （4学时） Intro pdf
-	* 第二章 拉伸与压缩 （5学时）pdf
-	* 第三章 扭转 （5-6学时）pdf
-	* 第四章 弯曲内力与应力 （6-7学时）pdf
+	* 第一章 课程介绍 <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Introduction.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 以及基本概论 <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>（4学时）
+	* 第二章 拉伸与压缩 （5学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* 第三章 扭转 （5-6学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* 第四章 弯曲内力与应力 （6-7学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 期中考试
-	* 第五章 弯曲变形 （10 学时）pdf
-	* 第六章 压杆稳定性 （6学时）pdf Examples
-	* 第七章 应力、应变分析和强度理论（8学时）pdf
-	* 第八章 弹性杆系的一般性质（8学时）pdf
+	* 第五章 弯曲变形 （10 学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* 第六章 压杆稳定性 （6学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> Examples
+	* 第七章 应力、应变分析和强度理论（8学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* 第八章 弹性杆系的一般性质（8学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 期末考试
-* <b>声明</b>：上述笔记存在不少笔误，内容随着教学的进行也会微调，如感兴趣最新版的笔记请直接邮件联系我。
 * <b>参考书目</b>
 	* 材料力学（第三版），殷有泉，励争，北京大学出版社
 
