@@ -5,10 +5,10 @@ author_profile: false
 ---
 <h3>Cover Gallary</h3>
 <table border=0>
-  <tr><td width=170 ><img src="/images/publications/Cover_2016afm.png" width="170"></td><td width=170><img src="/images/publications/Cover_2016softmatter.png" width="170"></td><td width=170><img src="/images/publications/Cover_2018_PRL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2019AM.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2019prl.png" width="170"></td></tr>
+  <tr><td width=145 ><img src="/images/publications/Cover_2016afm.png" width="145"></td><td width=145><img src="/images/publications/Cover_2016softmatter.png" width="145"></td><td width=145><img src="/images/publications/Cover_2018_PRL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019AM.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019prl.png" width="145"></td><td width=145 ><img src="/images/publications/Cover_2022AMI.JPG" width="145"></td></tr>
 </table>
 <table border=0>
-  <tr><td width=170 ><img src="/images/publications/Cover_2022AMI.JPG" width="170"></td><td width=170><img src="/images/publications/Cover_2023NL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2024_AIS.png" width="170"></td><td width=170><img src="/images/publications/Cover_2024NL.png" width="170"></td></tr>
+  <tr><td width=145><img src="/images/publications/Cover_2023NL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2024_AIS.png" width="415"></td><td width=145><img src="/images/publications/Cover_2024NL.png" width="145"></td></tr>
 </table>
 
 <p><b>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:#95A5A6;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en" style="color:indianred;">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:indianred;">ResearchGate</a> profile.</b></p>
