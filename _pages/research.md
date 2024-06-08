@@ -70,11 +70,10 @@ redirect_from:
 
 1. <p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:black;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p>
 
-2. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:#7B7D7D;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font><i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i>  </p>
+2. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:#7B7D7D;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i>  </p>
 
 
 <h3>Assembly and composites of nano building blocks</h3>
-
 
 1. <p><u>Z. Dai</u>, C. Weng, L. Liu*, X. Zhao, J. Kuang, Y. Hou, J. Shi, Y. Wei, J. Lou*, Z. Zhang*. <a href="https://doi.org/10.1038/srep32989" style="text-decoration:none;color:black;">Multifunctional Polymer-Based Graphene Foams with Buckled Structure and Negative Poisson’s Ratio</a>. <b>Scientific Reports</b> 6, 32989 (2016) <a href="http://zhaohedai.github.io/files/15.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
