@@ -21,7 +21,7 @@ author_profile: false
 <li><p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:Blue;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_Nature.png" width="500"></p>
 
-<li><p><u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4065338" style="text-decoration:none;color:Blue;">Analytical solutions for circular elastic membranes under pressure</a>. <b>Journal of Applied Mechanics</b> 91(8): 081002 (2024)</p></li>
+<li><p><u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4065338" style="text-decoration:none;color:Blue;">Analytical solutions for circular elastic membranes under pressure</a>. <b>Journal of Applied Mechanics</b> 91(8): 081002 (2024) <i class="fa fa-file-pdf-o" style="font-size:20px;color:red"></i> </p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_JAM.png" width="500"></p>
 
 <li><p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:Blue;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <font color="#95A5A6">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024NL.png" style="color:#95A5A6;">Cover</a></p></li>
