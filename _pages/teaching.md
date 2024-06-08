@@ -9,6 +9,25 @@ author_profile: false
 <p style="color:indianred;"><b>声明</b>：附件中的讲义存在笔误，内容在不同学期也会微调，最新版笔记或指正错误欢迎直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
 
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Rating</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="rating">
+        <span class="star" data-value="5">&#9733;</span>
+        <span class="star" data-value="4">&#9733;</span>
+        <span class="star" data-value="3">&#9733;</span>
+        <span class="star" data-value="2">&#9733;</span>
+        <span class="star" data-value="1">&#9733;</span>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
 
 * <b>开课时间</b>：2024春，2026春 <br>
 * <b>教学方式</b>：板书授课<br>
