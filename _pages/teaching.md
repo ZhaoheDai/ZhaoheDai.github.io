@@ -70,7 +70,7 @@ author_profile: false
 
 <br>
 <h3>研究生课程：表界面物理力学 Mechanics and Physics of Surfaces and Interfaces</h3>
-
+<div style="text-align: center;"><img src="/teaching/SurfaceInterface/flyer.png" width="600"></div>
 * <b>开课时间</b>：2022秋	，2023秋，2025秋 
 * <b>课程编号</b>：08611650
 * <b>授课对象</b>：力学、航空航天、能源环境、先进制造专业
