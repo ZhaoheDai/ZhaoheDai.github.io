@@ -59,7 +59,7 @@ author_profile: false
 
 <li><p>T. Yang, X. Jiang, Y. Huang. Q. Tian, L. Zhang, <u>Z. Dai</u>, H. Zhu*. <a href="https://doi.org/10.1016/j.isci.2021.103728" style="text-decoration:none;color:Blue;">Mechanical sensors based on two-dimensional materials: sensing mechanisms, structural designs and wearable applications</a>. <b>iScience</b> 25, 103728 (2022)</p></li>
 
-<li><p>W. Wang, X. Ma, <u>Z. Dai</u>, S. Zhang, Y. Hou, G. Wang, Q. Li, L. Liu*, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1002/admi.202101939" style="text-decoration:none;color:Blue;">Mechanical Behavior of Blisters Spontaneously Formed by Multilayer 2D Materials</a>. <b>Advanced Materials Interfaces</b> 2101939 (2022)</p></li>
+<li><p>W. Wang, X. Ma, <u>Z. Dai</u>, S. Zhang, Y. Hou, G. Wang, Q. Li, L. Liu*, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1002/admi.202101939" style="text-decoration:none;color:Blue;">Mechanical Behavior of Blisters Spontaneously Formed by Multilayer 2D Materials</a>. <b>Advanced Materials Interfaces</b> 2101939 (2022) <font color="IndianRed">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2022AMI.jpg" style="color:IndianRed;">cover</a></p></li>
 
 <br>
 <h3>2021</h3>
@@ -98,8 +98,8 @@ author_profile: false
 
 <li><p><u>Z. Dai</u><sup>†</sup>, G. Wang<sup>†</sup>, Z. Zheng, Y. Wang, S. Zhang, X. Qi, P. Tan, L. Liu*, Z. Xu, Q. Li, Z. Cheng*, Z. Zhang*. <a href="https://doi.org/10.1016/j.carbon.2019.03.014" style="text-decoration:none;color:Blue;">Mechanical Responses of Boron-doped Monolayer Graphene</a>. <b>Carbon</b> 147, 594 (2019)</p></li>
 
-<li><p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:Blue;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019)</p>
-*  ESI highly cited paper; Selected as the journal Frontispiece.</li>
+<li><p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:Blue;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <font color="IndianRed">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:IndianRed;">Frontispiece</a> <font color="Gold">ESI highly cited paper&#127942</font></p></li>
+
 
 <li><p>C. Weng, G. Wang, <u>Z. Dai</u>, Y. Pei, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1039/C9NR07988B" style="text-decoration:none;color:Blue;">Buckled AgNW/MXene Hybrid Hierarchical Sponges for High-Performance Electromagnetic Interference Shielding</a>. <b>Nanoscale</b> 11, 22804 (2019)</p></li>
 
