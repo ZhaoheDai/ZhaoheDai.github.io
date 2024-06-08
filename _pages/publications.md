@@ -14,7 +14,7 @@ author_profile: false
   <tr><td width=145><img src="/images/publications/Cover_2023NL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2024_AIS.png" width="145"></td><td width=145><img src="/images/publications/Cover_2024NL.png" width="145"></td></tr>
 </table>
 
-<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:indianred;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com.hk/citations?user=KlMdzWwAAAAJ&hl=en&oi=ao"><i class="fas fa-fw fa-graduation-cap" style="color:indianred">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai"><i class="fab fa-fw fa-researchgate" aria-hidden="true" style="color:indianred">ResearchGate</a> profile.</p>
+<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:indianred;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com.hk/citations?user=KlMdzWwAAAAJ&hl=en&oi=ao"><i class="fas fa-fw fa-graduation-cap"></i></a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai"><i class="fab fa-fw fa-researchgate" aria-hidden="true" style="color:indianred"></i></a> profile.</p>
 
 <ol reversed>
 
