@@ -42,6 +42,7 @@ author_profile: false
 	* J.R. Rice, “Mathematical Analysis in the Mechanics of Fracture”, in Fracture: An Advanced Treatise, vol. 2, ed. by H. Liebowitz, Academic Press, pp. 191-311, 1968. （作者是断裂力学先驱者，在线性和非线性断裂中的J积分、内聚力模型等方面有非常详细的阐述） 
 	* A.T. Zehnder, Fracture Mechanics, Springer, 2012. （优秀的的断裂力学教科书，其中包含了实验表征介绍的章节；可以通过北京大学内网下载电子版）
 	* L. B. Freund, and S. Suresh. Thin film materials. Cambridge university press, 2004. （薄膜断裂部分参考了书中的第五章）
+	* Lecture notes by Chad Landis.
 
 
 <br>
