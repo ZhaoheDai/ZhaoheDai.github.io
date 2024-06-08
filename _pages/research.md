@@ -8,7 +8,7 @@ redirect_from:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <h3>Thin film mechanics</h3>
-<p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling</p>
+<p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
 
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
 
@@ -23,7 +23,7 @@ redirect_from:
 
 
 <h3>Surfaces and interfaces</h3>
-<p style="color:indianred;">Keywards: Wetting, Adhesion, Friction, Delamination, Lubrication </p>
+<p style="color:indianred;">Keywards: Wetting, Adhesion, Friction, Delamination, Lubrication, Interface mechanics </p>
 
 <div style="text-align: center;"><img src="/images/Surface.png" width="700"></div>
 
@@ -41,7 +41,7 @@ redirect_from:
 
 <h3>Elastocapillarity </h3>
 
-<p style="color:indianred;">Keywards: Elastic wetting, Liquid-solid interactions, Elastic dewetting, Elastocapillary adhesion</p>
+<p style="color:indianred;">Keywards: Elastic wetting, Liquid-structure interactions, Elastic dewetting, Elastocapillary adhesion, Blisters</p>
 <div style="text-align: center;"><img src="/images/Research2.png" width="700"></div>
 
 1. <p>S. Liu, J. He, Y. Rao, <u>Z. Dai</u>, H. Ye, J. C. Tanir, Y. Li, N. Lu. <a href="https://doi.org/10.1126/sciadv.adf2709" style="text-decoration:none;color:black;">Conformability of flexible sheets on spherical surfaces</a>. <b>Science Advances</b> 9, eadf2709 (2023) <a href="http://zhaohedai.github.io/files/2023_SA.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
@@ -68,7 +68,7 @@ redirect_from:
 
 <h3>Elastic strain engineering</h3>
 
-<p style="color:indianred;">Keywards: Strain engineering, Pseudo-magnetic field, Devices</p>
+<p style="color:indianred;">Keywards: Strain engineering, Pseudo-magnetic field, 2D material devices</p>
 <div style="text-align: center;"><img src="/images/StrainEngineering.png" width="500"><</div>
 
 1. <p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:black;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p>
@@ -78,7 +78,7 @@ redirect_from:
 
 <h3>Assembly and composites of nano building blocks</h3>
 
-<p style="color:indianred;">Keywards: Functional composites, Self-assembly, Mechanical properties, Sponges, Negative Poisson's ratio</p>
+<p style="color:indianred;">Keywards: Functional composites, Composite films, Self-assembly, Mechanical properties, Composite sponges, Negative Poisson's ratio</p>
 <p style="text-align:center;"><img src="/images/publications/9.jpg" width="500"></p>
 
 1. <p><u>Z. Dai</u>, C. Weng, L. Liu*, X. Zhao, J. Kuang, Y. Hou, J. Shi, Y. Wei, J. Lou*, Z. Zhang*. <a href="https://doi.org/10.1038/srep32989" style="text-decoration:none;color:black;">Multifunctional Polymer-Based Graphene Foams with Buckled Structure and Negative Poisson’s Ratio</a>. <b>Scientific Reports</b> 6, 32989 (2016) <a href="http://zhaohedai.github.io/files/15.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
