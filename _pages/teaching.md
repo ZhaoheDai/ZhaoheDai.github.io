@@ -58,7 +58,7 @@ author_profile: false
 	* 第四章 弯曲内力与应力 （6-7学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 期中考试
 	* 第五章 弯曲变形 （10 学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
-	* 第六章 压杆稳定性 （6学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6Examples.pdf" style="text-decoration:none;color:black;">Beyond<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* 第六章 压杆稳定性 （6学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch6Examples.pdf" style="text-decoration:none;color:black;">Beyond <i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 第七章 应力、应变分析和强度理论（8学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 第八章 弹性杆系的一般性质（8学时） <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* 期末考试
@@ -80,17 +80,21 @@ author_profile: false
 * <b>课程简介</b>：宏观中经常忽略的表面和界面作用在微米尺度或更小尺度下变得非常重要，甚至主导物质的物理/力学行为与性质。随着系统和工艺的不断缩小，对表界面物理和力学的理解愈发关键。常见的例子包括微电子、表面涂层、labs-on-a-chip、纳米制造、聚合物加工等工程系统，也有细胞运动、壁虎粘附墙壁等许多有趣的生物系统。
 本课程将重点关注由表面或两相之间界面的存在而引发的物理和力学现象，包括接触、黏附、（反）润湿等经典问题。主要涉及表面张力、范德华力等表面和分子间作用力，梁、板、壳、固膜、液膜等研究对象。该课程的具体目标是：1.介绍范德华相互作用及其影响；2.介绍表面能/表面张力的概念及其应用；3.简介关于梁、板、壳、膜等连续介质力学的约化模型；4.研究和分析这些模型在表界面作用力下的静态和动态响应；5.培养一些对表界面物理和力学的建模技能。
 * <b>课程大纲</b>：为了实现上述这些目标，研究以下具体主题：
-	* 第一章 概论 (3学时) Lecture 1
-	* 第二章 范德华力、表面张力、界面应力的分子起源 (6课时)  Lecture 2 and 3
-	* 第三章 涉及表面张力的静态液体平衡问题 (9课时) Lecture 4, 5 and 6
-	* 第四章 涉及表面张力的可变形固体平衡问题 (6课时) Lecture 7 and 8
-	* 第五章 表面张力驱动的流动与线性稳定性理论 (9课时) Lecture 9, 10, and 11
-	* 第六章 表面张力诱发的动态弹性毛细现象 (6课时) Lecture 12 and 13
-	* 第七章 固体接触、黏附、脱粘/断裂理论 (6课时) Lecture 14 and 15
-	* 前沿专题(3-6课时)、结课报告 (3-6课时)
-
+	* Lecture 01 Introduction <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 02 Van der Waals forces <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 03 Surface tension <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 04 Fluid statics <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 05 Lateral force balances <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 06 Fluid dynamics <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 07 Elasto-capillarity <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 08 Fluid dynamics <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 09 Landau-Levich problem <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture9.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 10 Moving contact lines <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture10.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 11 Marangoni flow <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture11.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 12 Adhesion <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture12.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 13 Fracture <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture13.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 14 Presentation 
 * <b>课程考核</b>：平时作业（7次×10%/每次） + 结课项目（摘要5%，报告25%）
-
 * <b>参考书目</b>：  
 	* Israelachvili, Jacob N. Intermolecular and surface forces. Academic press, 2011.（优秀教材，比较详细的介绍了表界面物理化学）
     D. Qu′er′e, F. Brochard-Wyart, and P.-Gi. de Gennes. Capillarity and Wetting Phenomena, Springer, 2004.（优秀的表界面现象参考书，但缺乏推导细节）
