@@ -3,6 +3,8 @@ layout: archive
 permalink: /teaching/
 author_profile: false
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
 * <b>开课时间</b>：2024春，2026春 <br>
