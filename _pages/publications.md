@@ -12,7 +12,7 @@ author_profile: false
   <tr><td width=170 ><img src="/images/publications/Cover_2022AMI.JPG" width="170"></td><td width=170><img src="/images/publications/Cover_2023NL.jpg" width="170"></td><td width=170><img src="/images/publications/Cover_2024_AIS.png" width="170"></td><td width=170><img src="/images/publications/Cover_2024NL.png" width="170"></td></tr>
 </table>
 
-<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:IndianRed;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en" style="color:IndianRed;">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:IndianRed;">ResearchGate</a> profile. </p>
+<p><b>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at the <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:IndianRed;">College of Engineering</a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=23XDhOwAAAAJ&hl=en" style="color:IndianRed;">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:IndianRed;">ResearchGate</a> profile.</b></p>
 
 <ol reversed>
 
