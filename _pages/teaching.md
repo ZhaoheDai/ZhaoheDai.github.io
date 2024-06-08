@@ -5,7 +5,7 @@ author_profile: false
 ---
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
-* <b>开课时间</b>：2024春,2026春 <br>
+* <b>开课时间</b>：2024春，2026春 <br>
 * <b>教学方式</b>：板书授课<br>
 * <b>课程类别</b>：专业限选课<br>
 * <b>课程学分</b>：3 <br>
@@ -65,7 +65,7 @@ author_profile: false
 <br>
 <h3>研究生课程：表界面物理力学 Mechanics and Physics of Surfaces and Interfaces</h3>
 
-* <b>开课时间</b>：2022秋,2023秋,2025秋 
+* <b>开课时间</b>：2022秋	，2023秋，2025秋 
 * <b>课程编号</b>：08611650
 * <b>授课对象</b>：力学、航空航天、能源环境、先进制造专业
 * <b>教学方式</b>：课堂板书为主
