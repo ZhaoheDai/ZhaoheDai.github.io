@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "<h2>Teaching</h2>"
 permalink: /teaching/
 author_profile: false
 ---
-
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
 * <b>开课时间</b>：2024春 <br>
