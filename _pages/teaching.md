@@ -9,13 +9,14 @@ author_profile: false
 <p style="color:indianred;"><b>声明</b>：附件中的讲义存在笔误，内容在不同学期也会微调，最新版笔记或指正错误欢迎直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
 
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
-<p style="text-align:center;"><img src="/images/TeachingFracture.png" width="500"></p>
 
 * <b>开课时间</b>：2024春，2026春 <br>
 * <b>教学方式</b>：板书授课<br>
 * <b>课程类别</b>：专业限选课<br>
 * <b>课程学分</b>：3 <br>
-* <b>课程简介</b>：本课程以简单和循序渐进的方式讲述断裂力学的基本原理。断裂力学问题的主要组成部分包括1）裂纹体中的应力和应变场的确定以及2）裂纹扩展的断裂准则。我们将涵盖线性和非线性断裂力学概念，并着眼于裂纹尖端附近的分离机制。此外，根据具体情况，本课程还将部分涵盖黏附力学、动态断裂力学、界面断裂力学、相场断裂模型、柔性器件/微机电系统中的断裂力学问题等专题。课程由两部分组成，其中<br>
+<p style="text-align:center;"><img src="/images/TeachingFracture.png" width="700"></p>
+
+* <b>课程简介</b>：本课程以简单和循序渐进的方式讲述断裂力学的基本原理。断裂力学问题的主要组成部分包括1）裂纹体中的应力和应变场的确定以及2）裂纹扩展的断裂准则。我们将涵盖线性和非线性断裂力学概念，并着眼于裂纹尖端附近的分离机制。此外，根据具体情况，本课程还将部分涵盖黏附力学、动态断裂力学、界面断裂力学、相场断裂模型、柔性器件/微机电系统中的断裂力学问题等专题。课程由两部分组成，其中
 * <b>第一部分：线弹性断裂力学</b>
 	* 概论 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Introduction.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Griffith理论/思想 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
@@ -47,12 +48,12 @@ author_profile: false
 
 <br>
 <h3>本科生课程：材料力学B Mechanics of Materials</h3>
-<p style="text-align:center;"><img src="/images/TeachingMaterial.png" width="500"></p>
-
 * <b>开课时间</b>：2023春 (周培源班握手计划)，2024春 
 * <b>教学方式</b>：板书授课
 * <b>课程类别</b>：专业必修课
 * <b>课程学分</b>：3 
+<p style="text-align:center;"><img src="/images/TeachingMaterial.png" width="700"></p>
+
 * <b>课程简介</b>：材料力学课程作为一门基础的力学课程，具有固体力学引论的特性。通过材料力学的基本概念，拉伸和压缩，扭转与弯曲，复杂应力状态，压杆稳定性、弹性杆系能量法等内容，主要介绍弹性杆件和杆系结构在强度、刚度和稳定性方面的概念和计算方法等基础知识，为后续课程打下基础。
 * <b>课程大纲</b>：为了更好的与以学习过的理论力学和后续将要学习的弹性力学进行链接，我们微调了课程章节，并添加了部分训练性例题，具体如下：
 	* 第一章 课程介绍 <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Introduction.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 以及基本概论 <a href="http://zhaohedai.github.io/teaching/MechanicsMaterials/Ch1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>（4学时）
@@ -73,7 +74,6 @@ author_profile: false
 
 <br>
 <h3>研究生课程：表界面物理力学 Mechanics and Physics of Surfaces and Interfaces</h3>
-<p style="text-align:center;"><img src="/images/TeachingSurface.png" width="500"></p>
 
 * <b>开课时间</b>：2022秋	，2023秋，2025秋 
 * <b>课程编号</b>：08611650
@@ -81,6 +81,8 @@ author_profile: false
 * <b>教学方式</b>：课堂板书为主
 * <b>课程类别</b>：专业选修课
 * <b>课程学分</b>：3
+<p style="text-align:center;"><img src="/images/TeachingSurface.png" width="700"></p>
+
 * <b>课程简介</b>：宏观中经常忽略的表面和界面作用在微米尺度或更小尺度下变得非常重要，甚至主导物质的物理/力学行为与性质。随着系统和工艺的不断缩小，对表界面物理和力学的理解愈发关键。常见的例子包括微电子、表面涂层、labs-on-a-chip、纳米制造、聚合物加工等工程系统，也有细胞运动、壁虎粘附墙壁等许多有趣的生物系统。
 本课程将重点关注由表面或两相之间界面的存在而引发的物理和力学现象，包括接触、黏附、（反）润湿等经典问题。主要涉及表面张力、范德华力等表面和分子间作用力，梁、板、壳、固膜、液膜等研究对象。该课程的具体目标是：1.介绍范德华相互作用及其影响；2.介绍表面能/表面张力的概念及其应用；3.简介关于梁、板、壳、膜等连续介质力学的约化模型；4.研究和分析这些模型在表界面作用力下的静态和动态响应；5.培养一些对表界面物理和力学的建模技能。
 * <b>课程大纲</b>：为了实现上述这些目标，研究以下具体主题：
