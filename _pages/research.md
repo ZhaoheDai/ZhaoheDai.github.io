@@ -25,7 +25,7 @@ redirect_from:
 <h3>Surfaces and interfaces</h3>
 <p style="color:indianred;">Keywards: Wetting, Adhesion, Friction, Delamination, Lubrication </p>
 
-<div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
+<div style="text-align: center;"><img src="/images/Surface.png" width="700"></div>
 
 1. <p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:black;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023) <a href="http://zhaohedai.github.io/files/2023_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
@@ -67,6 +67,9 @@ redirect_from:
 
 
 <h3>Elastic strain engineering</h3>
+
+<p style="color:indianred;">Keywards: Strain engineering, Pseudo-magnetic field, Devices</p>
+<div style="text-align: center;"><img src="/images/StrainEngineering.png" width="500"><</div>
 
 1. <p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:black;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p>
 
