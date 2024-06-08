@@ -19,3 +19,70 @@ redirect_frm:
 My name is Zhaohe Dai, and I am an Assistant Professor in the Department of Mechanics and Engineering Science at the College of Engineering, Peking University (PKU). I received my B.Sc. degree in Theoretical and Applied Mechanics from the University of Science and Technology of China in 2013, my M.S. degree in Solid Mechanics from the Institute of Mechanics in 2016, and my Ph.D. in Solid Mechanics from the University of Texas at Austin in 2020. Prior to joining PKU in March 2022, I conducted postdoctoral research at the Mathematical Institute, University of Oxford, as a Marie Curie Fellow.
 
 My research has equipped me with extensive knowledge in various areas of mechanics and materials, including thin film mechanics, surface phenomena, interface mechanics, 2D materials, and nanocarbon-based composites. My published works predominantly focus on the mechanics of thin solids and liquids, with particular emphasis on elasticity metrology, elastocapillarity, wrinkling instability, adhesion, and friction. Broadly, I am interested in understanding the deformation behaviors of slender solids when interacting with other objects, including liquids, and both rigid and deformable substrates.
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Counter and Location</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 400px;
+            width: 100%;
+        }
+        .counter {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="counter">Visitor Count: <span id="visitorCount">0</span></div>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        // Visitor counter using local storage
+        function updateVisitorCount() {
+            if (localStorage.visitorCount) {
+                localStorage.visitorCount = Number(localStorage.visitorCount) + 1;
+            } else {
+                localStorage.visitorCount = 1;
+            }
+            document.getElementById('visitorCount').innerText = localStorage.visitorCount;
+        }
+
+        updateVisitorCount();
+
+        // Function to get user's location and display on map
+        function showPosition(position) {
+            const latitude = position.coords.latitude;
+            const longitude = position.coords.longitude;
+
+            // Initialize map
+            const map = L.map('map').setView([latitude, longitude], 13);
+
+            // Add OpenStreetMap tiles
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // Add marker at user's location
+            L.marker([latitude, longitude]).addTo(map)
+                .bindPopup('You are here!')
+                .openPopup();
+        }
+
+        function errorHandler(err) {
+            console.warn(`ERROR(${err.code}): ${err.message}`);
+        }
+
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition, errorHandler);
+        } else {
+            alert("Geolocation is not supported by this browser.");
+        }
+    </script>
+</body>
+</html>
