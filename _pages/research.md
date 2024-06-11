@@ -6,7 +6,7 @@ redirect_from:
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<hr>
 <h3>Thin film mechanics</h3>
 <p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
 
@@ -21,7 +21,7 @@ redirect_from:
 4. <p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:black;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <a href="http://zhaohedai.github.io/files/2022_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/NanoLett2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2023NL.jpg" style="color:#7B7D7D;">Cover</a></p>
 
 
-
+<hr>
 <h3>Surfaces and interfaces</h3>
 <p style="color:indianred;">Keywards: Wetting, Adhesion, Friction, Delamination, Lubrication, Interface mechanics </p>
 
@@ -38,7 +38,7 @@ redirect_from:
 5. <p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:black;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017) <a href="http://zhaohedai.github.io/files/23.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, Chinese Academy of Science, and Nanotechweb (see</font> <a href="https://aps.altmetric.com/details/22013151/news" style="color:#7B7D7D;">Altmetric</a>) <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i> </p>
 
 
-
+<hr>
 <h3>Elastocapillarity </h3>
 
 <p style="color:indianred;">Keywards: Elastic wetting, Liquid-structure interactions, Elastic dewetting, Elastocapillary adhesion, Blisters</p>
@@ -55,7 +55,7 @@ redirect_from:
 5. <p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:black;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018) <a href="http://zhaohedai.github.io/files/29.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 
-
+<hr>
 <h3>Thin elastic layers </h3>
 
 <p style="color:indianred;">Keywards: Approximate theory, Winkler foundation model, Shear lag model</p>
@@ -65,7 +65,7 @@ redirect_from:
 
 2. <p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:black;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016) <a href="http://zhaohedai.github.io/files/16.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
-
+<h3>
 <h3>Elastic strain engineering</h3>
 
 <p style="color:indianred;">Keywards: Strain engineering, Pseudo-magnetic field, 2D material devices</p>
@@ -75,7 +75,7 @@ redirect_from:
 
 2. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:#7B7D7D;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i>  </p>
 
-
+<h3>
 <h3>Assembly and composites of nano building blocks</h3>
 
 <p style="color:indianred;">Keywards: Functional composites, Composite films, Self-assembly, Mechanical properties, Composite sponges, Negative Poisson's ratio</p>
@@ -88,7 +88,7 @@ redirect_from:
 3. <p><u>Z. Dai</u>, L. Liu*, J. Kuang, Y. Wei, H. Zhu*, Z. Zhang*. <a href="https://doi.org/10.1038/srep18930" style="text-decoration:none;color:black;">Three-dimensional Sponges with Super Mechanical Stability: Harnessing True Elasticity of Individual Carbon Nanotubes in Macroscopic Architectures</a>. <b>Scientific Reports</b> 6, 18930 (2016) <a href="http://zhaohedai.github.io/files/13.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 
-
+<hr>
 <h3>Grants</h3>
 
 My research has been supported by the following grants:
@@ -100,6 +100,7 @@ My research has been supported by the following grants:
 * 2022-2024，北京大学学科建设项目，北京大学，100 万元，主持
 * 2020-2022，玛丽居里学者，欧盟地平线计划，约180 万元，主持
 
+<hr>
 <h3>Fellowships</h3>
 
 I am grateful for the generous financial support from many organizations, including:
