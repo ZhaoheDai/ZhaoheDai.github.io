@@ -9,6 +9,7 @@ redirect_from:
 <p style="text-align:left;"> 
 	<a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:indianred;">北大校内信息</a> <br> 
 	<a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:indianred;">北大邮箱</a> <br> 
+	<a href="https://www.coe.pku.edu.cn/" style="text-decoration:none;color:indianred;">工学院</a> <br> 
 	<a href="https://arxiv.org/list/cond-mat/new" style="text-decoration:none;color:black;">arxiv</a><br> 
 	<a href="https://shellbuckling.com/presentations/softShellsMembranes/index.html" style="text-decoration:none;color:black;">Shells and Membranes</a><br> 
 	<a href="http://imechanica.org/" style="text-decoration:none;color:black;">imechanica</a><br> 
