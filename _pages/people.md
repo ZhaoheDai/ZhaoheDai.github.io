@@ -11,7 +11,7 @@ author_profile: false
   
 * 戴兆贺 (Zhaohe Dai) <a href="http://zhaohedai.github.io/files/CV2024.pdf" style="color:black;"><i class="fa fa-file" aria-hidden="true"></i></a>
 
-
+<hr>
 <h3>博士后 Post-Docs</h3>   
 
 * 2022.07-present, 李航, Hang Li is working on elastocapillarity and elastocaloric materials.
@@ -20,7 +20,7 @@ author_profile: false
 
 * 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
 
-
+<hr>
 <h3>博士研究生 Graduate Students</h3> 
 
 * 2022.09-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses.
@@ -33,12 +33,12 @@ author_profile: false
 
 * 2024.09-present, 曹嘉聪, iacong Cao is working on the computational mechanics of elastic membranes.
 
-
+<hr>
 <h3>硕士研究生 Graduate Students</h3> 
 
 * 2024.09-present, 张国政，Guozheng Zhang is working on the indentation of substrate-shell structures.
 
-
+<hr>
 <h3>本科生 Undergraduate Students</h3> 
 
  * 2023.06-present, 陆煌, Huang Lu is working on peeling of adhesive tapes.
@@ -54,8 +54,7 @@ author_profile: false
  * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
 <br>
 <br>
-<br>
-<br>
+<hr>
 <h2>毕业生 Alumni</h2>
 
 <h3>本科生 Undergraduates</h3> 

@@ -13,9 +13,9 @@ author_profile: false
 <table border=0>
   <tr><td width=145><img src="/images/publications/Cover_2023NL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2024_AIS.png" width="145"></td><td width=145><img src="/images/publications/Cover_2024NL.png" width="145"></td></tr>
 </table>
-
+<hr>
 <p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:black;"><i class="fa fa-university" aria-hidden="true"></i></a>. For citation statistics, see my <a href="https://scholar.google.com.hk/citations?user=KlMdzWwAAAAJ&hl=en&oi=ao" style="color:black;"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:black;"><i class="fab fa-fw fa-researchgate"></i></a> profile.</p>
-
+<hr>
 <ol reversed>
 
 <h3>2024</h3>
@@ -35,6 +35,7 @@ author_profile: false
 <li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:#DC7633;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023) <a href="http://zhaohedai.github.io/files/2024_AIS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024_AIS.png" style="color:#7B7D7D;">Cover</a></p></li> 
 
 <br>
+<hr>
 <h3>2023</h3>
 
 <li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.20517/jmi.2023.27" style="text-decoration:none;color:#DC7633;">Characterizing the wetting behavior of 2D materials: A review</a>. <b>Journal of Material Informatics</b> 3, 20 (2023) <a href="http://zhaohedai.github.io/files/2023_jmi.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited review</font></p></li>
@@ -53,6 +54,7 @@ author_profile: false
 <p style="text-align:center;"><img src="/images/publications/57.jpg" width="500"></p>
 
 <br>
+<hr>
 <h3>2022</h3>
 
 <li><p><u>Z. Dai</u>, Y. Rao, N. Lu*. <a href="https://doi.org/10.1016/j.ijsolstr.2022.111829" style="text-decoration:none;color:#DC7633;">Two-dimensional crystals on adhesive substrates subjected to uniform transverse pressure</a>. <b>International Journal of Solids and Structures</b> 257, 111829 (2022) <a href="http://zhaohedai.github.io/files/2022_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/IJSS2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures/vol/257/suppl/C" style="color:#7B7D7D;">Special Issue in the honour Dr Stelios Kyriakides</a> </p></li>
@@ -66,6 +68,7 @@ author_profile: false
 <li><p>W. Wang, X. Ma, <u>Z. Dai</u>, S. Zhang, Y. Hou, G. Wang, Q. Li, L. Liu*, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1002/admi.202101939" style="text-decoration:none;color:#DC7633;">Mechanical Behavior of Blisters Spontaneously Formed by Multilayer 2D Materials</a>. <b>Advanced Materials Interfaces</b> 2101939 (2022) <a href="http://zhaohedai.github.io/files/52.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2022AMI.JPG" style="color:#7B7D7D;">Cover</a></p></li>
 
 <br>
+<hr>
 <h3>2021</h3>
 
 <li><p>Y. Hou<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, S. Zhang<sup>†</sup>, S. Feng, G. Wang, L. Liu*, Z. Xu*, Q. Li*, Z. Zhang*. <a href="https://doi.org/10.1038/s41467-021-25302-2" style="text-decoration:none;color:#DC7633;">Elastocapillary cleaning of twisted bilayer graphene interfaces</a>. <b>Nature Communications</b> 12, 5069 (2021) <a href="http://zhaohedai.github.io/files/2021_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
@@ -85,6 +88,7 @@ author_profile: false
 <li><p>J. Shi, W. Zeng, <u>Z. Dai</u>, L. Wang, Q. Wang, S. Lin, Y. Xiong, S. Yang, S. Shang, W. Chen, L. Zhao, X. Ding, X. Tao*, Yang Chai*. <a href="https://doi.org/10.1002/smsc.202000011" style="text-decoration:none;color:#DC7633;">Piezo-catalytic foam for highly efficient degradation of aqueous organics</a>. <b>Small Science</b> 1, 2000011 (2021) <a href="http://zhaohedai.github.io/files/45.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 
 <br>
+<hr>
 <h3>2020</h3>
 
 <li><p><u>Z. Dai</u>, N. Lu, K. Liechti, R. Huang*. <a href="https://doi.org/10.1016/j.cossms.2020.100837" style="text-decoration:none;color:#DC7633;">Mechanics at the Interfaces of 2D Materials: Challenges and Opportunities</a>. <b>Current Opinions in Solid State & Materials Science</b> 24, 100837 (2020) <a href="http://zhaohedai.github.io/files/44.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://www.sciencedirect.com/special-issue/10KTFKXPFSP" style="color:#7B7D7D;">Special Issue: 2D Materials</a></p></li>
@@ -100,6 +104,7 @@ author_profile: false
 <li><p>H. Jang, <u>Z. Dai</u>, K. Ha, S. K. Ameri, N. Lu*. <a href="https://doi.org/10.1088/2053-1583/ab4c0f" style="text-decoration:none;color:#DC7633;">Stretchability of Chemical Vapor Deposited Graphene Supported by Submicron-Thick Polymeric Substrates</a>. <b>2D Materials</b> 7, 014003 (2020) <a href="http://zhaohedai.github.io/files/40.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 
 <br>
+<hr>
 <h3>2019</h3>
 
 <li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:#DC7633;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019) <a href="http://zhaohedai.github.io/files/39.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion, featured on the journal <a href="http://zhaohedai.github.io/images/publications/Cover_2019prl.png" style="color:#7B7D7D;">Cover</a> and by news media <a href="https://www.cambridge.org/core/journals/mrs-bulletin/news/interlayer-shear-determines-bending-rigidity-in-van-der-waals-materials" style="color:#7B7D7D;">MRS News</a></font>  <font color="Gold">ESI highly cited paper</font><i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i> </p></li>
@@ -124,6 +129,7 @@ author_profile: false
 <li><p>L. Zhao, J. Zhao*, C. Zhang, Y. Liu, J. Shi, <u>Z. Dai</u>, Y. Guo, B. Li, H. Zhang, X. Feng, J. Zhang, Z. Zhang*. <a href="https://doi.org/10.1021/acsami.8b19890" style="text-decoration:none;color:#DC7633;">Hierarchical Surface Patterns Tuned by Shape Memory Polymers</a>. <b>ACS Applied Materials & Interfaces</b> 11, 1563 (2019) <a href="http://zhaohedai.github.io/files/31.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 
 <br>
+<hr>
 <h3>2018</h3>
 <li><p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:#DC7633;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018) <a href="http://zhaohedai.github.io/files/2018_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion, featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2018_PRL.jpg" style="color:#7B7D7D;">Cover</a> </p></li>
 <div style="text-align: center;"><img src="/images/publications/30.jpg" width="500"></div>
@@ -142,6 +148,7 @@ author_profile: false
 <li><p>M. Choi<sup>†</sup>, J. Yang<sup>†</sup>, D. Kim<sup>†</sup>, <u>Z. Dai</u>, J. Kim, H. Seung, V. Kale, N. Lu, T. Hyeon*, D. Kim*. <a href="https://doi.org/10.1002/adma.201703279" style="text-decoration:none;color:#DC7633;">Extremely vivid transparent light-emitting diodes based on quantum dots</a>. <b>Advanced Materials</b> 30, 1703279 (2018) <a href="http://zhaohedai.github.io/files/24.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted by</font> <a href="https://www.advancedsciencenews.com/quantum-dot-leds-next-generation-light-emitting-devices/" style="color:#7B7D7D;">Advanced Science News</a></p></li>
 
 <br>
+<hr>
 <h3>2017</h3>
 
 <li><p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:#DC7633;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017) <a href="http://zhaohedai.github.io/files/23.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, Chinese Academy of Science, and Nanotechweb (see</font> <a href="https://aps.altmetric.com/details/22013151/news" style="color:#7B7D7D;">Altmetric</a>) <font color="Gold">ESI highly cited paper</font><i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i> </p></li>
@@ -160,6 +167,7 @@ author_profile: false
 <li><p>Q. Wu, <u>Z. Dai</u>, Y. Su*, A. A. Volinsky*, L. Liu, Z. Zhang. <a href="https://doi.org/10.1016/j.carbon.2017.02.022" style="text-decoration:none;color:#DC7633;">Cyclic microbridge testing of graphene oxide membrane</a>. <b>Carbon</b> 116, 479 (2017) <a href="http://zhaohedai.github.io/files/17.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 
 <br>
+<hr>
 <h3>Before 2016</h3>
 
 <li><p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:#DC7633;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016) <a href="http://zhaohedai.github.io/files/16.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
@@ -194,7 +202,7 @@ author_profile: false
 <li><p><u>Z. Dai</u>, Y. Gao, L. Liu*, P. Pötschke, J. Yang, Z. Zhang*. <a href="https://doi.org/10.1016/j.polymer.2013.05.013" style="text-decoration:none;color:#DC7633;">Creep-resistant behavior of MWCNT-polycarbonate melt spun nanocomposite fibers at elevated temperature</a>. <b>Polymer</b> 54, 3723 (2013) <a href="http://zhaohedai.github.io/files/4.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 <div style="text-align: center;"><img src="/images/publications/1.png" width="500"></div><br></li>
 
-
+<hr>
 <h3>Other writings</h3>
 
 <li><p>Y. Li, G. Wang, <u>Z. Dai</u>, Y. Hou, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-19-037" style="text-decoration:none;color:#DC7633;">Measurement of Young’s Modulus of 2D Materials Through in situ Through-Hole Bubble Tests</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-19-037 (2019) <a href="http://zhaohedai.github.io/files/3.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>

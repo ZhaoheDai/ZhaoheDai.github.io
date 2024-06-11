@@ -18,7 +18,7 @@ redirect_from:
 	<a href="https://www.mathgenealogy.org/id.php?id=269836" style="text-decoration:none;color:black;">Mathematics Genealogy</a>
 </p>
 
-
+<hr>
 <h3>Applied Mechanics</h3>
 
 <p style="text-align:left;">
@@ -32,7 +32,7 @@ redirect_from:
 	<a href="https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids" style="text-decoration:none;color:black;">Journal of the Mechanics and Physics of Solids</a><br> 
 </p>
 
-
+<hr>
 <h3>Applied Physics</h3>
 
 <p style="text-align:left;">
@@ -50,7 +50,7 @@ redirect_from:
 <br>
 </p>
 
-
+<hr>
 <h3>Materials Science</h3>
 
 <p style="text-align:left;">
@@ -66,7 +66,7 @@ redirect_from:
 <a href="https://www.nature.com/nnano/" style="text-decoration:none;color:black;">Nature Nanotechnology</a><br>
 </p>
 
-
+<hr>
 <h3>Reviews</h3>
 <a href="https://www.annualreviews.org/journal/conmatphys" style="text-decoration:none;color:black;">Annual Review of Condensed Matter Physics</a>
 <br>

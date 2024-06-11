@@ -65,7 +65,7 @@ redirect_from:
 
 2. <p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:black;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016) <a href="http://zhaohedai.github.io/files/16.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
-<h3>
+<hr>
 <h3>Elastic strain engineering</h3>
 
 <p style="color:indianred;">Keywards: Strain engineering, Pseudo-magnetic field, 2D material devices</p>
@@ -75,7 +75,7 @@ redirect_from:
 
 2. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:#7B7D7D;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i>  </p>
 
-<h3>
+<hr>
 <h3>Assembly and composites of nano building blocks</h3>
 
 <p style="color:indianred;">Keywards: Functional composites, Composite films, Self-assembly, Mechanical properties, Composite sponges, Negative Poisson's ratio</p>

@@ -7,7 +7,7 @@ author_profile: false
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <p style="color:indianred;"><b>声明</b>：附件中的讲义存在笔误，内容在不同学期也会微调，最新版笔记或指正错误欢迎直接<a href="mailto:daizh@pku.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>联系。</p>
-
+<hr>
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
 * <b>开课时间</b>：2024春，2026春 <br>
@@ -47,6 +47,7 @@ author_profile: false
 
 
 <br>
+<hr>
 <h3>本科生课程：材料力学B Mechanics of Materials</h3>
 * <b>开课时间</b>：2023春 (周培源班握手计划)，2024春 
 * <b>教学方式</b>：板书授课
@@ -73,6 +74,7 @@ author_profile: false
 
 
 <br>
+<hr>
 <h3>研究生课程：表界面物理力学 Mechanics and Physics of Surfaces and Interfaces</h3>
 
 * <b>开课时间</b>：2022秋	，2023秋，2025秋 
