@@ -6,7 +6,7 @@ redirect_from:
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<hr>
+
 <h3>Thin film mechanics</h3>
 <p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
 
