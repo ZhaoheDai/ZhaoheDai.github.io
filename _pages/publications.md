@@ -20,8 +20,8 @@ author_profile: false
 
 <h3>2024</h3>
 
-<li><p><u>C. Yu</u>, <u>J. Cao</u>, S. Zhu, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:#DE3163;">Preparation and Modeling of Graphene Bubbles to obtain Strain-Induced Pseudomagnetic Fields</a>. <b>Materials</b> 629, 1021–1026 (2024)</p><a href="http://zhaohedai.github.io/files/2024_Mater.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue</font> <a href="https://www.mdpi.com/journal/materials/special_issues/F2PHE99584" style="color:#7B7D7D;">Nanodevices in 2D Materials</a></p></li>
-<p style="text-align:center;"><img src="/images/publications/2024_Mater.png" width="500"></p>
+<li><p><u>C. Yu</u>, <u>J. Cao</u>, S. Zhu, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:#DE3163;">Preparation and Modeling of Graphene Bubbles to obtain Strain-Induced Pseudomagnetic Fields</a>. <b>Materials</b> 629, 1021–1026 (2024) <a href="http://zhaohedai.github.io/files/2024_Material.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue</font> <a href="https://www.mdpi.com/journal/materials/special_issues/F2PHE99584" style="color:#7B7D7D;">Nanodevices in 2D Materials</a></p></li>
+<p style="text-align:center;"><img src="/images/publications/2024_Material.png" width="500"></p>
 
 <li><p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:#DE3163;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_Nature.png" width="500"></p>
