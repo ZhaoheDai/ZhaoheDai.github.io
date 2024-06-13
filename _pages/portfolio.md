@@ -4,6 +4,15 @@ title: ""
 permalink: /portfolio/
 author_profile: false
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K251SYLJ6Y');
+</script>
 <img src="/images/Album/2024.jpg" width="500"><br>
 2024/03/30 Attending the 2024 Conference of Chinese Solid Mechanics at Nanjing.
 <hr>

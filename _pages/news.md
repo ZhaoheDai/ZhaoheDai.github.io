@@ -5,6 +5,15 @@ author_profile: false
 redirect_from:
   - /wordpress/blog-posts/
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K251SYLJ6Y');
+</script>
 <h3>2024</h3>
 
 * 3月29日，课题组参加2024年全国固体力学学术会议，戴兆贺、李航、李居曜做口头报告，陈尔腾、郑婉莹、陆煌、曹嘉聪做墙报展示。

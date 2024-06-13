@@ -6,6 +6,15 @@ redirect_frm:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K251SYLJ6Y');
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 北京大学工学院力学与工程科学系助理教授、研究员、博士生导师。2013年在中国科学技术大学近代力学系获得学士学位，2016年在中科院力学所获得硕士学位，2020年在德克萨斯大学奥斯汀分校工程力学系获得博士学位，同年入选玛丽居里学者在牛津大学数学所开展博后研究，2022年3月加入北京大学。

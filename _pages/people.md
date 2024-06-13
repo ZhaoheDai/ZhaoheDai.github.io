@@ -4,7 +4,15 @@ title: "<h2>团队 People</h2>"
 permalink: /people/
 author_profile: false
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-K251SYLJ6Y');
+</script>
 {% include base_path %}
 
 <h3>课题组负责人   Principal Investigator</h3>

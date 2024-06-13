@@ -5,7 +5,15 @@ permalink: /links/
 author_profile: true
 redirect_from: 
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-K251SYLJ6Y');
+</script>
 <p style="text-align:left;"> 
 	<a href="https://portal.pku.edu.cn/portal2017/#/bizCenter?rand=0.22178454592736918" style="text-decoration:none;color:indianred;">北大校内信息</a> <br> 
 	<a href="https://mail.pku.edu.cn/" style="text-decoration:none;color:indianred;">北大邮箱</a> <br> 
