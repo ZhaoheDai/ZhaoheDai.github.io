@@ -19,7 +19,7 @@ author_profile: false
 <hr>
 <h3>本科生课程：断裂力学 Fracture mechanics</h3>
 
-* <b>开课时间</b>：2024春，2026春 <br>
+* <b>开课时间</b>：2024春，2026秋 <br>
 * <b>教学方式</b>：板书授课<br>
 * <b>课程类别</b>：专业限选课<br>
 * <b>课程学分</b>：3 <br>
@@ -57,8 +57,8 @@ author_profile: false
 
 <br>
 <hr>
-<h3>本科生课程：材料力学B Mechanics of Materials</h3>
-* <b>开课时间</b>：2023春 (周培源班握手计划)，2024春 
+<h3>本科生课程：材料力学 Mechanics of Materials</h3>
+* <b>开课时间</b>：2023春 (周培源班握手计划)，2024春 ，2025春 (周培源班)，
 * <b>教学方式</b>：板书授课
 * <b>课程类别</b>：专业必修课
 * <b>课程学分</b>：3 
