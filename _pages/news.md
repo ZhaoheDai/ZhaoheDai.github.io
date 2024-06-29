@@ -16,6 +16,8 @@ redirect_from:
 </script>
 <h3>2024</h3>
 
+* 6月28日，祝贺李居曜博士获得中国博士后科学基金第75批面上项目资助。
+
 * 3月29日，课题组参加2024年全国固体力学学术会议，戴兆贺、李航、李居曜做口头报告，陈尔腾、郑婉莹、陆煌、曹嘉聪做墙报展示。
 <hr>
 <h3>2023</h3>
@@ -25,6 +27,8 @@ redirect_from:
 * 11月3日，戴兆贺在第三届损伤与断裂力学及其工程应用研讨会作邀请报告“弹性纳米薄膜黏附理论与实验研究 ”。
 
 * 10月27日，戴兆贺在第一届中国智能材料与结构系统大会作邀请报告1.“纳米薄膜轴对称撕脱问题研究 ”；2.“弹性纳米薄膜黏附理论与实验研究 ”。
+
+* 8月28日，祝贺李航博士获得国家自然基金委青年基金项目资助。
 
 * 8月26日，戴兆贺在ChinaNANO2023作邀请报告1. “Peeling by Pulling: Characterizing the mechanical behavior of nanofilms”；2.“Wetting with Thin, Deformable Boundaries: From Graphene to Lubricated Surfaces”。
 
