@@ -16,7 +16,7 @@ redirect_from:
 </script>
 <h3>2024</h3>
 
-* 8月22日，戴兆贺在<a href="https://upyun.hw.85do.com/2024ses/SES2024%20Program.pdf" style="text-decoration:none;color:#DE3163;">SES2024s</a>作邀请报告:"Detaching a Rigid Sphere from an Ultrathin Elastic Sheet: Experiments and Multiscale Theories"。
+* 8月22日，戴兆贺在<a href="https://upyun.hw.85do.com/2024ses/SES2024%20Program.pdf" style="text-decoration:none;color:#DE3163;">SES2024</a>作邀请报告:"Detaching a Rigid Sphere from an Ultrathin Elastic Sheet: Experiments and Multiscale Theories"。
 
 * 7月1日，祝贺李居曜博士入选中国博士后科学基金会2024年度国家资助博士后研究人员计划（C档）。
 
