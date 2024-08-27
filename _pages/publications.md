@@ -32,7 +32,7 @@ author_profile: false
 
 <li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Preponed jump-to-contact with elastic surfaces</a>.</p></li>
 
-<li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>.</p></li>
+<li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">A real-time optical imaging system to visualize elastomer surface micro-profile evolution for dynamic tactile sensing</a>.</p></li>
 
 <li><p><u>W. Wang</u>, Z. Wei, J. You, J. Impundu, Y. Li, J. Zhang, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>.</p></li>
 
