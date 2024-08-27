@@ -27,9 +27,24 @@ author_profile: false
 <hr>
 <ol reversed>
 
+
+<h3>Submitted manuscripts</h3>
+
+<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Preponed jump-to-contact with elastic surfaces</a>.</li>
+
+<li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>.</li>
+
+<li><p><u>W. Wang</u>, Z. Wei, J. You, J. Impundu, Y. Li, J. Zhang, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>.</li>
+
+<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Stiffer is stickier: Adhesion in elastic nanofilms</a>.</li>
+
+<li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Adhesion of elastic microbeams on thin deformable substrates</a>.</li>
+
+<li><p><u>H. Li</u>, <u>C. Yu</u>, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Regimes in the axisymmetric stiction of thin elastic plates</a>.</li>
+
 <h3>2024</h3>
 
-<li><p><u>J. Li</u>, <u>G. Zhang</u>, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:blue;">Indentation of a plate on a thin transversely isotropic elastic layer</a>. <b>Acta Mechanica Solida Sinica</b> (2024) <a href="http://zhaohedai.github.io/files/2024_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue:</font> <a href="https://" style="color:#7B7D7D;">Experimental Mechanics at the Micro/Nanoscale</a></p></li>
+<li><p><u>J. Li</u>, <u>G. Zhang</u>, L. Wang and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Indentation of a plate on a thin transversely isotropic elastic layer</a>. <b>Acta Mechanica Solida Sinica</b> (2024) <a href="http://zhaohedai.github.io/files/2024_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue:</font> <a href="https://" style="color:#7B7D7D;">Experimental Mechanics at the Micro/Nanoscale</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_AMSS.png" width="500"></p>
 
 <li><p>W. Li, L. Kong, M. Xu, J. Gao, L. Luo, Y. Li, K. Wang, Y. Zhou, L. Li, W. Yuan, X. Zhang, R. Zhao, M. Chen, Y. Yan, X. Luo, <u>Z. Dai</u>, L. Zheng*, X. Wang*, W. Huang**. <a href="https://doi.org/10.34133/research.0452" style="text-decoration:none;color:#DE3163;">Microsecond-Scale Transient Thermal Sensing Enabled by Flexible Mo1-xWxS2 Alloys</a>. <b>Research</b> 7, 0452 (2024) <a href="http://zhaohedai.github.io/files/2024_Research.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
