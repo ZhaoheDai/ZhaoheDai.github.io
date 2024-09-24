@@ -43,12 +43,11 @@ author_profile: false
 
 <h3>2024</h3>
 
-
-<li><p><u>H. Li</u>, <u>C. Yu</u>, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Regimes in the axisymmetric stiction of thin elastic plates</a>. <b>International Journal of Mechanical Sciences</b> (2024) <a href="http://zhaohedai.github.io/files/2024_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2024_IJMS.jpg" width="500"></p>
-
 <li><p><u>J. Li</u>, <u>G. Zhang</u>, L. Wang and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Indentation of a plate on a thin transversely isotropic elastic layer</a>. <b>Acta Mechanica Solida Sinica</b> (2024) <a href="http://zhaohedai.github.io/files/2024_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue:</font> <a href="https://" style="color:#7B7D7D;">Experimental Mechanics at the Micro/Nanoscale</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_AMSS.png" width="500"></p>
+
+<li><p><u>H. Li</u>, <u>C. Yu</u>, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:#DE3163;">Regimes in the axisymmetric stiction of thin elastic plates</a>. <b>International Journal of Mechanical Sciences</b> 284, 109740 (2024) <a href="http://zhaohedai.github.io/files/2024_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<p style="text-align:center;"><img src="/images/publications/2024_IJMS.jpg" width="500"></p>
 
 <li><p>W. Li, L. Kong, M. Xu, J. Gao, L. Luo, Y. Li, K. Wang, Y. Zhou, L. Li, W. Yuan, X. Zhang, R. Zhao, M. Chen, Y. Yan, X. Luo, <u>Z. Dai</u>, L. Zheng*, X. Wang*, W. Huang**. <a href="https://doi.org/10.34133/research.0452" style="text-decoration:none;color:#DE3163;">Microsecond-Scale Transient Thermal Sensing Enabled by Flexible Mo1-xWxS2 Alloys</a>. <b>Research</b> 7, 0452 (2024) <a href="http://zhaohedai.github.io/files/2024_Research.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
 
