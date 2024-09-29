@@ -30,7 +30,7 @@ author_profile: false
 
 <h4>Submitted manuscripts</h4>
 
-<li><p>X. Wang†, <u>E. Chen</u>†, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Probing the van der Waals coupling at two-dimensional material interfaces</a>.</p></li>
+<li><p>X. Wang†, <u>E. Chen</u>†, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Probing the van der Waals coupling at two-dimensional material interfaces</a>.</p></li>
 
 <li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Preponed jump-to-contact with elastic surfaces</a>.</p></li>
 
