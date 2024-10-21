@@ -43,10 +43,10 @@ author_profile: false
 <h3>2024</h3>
 
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> <a href="http://zhaohedai.github.io/files/2024_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="600"></p>
+<p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="750"></p>
 
-<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Preponed jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> </p></li>
-<p style="text-align:center;"><img src="/images/publications/2024_JMPS.png" height="250"></p>
+<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> </p></li>
+<p style="text-align:center;"><img src="/images/publications/2024_JMPS.png" height="100"></p>
 
 <li><p><u>J. Li</u>, <u>G. Zhang</u>, L. Wang and <u>Z. Dai</u>*. <a href="https://doi.org/10.1007/s10338-024-00532-1" style="text-decoration:none;color:#DE3163;">Indentation of a plate on a thin transversely isotropic elastic layer</a>. <b>Acta Mechanica Solida Sinica</b> (2024) <a href="http://zhaohedai.github.io/files/2024_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue:</font> <a href="https://" style="color:#7B7D7D;">Experimental Mechanics at the Micro/Nanoscale</a></p></li>
 <p style="text-align:center;"><img src="/images/publications/2024_AMSS.png" width="500"></p>
