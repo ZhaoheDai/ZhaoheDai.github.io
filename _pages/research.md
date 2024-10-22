@@ -21,7 +21,7 @@ redirect_from:
 
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
 
-1. <p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:black;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 2303014 (2024) <a href="http://zhaohedai.github.io/files/2023_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited review</font></p>
+1. <p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:black;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 36, 2303014 (2024) <a href="http://zhaohedai.github.io/files/2023_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited review</font></p>
 
 2. <p><u>Z. Dai</u>*, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104320" style="text-decoration:none;color:black;">Poking and bulging of suspended thin sheets: slippage, instabilities, and metrology</a>. <b>Journal of the Mechanics and Physics of Solids</b> 149, 104320 (2021) <a href="http://zhaohedai.github.io/files/2021_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
@@ -102,7 +102,8 @@ redirect_from:
 
 My research has been supported by the following grants:
 
-* 2024-2027，面上项目， 国家自然科学基金委，52万元，主持
+* 2025-2029，重点项目，国家自然科学基金委，240万元，参与
+* 2024-2027，面上项目，国家自然科学基金委，52万元，主持
 * 2023-2024，超常环境非线性力学全国重点实验室开放基金，5 万元，主持
 * 2023-2024，新工科交叉青年专项，北京大学，17 万元，主持
 * 2022-2024，优青（海外）项目，国家自然科学基金委，300 万元， 主持
