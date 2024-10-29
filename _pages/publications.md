@@ -30,12 +30,6 @@ author_profile: false
 
 <h4>Submitted manuscripts</h4>
 
-<li><p><u>E. Chen</u> and <u>Z. Dai</u>*, . <a href="https://doi.org/" style="text-decoration:none;color:gray;">Elastic sheets on nonlinear elastic foundations: Indentation stiffness and nonlinearities</a>.</p></li>
-
-<li><p>Z. Gao†, <u>W. Zheng</u>†, X. Liu, X. Wang, Y Long, C. Yu, B. Li, J. Li, X. Li, L. Wang, W. Guo, <u>Z. Dai</u>*, J. Yin*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Expansion of graphene at water interfaces</a>.</p></li>
-
-<li><p>B. Wang, <u>C. Yu</u>, Y. Jiang, C. Tian, J. Tian, S. Li, Z. Fang, M. Li, W. Wu, <u>Z. Dai</u>, T. Taniguchi, Q. Chen, X. Wei*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Dielectric Strength Weakening of Hexagonal Boron Nitride Nanosheets under Mechanical Stress</a>.</p></li>
-
 <li><p>X. Wang†, <u>E. Chen</u>†, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Probing the van der Waals coupling at two-dimensional material interfaces</a>.</p></li>
 
 
