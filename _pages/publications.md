@@ -50,7 +50,7 @@ author_profile: false
 <hr>
 <h3>2024</h3>
 
-<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:#DE3163;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2025) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:#DE3163;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2024) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2024_JMPS.png" width="375"></p>
 
 
