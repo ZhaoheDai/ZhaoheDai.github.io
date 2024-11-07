@@ -70,7 +70,7 @@ redirect_from:
 <p style="color:indianred;">Keywards: Approximate theory, Winkler foundation model, Shear lag model</p>
 <div style="text-align: center;"><img src="/images/Research3.png" width="500"><</div>
 
-1. <p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:#DE3163;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2024) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
+1. <p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:black;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2024) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 2. <p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:black;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <a href="http://zhaohedai.github.io/files/2024_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024NL.png" style="color:#7B7D7D;">Cover</a></p>
 
