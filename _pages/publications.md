@@ -43,7 +43,7 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
-<li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> (2024) <a href="http://zhaohedai.github.io/files/2024_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> (2025) <a href="http://zhaohedai.github.io/files/2024_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="750"></p>
 
 <br>
