@@ -33,7 +33,7 @@ author_profile: false
 <li><p>X. Wang†, <u>E. Chen</u>†, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Probing the van der Waals coupling at two-dimensional material interfaces</a>.</p></li>
 
 
-<li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">A real-time optical imaging system to visualize elastomer surface micro-profile evolution for dynamic tactile sensing</a>.</p></li>
+<li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">A real-time imaging sensing system to visualize elastomer surface profile evolution for dynamic tactile recognition</a>.</p></li>
 
 <li><p><u>W. Wang</u>, Z. Wei, J. You, J. Impundu, Y. Li, J. Zhang, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>.</p></li>
 
@@ -43,7 +43,7 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
-<li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> (2025) <a href="http://zhaohedai.github.io/files/2024_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.engfracmech.2024.110634" style="text-decoration:none;color:#DE3163;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> (2025) <a href="http://zhaohedai.github.io/files/2024_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="750"></p>
 
 <br>
