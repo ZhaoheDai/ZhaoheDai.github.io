@@ -113,8 +113,8 @@ author_profile: false
 	* Lecture 14 Presentation 
 * <b>课程考核</b>：平时作业（7次×10%/每次） + 结课项目（摘要5%，报告25%）
 * <b>参考书目</b>：  
-	* Israelachvili, Jacob N. Intermolecular and surface forces. Academic press, 2011.（优秀教材，比较详细的介绍了表界面物理化学）
-    D. Qu′er′e, F. Brochard-Wyart, and P.-Gi. de Gennes. Capillarity and Wetting Phenomena, Springer, 2004.（优秀的表界面现象参考书，但缺乏推导细节）
+	* Israelachvili, Jacob N. Intermolecular and surface forces. Academic press, 2011.（优秀教材，比较详细的介绍了表界面物理化学
+	* D. Quere, F. Brochard-Wyart, and P.-Gi. de Gennes. Capillarity and Wetting Phenomena, Springer, 2004.（优秀的表界面现象参考书，但缺乏推导细节）
 	* Freund, Lambert Ben, and Subra Suresh. Thin film materials. Cambridge university press, 2004. （我们只关注部分章节，重点讨论固体薄膜材料）
 	* Barber, James R. Contact mechanics. Berlin: Springer International Publishing, 2018.（只关注这本书中的梁、板等约化模型章节）
 	* Maugis, Daniel. Contact, adhesion and rupture of elastic solids. Springer Science & Business Media, 2000.（优秀参考书，第一章详细介绍了范德华和表面张力的力学描述，此外我们还关注后续章节中的固体黏附部分）
