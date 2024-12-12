@@ -121,3 +121,11 @@ author_profile: false
 	* Barenblatt, Grigory Isaakovich. Flow, deformation and fracture. Cambridge University Press, 2014.（本课程只介绍书中固体断裂部分）
 	* 赵亚溥，表界与界面物理力学，科学出版社 以及 纳米与介观力学，科学出版社. （本课程重点介绍这两部书中的黏附部分）
 	* 德克萨斯大学奥斯汀分校的 Surface Phenonmena（Roger Bonnecaze）课程、牛津大学的 Topics in Fluid Mechanics（Dominic Vella、Andreas Muench）课程以及麻省理工大学的 Interfacial Phenomena （John Bush）课程。
+
+
+<br>
+<hr>
+<h3>接触力学 Contact Mechanics</h3>
+
+I am working on the lecture notes at this moment. Hopefully, this can be done by 2025.
+* Lecture # Boussinesq problem <a href="http://zhaohedai.github.io/teaching/ContactMechanics/Boussinesq.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
