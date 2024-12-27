@@ -40,11 +40,14 @@ author_profile: false
 
 <li><p><u>W. Wang</u>, Z. Wei, J. You, J. Impundu, Y. Li, J. Zhang, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>.</p></li>
 
-<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Stiffer is stickier: Adhesion in elastic nanofilms</a>.</p></li>
+
 
 <br>
 <hr>
 <h3>2025</h3>
+
+<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) </p></li>
+<p style="text-align:center;"><img src="/images/publications/2025_NanoLett.png" width="400"></p>
 
 <li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href=" https://doi.org/10.1002/adfm.202416731" style="text-decoration:none;color:#DE3163;">A real-time imaging sensing system to visualize elastomer surface profile evolution for dynamic tactile recognition</a>. <b> Advanced Functional Materials</b> (2025) </p></li>
 
