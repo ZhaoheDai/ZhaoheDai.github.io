@@ -127,5 +127,5 @@ author_profile: false
 <hr>
 <h3>接触力学 Contact Mechanics</h3>
 
-I am working on the lecture notes at this moment. Hopefully, this can be done by 2025.
+I am working on the lecture note at this moment. Hopefully, this can be done by the end of 2025.
 * Lecture # Boussinesq problem <a href="http://zhaohedai.github.io/teaching/ContactMechanics/Boussinesq.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
