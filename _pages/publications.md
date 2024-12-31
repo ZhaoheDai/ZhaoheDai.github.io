@@ -48,10 +48,10 @@ author_profile: false
 
 <li><p><u>W. Wang</u>, Z. Wei, J. You, J. Impundu, Y. Li, J. Zhang, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>.</p></li>
 
-<p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="350"></p>
+<p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="500"></p>
 
 
-<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:#DE3163;color:gray;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
 <p style="text-align:center;"><img src="/images/publications/2025_NanoLett.png" width="350"></p>
 
