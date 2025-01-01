@@ -28,22 +28,6 @@ author_profile: false
 <ol reversed>
 
 
-<h4>Submitted manuscripts</h4>
-
-<li><p>H. Qian†, J Wang*†, <u>Z. Dai</u>†, Y. Guo, K. Liu, X. Li, M. Hu, Y. Yu, J. Wang, Y. Lai, K. Ren, X. Hu, J. Wang, J. Ji*. <a href="https://doi.org/" style="text-decoration:none;color:gray;"> Pressure-driven micro-injection (PMI) of porous coated balloon for ultrafast endoluminal drug delivery across biological barriers</a>.</p></li>
-
-<li><p>Q. Wu, X. Yuan, <u>E. Chen</u>, Y. Wu, J. Li, X. Sun, H. Hu, Y. Tang, K. Liu*, <u>Z. Dai</u>*, S. Zhu*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;"> Probing the interlayer elasticity in twisted bilayer MoS2</a>.</p></li>
-
-<li><p>Z. Gao†, <u>W. Zheng</u>†, X. Liu, X. Wang, Y Long, <u>C. Yu</u>, B. Li, J. Li, X. Li, L. Wang, <u>Z. Dai</u>*, J. Yin*. <a href="https://doi.org/" style="text-decoration:none;color:gray;"> Expansion of graphene at water interfaces</a>.</p></li>
-
-<li><p>B. Shan†, Y. Guo†, Y. Wang†, P. Zhao, Y. Wang, Z. Wang, L. He, Y. Liu, Y. Wang, W. Guo, Y. Zhang, <u>Z. Dai</u>*, X. Yu* and D. Wang*. <a href="https://doi.org/" style="text-decoration:none;color:gray;"> From Pixels to Taxels: A transparent, high-resolution, and skin-like morphable haptic interface for touchscreens</a>.</p></li>
-
-<li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Elastic sheets on nonlinear elastic foundations: Indentation stiffness and nonlinearities</a>.</p></li>
-
-<li><p>B. Wang, <u>C. Yu</u>, Y. Jiang, C. Tian, J. Tian, S. Li, Z. Fang, M. Li, W. Wu, <u>Z. Dai</u>, T. Taniguchi, Q. Chen, X. Wei*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Dielectric Strength Weakening of Hexagonal Boron Nitride Nanosheets under Mechanical Stress</a>.</p></li>
-
-<li><p>X. Wang†, <u>E. Chen</u>†, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Probing the van der Waals coupling at two-dimensional material interfaces</a>.</p></li>
-
 <br>
 <hr>
 <h3>2025</h3>
