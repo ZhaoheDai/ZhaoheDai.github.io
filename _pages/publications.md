@@ -36,7 +36,7 @@ author_profile: false
 
 <p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="500"></p>
 
-<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:Yellow;">高分子科技</a>
+<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">Featured on 高分子科技</a> </p></li> 
 
 <p style="text-align:center;"><img src="/images/publications/2025_NanoLett.png" width="350"></p>
 
