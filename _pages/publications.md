@@ -20,7 +20,7 @@ author_profile: false
   <tr><td width=145 ><img src="/images/publications/Cover_2016afm.png" width="145"></td><td width=145><img src="/images/publications/Cover_2016softmatter.png" width="145"></td><td width=145><img src="/images/publications/Cover_2018_PRL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019AM.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019prl.png" width="145"></td><td width=145 ><img src="/images/publications/Cover_2022AMI.JPG" width="145"></td></tr>
 </table>
 <table border=0>
-  <tr><td width=145><img src="/images/publications/Cover_2023NL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2024_AIS.png" width="145"></td><td width=145><img src="/images/publications/Cover_2024NL.png" width="145"></td></tr>
+  <tr><td width=145><img src="/images/publications/Cover_2023NL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2024_AIS.png" width="145"></td><td width=145><img src="/images/publications/Cover_2024NL.png" width="145"></td><td width=145><img src="/images/publications/Cover_2025NL.png" width="145"></td></tr>
 </table>
 <hr>
 <p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at <a href="https://www.coe.pku.edu.cn/teaching/all_time/11371.html" style="color:black;"><i class="fa fa-university" aria-hidden="true"></i></a>. For citation statistics, see my <a href="https://scholar.google.com.hk/citations?user=KlMdzWwAAAAJ&hl=en&oi=ao" style="color:black;"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a> or <a href="https://www.researchgate.net/profile/Zhaohe-Dai" style="color:black;"><i class="fab fa-fw fa-researchgate"></i></a> profile.</p>
@@ -36,7 +36,7 @@ author_profile: false
 
 <p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="500"></p>
 
-<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">Featured on 高分子科技</a> </p></li> 
+<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Featured on <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">Journal Cover</a>, <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">ACS Wechat Channel</a> <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">高分子科技</a> </p></li> 
 
 <p style="text-align:center;"><img src="/images/publications/2025_NanoLett.png" width="350"></p>
 
