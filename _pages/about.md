@@ -19,7 +19,7 @@ redirect_frm:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 北京大学工学院力学与工程科学系助理教授、研究员、博士生导师。2013年在中国科学技术大学近代力学系获得学士学位，2016年在中科院力学所获得硕士学位，2020年在德克萨斯大学奥斯汀分校工程力学系获得博士学位，同年入选玛丽居里学者在牛津大学数学所开展博后研究，2022年3月加入北京大学。
 
-我的研究方向是固体力学，感兴趣与表界面、纳米材料、细长结构相关的力学问题(见<a href="https://zhaohedai.github.io/research/" style="text-decoration:none;color:indianred;">研究</a>)。目前已发表SCI论文70余篇（见<a href="https://zhaohedai.github.io/publications/" style="text-decoration:none;color:indianred;">论文</a>），授权中国发明专利3项。论文引用5000余次。其中以第一/通讯作者在力学、物理、材料等领域期刊发表30余篇，包括 JMPS、PRL、PNAS、Adv. Mater.、Nat. Commun.、Nano Lett. 等。曾入选欧盟玛丽居里学者、国家级人才计划（青年）等项目。
+我的研究方向是固体力学，感兴趣与表界面、纳米材料、细长结构相关的力学问题(见<a href="https://zhaohedai.github.io/research/" style="text-decoration:none;color:indianred;">研究</a>)。目前已发表SCI论文70余篇（见<a href="https://zhaohedai.github.io/publications/" style="text-decoration:none;color:indianred;">论文</a>），授权中国发明专利3项。论文引用5000余次。曾入选欧盟玛丽居里学者、国家级人才计划（青年）等项目。
 
 <hr>
 
@@ -28,4 +28,4 @@ redirect_frm:
 <hr>
 Welcome! I am Zhaohe Dai, an Assistant Professor in the Department of Mechanics and Engineering Science at the College of Engineering, Peking University. I received my B.Sc. degree in Theoretical and Applied Mechanics from the University of Science and Technology of China in 2013, my M.S. degree in Solid Mechanics from the Institute of Mechanics in 2016, and my Ph.D. in Solid Mechanics from the University of Texas at Austin in 2020. Prior to joining PKU in March 2022, I conducted postdoctoral research at the Mathematical Institute, University of Oxford, as a Marie Curie Fellow.
 
-I have been fortunate to gain research experience in a number of interesting areas of mechanics and materials, including thin film mechanics, surface phenomena, interface mechanics, 2D materials, and nanocarbon-based composites. My published work primarily focuses on the mechanics of thin solids and liquids, with particular emphasis on elasticity metrology, elastocapillarity, wrinkling instabilities, wetting, adhesion, and friction. Broadly, my research interest lies in understanding the deformation behaviors of slender solids during interactions with other entities, including liquids, as well as rigid and deformable substrates.
+I have been fortunate to gain research experience in a number of interesting areas of mechanics and materials, including thin film mechanics, surface phenomena, interface mechanics, 2D materials, and nanocarbon-based composites. My published work primarily focuses on the mechanics of thin solids and liquids, with particular emphasis on elasticity metrology, elastocapillarity, wrinkling instabilities, wetting, adhesion, and friction. My research interest lies in understanding the deformation behaviors of soft and slender solids during interactions with other entities, including liquids, as well as rigid and deformable substrates.
