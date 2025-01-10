@@ -36,8 +36,7 @@ author_profile: false
 
 <p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="500"></p>
 
-
-<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">Featured on 高分子科技</a> </p></li> 
 
 <p style="text-align:center;"><img src="/images/publications/2025_NanoLett.png" width="350"></p>
 
@@ -77,7 +76,7 @@ author_profile: false
 <li><p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:#DE3163;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 36, 2303014 (2024) <a href="http://zhaohedai.github.io/files/2023_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited review</font></p></li>
 <p style="text-align:center;"><img src="/images/publications/2023_AM.png" width="500"></p>
 
-<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:#DE3163;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2023) <a href="http://zhaohedai.github.io/files/2024_AIS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024_AIS.png" style="color:#7B7D7D;">Cover</a></p></li> 
+<li><p>Z. Zou, Z. Li, G. Zhou, W. Xu, Y. Zhou, W. Wu, Z. Chen, <u>Z. Dai</u>, X. Li*. <a href="https://doi.org/10.1002/aisy.202300535" style="text-decoration:none;color:#DE3163;">Vision-based Tactile Sensing System for Surface Deformation Detection of elastomer using laser-light plane technology</a>. <b>Advanced Intelligent Systems</b> 6, 2300535 (2024) <a href="http://zhaohedai.github.io/files/2024_AIS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024_AIS.png" style="color:#7B7D7D;">Cover</a></p></li> 
 
 <br>
 <hr>
