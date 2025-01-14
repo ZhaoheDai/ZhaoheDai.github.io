@@ -32,7 +32,7 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
-<li><p><u>W. Wang</u>, Z. Wei, J. You, J. Impundu, Y. Li, J. Zhang, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1063/5.0245016" style="text-decoration:none;color:#DE3163;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>. <b> Applied Physics Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_APL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
+<li><p><u>W. Wang</u>, Z. Wei, Y. Li, J. You, X. Li, J. He, H. Mao, J. Jin*, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1063/5.0245016" style="text-decoration:none;color:#DE3163;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>. <b> Applied Physics Letters</b> 126, 023501 (2025) <a href="http://zhaohedai.github.io/files/2025_APL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Selected as <a href="https://pubs.aip.org/aip/apl/issue/126/2" style="text-decoration:none;color:gray;">featured article</a></p></li>
 
 <p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="500"></p>
 
