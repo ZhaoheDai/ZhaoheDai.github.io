@@ -14,8 +14,8 @@ author_profile: false
 </script>
 
 <script>
-  function myFunction() {
-  document.getElementById("demo").innerHTML = "Hello World";
+  function NL2025() {
+  document.getElementById("demo").innerHTML = "Nano Letters: Oct. 24 (2024), sumitted; Dec. 26 (2024), revised; Dec. 27 (2024), accepted.";
 }
 </script>
 
@@ -39,7 +39,7 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
-<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> 25, 5, 1876–1882 (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <button onclick="myFunction()">R</button> Featured on <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">Journal Cover</a>, <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">ACS Wechat Channel</a>, <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">高分子科技</a> </p></li> 
+<li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> 25, 5, 1876–1882 (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <button class="small-button" onclick="NL2025()">R</button> Featured on <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">Journal Cover</a>, <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">ACS Wechat Channel</a>, <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">高分子科技</a> </p></li> 
 
 <p id="demo"></p>
 
