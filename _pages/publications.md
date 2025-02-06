@@ -12,12 +12,15 @@ author_profile: false
 
   gtag('config', 'G-K251SYLJ6Y');
 </script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-function myFunction() {
+<script>
+  function myFunction() {
   document.getElementById("demo").innerHTML = "Hello World";
 }
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <h3>Cover Gallary</h3>
 <table border=0>
