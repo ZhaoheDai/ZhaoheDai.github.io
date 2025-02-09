@@ -102,7 +102,7 @@ author_profile: false
 	* Lecture 03 Surface tension <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* Lecture 04 Fluid statics <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* Lecture 05 Lateral force balances <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
-	* Lecture 06 Fluid dynamics <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
+	* Lecture 06 Fluid statics <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* Lecture 07 Elasto-capillarity <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* Lecture 08 Fluid dynamics <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
 	* Lecture 09 Landau-Levich problem <a href="http://zhaohedai.github.io/teaching/SurfaceInterface/Lecture9.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>
