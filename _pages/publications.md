@@ -33,7 +33,7 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
-<li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.engfracmech.2024.110634" style="text-decoration:none;color:#DE3163;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.engfracmech.2024.110634" style="text-decoration:none;color:gray;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_IJSS.png" width="500"></p>
 
 
