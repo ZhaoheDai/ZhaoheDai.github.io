@@ -48,7 +48,7 @@ author_profile: false
 
 <p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="500"></p>
 
-<li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href=" https://doi.org/10.1002/adfm.202416731" style="text-decoration:none;color:#DE3163;">A real-time imaging sensing system to visualize elastomer surface profile evolution for dynamic tactile recognition</a>. <b> Advanced Functional Materials</b> (2025) </p></li>
+<li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href=" https://doi.org/10.1002/adfm.202416731" style="text-decoration:none;color:#DE3163;">A real-time imaging sensing system to visualize elastomer surface profile evolution for dynamic tactile recognition</a>. <b> Advanced Functional Materials</b> 35, 2416731 (2025) <a href="http://zhaohedai.github.io/files/2025_AFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.engfracmech.2024.110634" style="text-decoration:none;color:#DE3163;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> 313, 110634 (2025) <a href="http://zhaohedai.github.io/files/2025_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="750"></p>
