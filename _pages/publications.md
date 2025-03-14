@@ -34,7 +34,7 @@ author_profile: false
 <h3>2025</h3>
 
 <li><p><u>W. Wang</u>, S. Chen, <u>J. Cao</u>, X. Wei and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Round and pleated blisters: Interface delamination in thin film deposition</a>. <b>International Journal of Smart and Nano Materials</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSNM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper</font></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2025_IJSNM.png" width="375"></p>
+<p style="text-align:center;"><img src="/images/publications/2025_IJSNM.png" width="425"></p>
 
 <li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_IJSS.png" width="350"></p>
