@@ -57,7 +57,11 @@ author_profile: false
 
  * 2024.09-present, 王俊骞, Junqian Wang is working on the wetting on lubricated films.
 
- * 2024.09-present, 李奇檑, Qilei Li is working on the vdW saging of 2D crystals.
+ * 2024.09-present, 李奇檑, Qilei Li is working on morphing of liquid surfaces.
+
+ * 2025.03-present, 李瑀堃, Yukun Li is working on the lubricated thin films.
+
+ * 2025.03-present, 卢淅萌, Ximeng Lu is working on the wound healing mechanics.
 
 <br>
 <br>
