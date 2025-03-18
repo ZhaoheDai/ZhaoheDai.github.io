@@ -39,7 +39,7 @@ author_profile: false
 <li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_IJSS.png" width="350"></p>
 
-<li><p>X. Wang†, <u>E. Chen†</u>, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;"> Probing the elastic coupling at the van der Waals interfaces of two-dimensional material</a>. <b>Physical Review B</b> (2025) <a href="http://zhaohedai.github.io/files/2025_PRB.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p>X. Wang†, <u>E. Chen†</u>, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Probing the elastic coupling at van der Waals interfaces of two-dimensional materials</a>. <b>Physical Review B</b> (2025) <a href="http://zhaohedai.github.io/files/2025_PRB.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_PRB.png" width="500"></p>
 
 
