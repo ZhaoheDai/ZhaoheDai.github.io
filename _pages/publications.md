@@ -33,7 +33,7 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
-<li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a><font color="#7B7D7D">Short answer to question posed: Yes in theory and likely no in practice.</font></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_IJMS.png" width="350"></p>
 
 <li><p><u>W. Wang</u>, S. Chen, <u>J. Cao</u>, X. Wei and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Round and pleated blisters: Interface delamination in thin film deposition</a>. <b>International Journal of Smart and Nano Materials</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSNM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper</font></p></li> 
@@ -47,11 +47,9 @@ author_profile: false
 
 
 <li><p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:#DE3163;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> 25, 5, 1876–1882 (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Featured on <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">Journal Cover</a>, <a href="https://mp.weixin.qq.com/s/Kh3BPUSGXCBCp1wzoSWoWg" style="text-decoration:none;color:gray;">高分子科技</a> </p></li> 
-
 <p style="text-align:center;"><img src="/images/publications/2025_NanoLett.png" width="350"></p>
 
 <li><p><u>W. Wang</u>, Z. Wei, Y. Li, J. You, X. Li, J. He, H. Mao, J. Jin*, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1063/5.0245016" style="text-decoration:none;color:#DE3163;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>. <b> Applied Physics Letters</b> 126, 023501 (2025) <a href="http://zhaohedai.github.io/files/2025_APL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Selected as <a href="https://pubs.aip.org/aip/apl/issue/126/2" style="text-decoration:none;color:gray;">featured article</a></p></li>
-
 <p style="text-align:center;"><img src="/images/publications/2025_APL.png" width="500"></p>
 
 <li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href=" https://doi.org/10.1002/adfm.202416731" style="text-decoration:none;color:#DE3163;">A Real-Time Imaging Sensing System to Visualize Elastomer Surface Profile Evolution for Dynamic Tactile Recognition</a>. <b> Advanced Functional Materials</b> 35, 2416731 (2025) <a href="http://zhaohedai.github.io/files/2025_AFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
