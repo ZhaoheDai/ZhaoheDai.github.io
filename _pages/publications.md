@@ -34,13 +34,13 @@ author_profile: false
 <h3>2025</h3>
 
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a><font color="#7B7D7D">Short answer to question posed: Yes in theory and likely no in practice.</font></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2025_IJMS.png" width="400"></p>
+<!--<p style="text-align:center;"><img src="/images/publications/2025_IJMS.png" width="400"></p>-->
 
 <li><p><u>W. Wang</u>, S. Chen, <u>J. Cao</u>, X. Wei and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Round and pleated blisters: Interface delamination in thin film deposition</a>. <b>International Journal of Smart and Nano Materials</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSNM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper</font></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_IJSNM.png" width="425"></p>
 
 <li><p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2025_IJSS.png" width="350"></p>
+<!--<p style="text-align:center;"><img src="/images/publications/2025_IJSS.png" width="350"></p>-->
 
 <li><p>X. Wang†, <u>E. Chen†</u>, X. Yuan, T. Zhang, Q. Wu, S. Zhu*, <u>Z. Dai</u>*, Y. Gao*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Probing the elastic coupling at van der Waals interfaces of two-dimensional materials</a>. <b>Physical Review B</b> (2025) <a href="http://zhaohedai.github.io/files/2025_PRB.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_PRB.png" width="500"></p>
@@ -55,7 +55,7 @@ author_profile: false
 <li><p>Z. Zou, Z. Li, Y. Zhou, G. Zhou, W. Xu, M. Huang, W. Wu, H. Zhang, <u>Z. Dai</u>, X. Li*. <a href=" https://doi.org/10.1002/adfm.202416731" style="text-decoration:none;color:#DE3163;">A Real-Time Imaging Sensing System to Visualize Elastomer Surface Profile Evolution for Dynamic Tactile Recognition</a>. <b> Advanced Functional Materials</b> 35, 2416731 (2025) <a href="http://zhaohedai.github.io/files/2025_AFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
 
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.engfracmech.2024.110634" style="text-decoration:none;color:#DE3163;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> 313, 110634 (2025) <a href="http://zhaohedai.github.io/files/2025_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="750"></p>
+<!--<p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="750"></p>-->
 
 <br>
 <hr>
