@@ -127,7 +127,7 @@ My research has been supported by the following grants:
 
 I am grateful for the generous financial support from many organizations, including:
 
-* 2025, Outstanding Advisor in the College of Engineering, Peking University (¥5,000)
+* 2024, Outstanding Advisor in the College of Engineering, Peking University (¥5,000)
 * 2020, Marie Skłodowska-Curie Individual Fellowship, European Commission (€224,933)
 * 2019, University Graduate Continuing Fellowship, UT Austin ($30,000)
 * 2019, Outstanding self-financed students abroad, China Scholarship Council ($6,000)
