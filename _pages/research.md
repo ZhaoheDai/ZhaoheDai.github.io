@@ -123,7 +123,7 @@ My research has been supported by the following grants:
 * 2020-2022，玛丽居里学者，欧盟地平线计划，约180 万元，主持
 
 <hr>
-<h3>Fellowships</h3>
+<h3>Fellowships & Awards</h3>
 
 I am grateful for the generous financial support from many organizations, including:
 
