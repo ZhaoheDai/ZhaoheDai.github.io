@@ -125,7 +125,7 @@ My research has been supported by the following grants:
 <hr>
 <h3>Fellowships & Awards</h3>
 
-I am grateful for the generous financial support from many organizations, including:
+I am grateful for the generous financial support and award from the organization and community, including:
 
 * 2024, Outstanding Advisor in the College of Engineering, Peking University (¥5,000)
 * 2020, Marie Skłodowska-Curie Individual Fellowship, European Commission (€224,933)
