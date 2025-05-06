@@ -33,9 +33,11 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
+<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces</a> <b>arXiv</b> (2025) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a><font color="#7B7D7D"> Short answer to the question just posed: YES in theory but likely NO in practice.</font></p></li> 
 
-<li><p><u>W. Zheng</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Universal pull-off force for separating a rigid sphere from a membrane</a>. <b>Journal of the Mechanics and Physics of Solids</b> (2025) <a href="http://zhaohedai.github.io/files/2025_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p><u>W. Zheng</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2025.106163" style="text-decoration:none;color:#DE3163;">Universal pull-off force for separating a rigid sphere from a membrane</a>. <b>Journal of the Mechanics and Physics of Solids</b> 201, 106163 (2025) <a href="http://zhaohedai.github.io/files/2025_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_JMPS.png" width="500"></p>
 
 <li><p><u>W. Wang</u>, S. Chen, <u>J. Cao</u>, X. Wei and <u>Z. Dai</u>*. <a href="https://doi.org/10.1080/19475411.2025.2493663" style="text-decoration:none;color:#DE3163;">Round and pleated blisters: Interface delamination in thin film deposition</a>. <b>International Journal of Smart and Nano Materials</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJSNM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in a special issue on Advances in Smart Interfacial Science and Engineering</font></p></li> 
