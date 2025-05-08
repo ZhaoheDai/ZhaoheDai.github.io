@@ -41,6 +41,8 @@ author_profile: false
 
 * 2024.09-present, 曹嘉聪, Jiacong Cao is working on the computational mechanics of elastic membranes.
 
+* 2025.09-present, 陆煌, Huang Lu is working on slender body theories.
+
 <hr>
 <h3>硕士研究生 Graduate Students</h3> 
 
@@ -48,8 +50,6 @@ author_profile: false
 
 <hr>
 <h3>本科生 Undergraduate Students</h3> 
-
- * 2023.06-present, 陆煌, Huang Lu is working on peeling of adhesive tapes.
 
  * 2023.12-present, 岑昶, Chang Cen is working on liquid phase contact mechanics.
 
@@ -77,3 +77,13 @@ author_profile: false
 * <p>2023.09-2024.08, 曹嘉聪, 毕设题目：二维材料界面黏附能的高通量表方法研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
 
 * <p>2023.09-2024.08, 张国政, 毕设题目：横观各向同性对不同厚度组合的弹性面板-单层土体体系的静力响应的影响。<em>毕业去向：北京大学攻读硕士学位</em>。</p>
+
+* <p>2023.06-2025.08, 陆煌, 
+毕设题目：弹性固体与结构中干黏附与毛细黏附的耦合效应。<em>
+毕业去向：北京大学攻读博士学位</em>。</p>
+
+* <p>2023.12-2025.08, 岑昶, 
+毕设题目：刚性球与弹性薄膜的软润滑问题。<em>
+毕业去向：日本东京大学研究生</em>。</p>
+
+<h3>博士后 Post-Docs</h3> 
