@@ -33,7 +33,7 @@ author_profile: false
 <hr>
 <h3>2025</h3>
 
-<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces</a> <b>arXiv</b> (2025) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> (2025) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a><font color="#7B7D7D"> Short answer to the question just posed: YES in theory but likely NO in practice.</font></p></li> 
 

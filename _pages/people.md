@@ -33,13 +33,13 @@ author_profile: false
 
 * 2022.09-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses.
 
-* 2022.12-present, 郑婉莹, Wanying Zheng is working on the surface effect in thin elastic solids.
+* 2022.12-present, 郑婉莹, Wanying Zheng is working on the surface effect in elastic solids.
 
-* 2023.09-present, 陈尔腾, Erteng Chen is working on deformation and instabilities of slender structures .
+* 2023.09-present, 陈尔腾, Erteng Chen is working on deformation and instabilities of slender/soft structures.
 
-* 2023.09-present, 曾维嘉, Weijia Zeng is working on adhesion of slender structures (co-advised with Prof. Y. Wei).
+* 2023.09-present, 曾维嘉, Weijia Zeng is working on adhesion of membranes and plates (co-advised with Prof. Y. Wei).
 
-* 2024.09-present, 曹嘉聪, Jiacong Cao is working on the computational mechanics of elastic membranes.
+* 2024.09-present, 曹嘉聪, Jiacong Cao is working on the nonlinear elasticity and elastodydrodynamics.
 
 * 2025.09-present, 陆煌, Huang Lu is working on slender body theories.
 
