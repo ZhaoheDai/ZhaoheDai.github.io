@@ -35,7 +35,7 @@ redirect_from:
 
 * 9月1日，欢迎岑昶、邹济宇、王俊骞、李奇檑同学加入课题组开展本科生科研工作！
 
-* 9月1日，欢迎曹嘉聪、张国政同学加入课题组，攻读研究生学位！
+* 9月1日，欢迎曹嘉聪、张国政同学加入课题组，攻读研究生！
 
 * 8月22日，戴兆贺在<a href="https://upyun.hw.85do.com/2024ses/SES2024%20Program.pdf" style="text-decoration:none;color:#DE3163;">SES2024</a>作邀请报告:"Detaching a Rigid Sphere from an Ultrathin Elastic Sheet: Experiments and Multiscale Theories"。
 
