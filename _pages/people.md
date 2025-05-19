@@ -51,8 +51,6 @@ author_profile: false
 <hr>
 <h3>本科生 Undergraduate Students</h3> 
 
- * 2023.12-present, 岑昶, Chang Cen is working on liquid phase contact mechanics.
-
  * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
 
  * 2024.09-present, 王俊骞, Junqian Wang is working on the wetting on lubricated films.
