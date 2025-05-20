@@ -48,6 +48,8 @@ author_profile: false
 
 * 2024.09-present, 张国政，Guozheng Zhang is working on the indentation of substrate-shell structures.
 
+* 20254.09-present, 李世晗，Shihan Li is tentatively working on fingering instabilities.
+
 <hr>
 <h3>本科生 Undergraduate Students</h3> 
 
@@ -66,6 +68,13 @@ author_profile: false
 <hr>
 <h2>毕业生 Alumni</h2>
 
+<hr>
+<h3>博士后 Post-Docs</h3> 
+
+<hr>
+<h3>博士研究生 Graduate Students</h3> 
+
+<hr>
 <h3>本科生 Undergraduates</h3> 
 
 * <p>2022.09-2023.08, 陈尔腾, 毕设题目：基底黏附二维材料压痕响应研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
@@ -83,5 +92,3 @@ author_profile: false
 * <p>2023.12-2025.08, 岑昶, 
 毕设题目：刚性球与弹性薄膜的软润滑问题。<em>
 毕业去向：日本东京大学研究生</em>。</p>
-
-<h3>博士后 Post-Docs</h3> 
