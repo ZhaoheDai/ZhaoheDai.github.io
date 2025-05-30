@@ -35,6 +35,8 @@ author_profile: false
 
 <li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> (in submission) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
+<li><p>H. Qian†, J Wang*†, <u>Z. Dai</u>†, Y. Guo, K. Liu, X. Li, M. Hu, Y. Yu, J. Wang, Y. Lai, K. Ren, J. Ji*. <a href="https://doi.org/" style="text-decoration:none;color:gray;"> Pressure-driven micro-injection (PMI) of porous coated balloon for ultrafast endoluminal drug delivery across biological barriers</a>. <b>Science Advances</b> (in revision) </p></li>
+
 <li><p>B. Wang, <u>C. Yu</u>, Y. Jiang, C. Tian, J. Tian, S. Li, Z. Fang, M. Li, W. Wu, <u>Z. Dai</u>, T. Taniguchi, Q. Chen, X. Wei*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Dielectric Strength Weakening of Hexagonal Boron Nitride Nanosheets under Mechanical Stress.</a> <b>Nature Communications</b> (in revision) <a href="http://zhaohedai.github.io/files/2025_NC"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
 <li><p><u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Jump of an AFM probe towards an elastic substrate in a liquid environment</a>. <b>Journal of Fluid Mechanics</b> (in press) <a href="http://zhaohedai.github.io/files/2025_JFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
