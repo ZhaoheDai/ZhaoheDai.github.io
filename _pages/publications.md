@@ -35,7 +35,7 @@ author_profile: false
 
 <li><p>S. Gupta, <u>Z. Dai</u>, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:gray;">Liquid Bridges on Lubricated Surfaces: A Counterintuitive Interplay of Liquid Pressure and Thin-Film Dynamics.</a> <b>arXiv</b> (in submission) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
-<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> (in submission) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
 <li><p>B. Wang, <u>C. Yu</u>, Y. Jiang, C. Tian, J. Tian, S. Li, Z. Fang, M. Li, W. Wu, <u>Z. Dai</u>, T. Taniguchi, Q. Chen, X. Wei*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Dielectric Strength Weakening of Hexagonal Boron Nitride Nanosheets under Mechanical Stress.</a> <b>Nature Communications</b> (in revision) <a href="http://zhaohedai.github.io/files/2025_NC"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
