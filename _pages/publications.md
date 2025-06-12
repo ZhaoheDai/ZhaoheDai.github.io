@@ -71,16 +71,15 @@ author_profile: false
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.engfracmech.2024.110634" style="text-decoration:none;color:#DE3163;">Adhesion of elastic microbeams on thin deformable substrates</a>. <b>Engineering Fracture Mechanics</b> 313, 110634 (2025) <a href="http://zhaohedai.github.io/files/2025_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <!--<p style="text-align:center;"><img src="/images/publications/2024_EFM.png" width="750"></p>-->
 
+<li><p><u>J. Li</u>, <u>G. Zhang</u>, L. Wang and <u>Z. Dai</u>*. <a href="https://doi.org/10.1007/s10338-024-00532-1" style="text-decoration:none;color:#DE3163;">Indentation of a plate on a thin transversely isotropic elastic layer</a>. <b>Acta Mechanica Solida Sinica</b> 38, 331-340 (2025) <a href="http://zhaohedai.github.io/files/2024_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue:</font> <a href="https://" style="color:#7B7D7D;">Experimental Mechanics at the Micro/Nanoscale</a></p></li>
+<p style="text-align:center;"><img src="/images/publications/2024_AMSS.png" width="500"></p>
+
 <br>
 <hr>
 <h3>2024</h3>
 
 <li><p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:#DE3163;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2024) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2024_JMPS.png" width="375"></p>
-
-
-<li><p><u>J. Li</u>, <u>G. Zhang</u>, L. Wang and <u>Z. Dai</u>*. <a href="https://doi.org/10.1007/s10338-024-00532-1" style="text-decoration:none;color:#DE3163;">Indentation of a plate on a thin transversely isotropic elastic layer</a>. <b>Acta Mechanica Solida Sinica</b> (2024) <a href="http://zhaohedai.github.io/files/2024_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited paper in the special issue:</font> <a href="https://" style="color:#7B7D7D;">Experimental Mechanics at the Micro/Nanoscale</a></p></li>
-<p style="text-align:center;"><img src="/images/publications/2024_AMSS.png" width="500"></p>
 
 <li><p><u>H. Li</u>, <u>C. Yu</u>, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijmecsci.2024.109740" style="text-decoration:none;color:#DE3163;">Regimes in the axisymmetric stiction of thin elastic plates</a>. <b>International Journal of Mechanical Sciences</b> 284, 109740 (2024) <a href="http://zhaohedai.github.io/files/2024_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2024_IJMS.jpg" width="500"></p>
