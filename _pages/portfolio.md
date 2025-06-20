@@ -14,7 +14,7 @@ author_profile: false
   gtag('config', 'G-K251SYLJ6Y');
 </script>
 <table border=0>
-  <tr><td width=300 ><img src="/images/Album/2025_1.jpg" width="300"></td><td width=300><img src="/images/Album/2025_2.jpg" width="300"></td></tr>
+  <tr><td width=450 ><img src="/images/Album/2025_1.jpg" width="450"></td><td width=450><img src="/images/Album/2025_2.jpg" width="450"></td></tr>
 </table>
 2025/06/19 Group basketball and afterwards BBQ.
 <hr>
