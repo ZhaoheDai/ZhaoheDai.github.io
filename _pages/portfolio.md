@@ -13,6 +13,11 @@ author_profile: false
 
   gtag('config', 'G-K251SYLJ6Y');
 </script>
+<table border=0>
+  <tr><td width=300 ><img src="/images/Album/2025_1.jpg" width="300"></td><td width=300><img src="/images/Album/2025_2.jpg" width="300"></td></tr>
+</table>
+2025/06/19 Group basketball and afterwards BBQ.
+<hr>
 <img src="/images/Album/2024.jpg" width="500"><br>
 2024/03/30 Attending the 2024 Conference of Chinese Solid Mechanics at Nanjing.
 <hr>
