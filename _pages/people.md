@@ -22,10 +22,6 @@ author_profile: false
 <hr>
 <h3>博士后 Post-Docs</h3>   
 
-* 2022.07-present, 李航, Hang Li is working on elastocapillarity and elastocaloric materials.
-
-* 2023.07-present, 李居曜, Juyao Li is working on approximate theories for slender structures.
-
 * 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
 
 <hr>
@@ -70,6 +66,10 @@ author_profile: false
 
 <hr>
 <h3>博士后 Post-Docs</h3> 
+
+* 2022.07-2025.06, 李航, 论文：. 去向：.
+
+* 2023.07-2025.09, 李居曜, 论文：. 去向：中国农业大学（副教授）.
 
 <hr>
 <h3>博士研究生 Graduate Students</h3> 
