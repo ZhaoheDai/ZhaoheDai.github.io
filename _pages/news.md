@@ -21,6 +21,8 @@ redirect_from:
 
 * 6月19日，祝贺李奇檑荣获北京市自然科学基金委本科生“启研”项目！
 
+* 6月18日，祝贺陆煌入选北京大学校级<a href="https://dean.pku.edu.cn/web/notice_details.php?id=686" style="text-decoration:none;color:#DE3163;">优秀本科毕业论文</a>！
+
 * 5月10日，祝贺于川立、陈尔腾分别入选北京大学工学院第十一届“学术十杰”和“学术新星”！
 
 * 3月23日，祝贺于川立在北京力学会第31届学术年会获得“优秀论文奖”！
