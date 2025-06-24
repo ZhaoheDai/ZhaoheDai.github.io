@@ -47,10 +47,10 @@ author_profile: false
 <li><p><u>H. Lu</u>, J. Qian, and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Interplay of dry and capillary adhesion in elastic solids and structures</a>. <b>Journal of Applied Mechanics</b> (2025) <a href="http://zhaohedai.github.io/files/2025_JAM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_JAM.png" width="450"></p>
 
-<li><p><u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Jump of an AFM probe towards an elastic substrate in a liquid environment</a>. <b>Journal of Fluid Mechanics</b> (2025) <a href="http://zhaohedai.github.io/files/2025_JFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2025_JFM.png" width="280"></p>
-
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijmecsci.2025.110331" style="text-decoration:none;color:#DE3163;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a><font color="#7B7D7D"> Short answer to the question just posed: YES in theory but likely NO in practice.</font></p></li> 
+
+<li><p><u>Z. Dai</u>*. <a href="https://doi.org/10.1017/jfm.2025.10290" style="text-decoration:none;color:#DE3163;">Jump of an AFM probe towards an elastic substrate in a liquid environment</a>. <b>Journal of Fluid Mechanics</b> 1013, A49 (2025) <a href="http://zhaohedai.github.io/files/2025_JFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<p style="text-align:center;"><img src="/images/publications/2025_JFM.png" width="280"></p>
 
 <li><p><u>W. Zheng</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2025.106163" style="text-decoration:none;color:#DE3163;">Universal pull-off force for separating a rigid sphere from a membrane</a>. <b>Journal of the Mechanics and Physics of Solids</b> 201, 106163 (2025) <a href="http://zhaohedai.github.io/files/2025_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_JMPS.png" width="500"></p>
