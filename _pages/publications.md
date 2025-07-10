@@ -44,13 +44,13 @@ author_profile: false
 <li><p>B. Wang, <u>C. Yu</u>, Y. Jiang, C. Tian, J. Tian, S. Li, Z. Fang, M. Li, W. Wu, <u>Z. Dai</u>, T. Taniguchi, Q. Chen, X. Wei*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Dielectric Strength Weakening of Hexagonal Boron Nitride Nanosheets under Mechanical Stress.</a> <b>Nature Communications</b> (2025) <a href="http://zhaohedai.github.io/files/2025_NC"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_NC.png" width="400"></p>
 
-<li><p>H. Qian†, J Wang*†, <u>Z. Dai</u>†, Y. Guo, K. Liu, X. Li, M. Hu, Y. Yu, J. Wang, Y. Lai, K. Ren, J. Ji*. <a href="https://doi.org/" style="text-decoration:none;color:gray;"> Pressure-driven micro-injection (PMI) of porous coated balloon for ultrafast endoluminal drug delivery across biological barriers</a>. <b>Science Advances</b> (2025) </p></li>
-<p style="text-align:center;"><img src="/images/publications/2025_SA.png" width="350"></p>
-
 <li><p><u>H. Lu</u>, J. Qian, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1115/1.4069116" style="text-decoration:none;color:#DE3163;">Interplay of dry and capillary adhesion in elastic solids and structures</a>. <b>Journal of Applied Mechanics</b> (2025) <a href="http://zhaohedai.github.io/files/2025_JAM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_JAM.png" width="450"></p>
 
 <li><p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijmecsci.2025.110331" style="text-decoration:none;color:#DE3163;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a><font color="#7B7D7D"> Short answer to the question just posed: YES in theory but likely NO in practice.</font></p></li> 
+
+<li><p>H. Qian†, J Wang*†, <u>Z. Dai</u>†, Y. Guo, K. Liu, X. Li, M. Hu, Y. Yu, J. Wang, Y. Lai, K. Ren, J. Ji*. <a href="https://doi.org/10.1126/sciadv.adv1182" style="text-decoration:none;color:#DE3163;"> Pressure-driven micro-injection (PMI) of porous coated balloon for ultrafast endoluminal drug delivery across biological barriers</a>. <b>Science Advances</b> 11, eadv1182 (2025) <a href="http://zhaohedai.github.io/files/2025_SA.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
+<p style="text-align:center;"><img src="/images/publications/2025_SA.png" width="350"></p>
 
 <li><p><u>Z. Dai</u>*. <a href="https://doi.org/10.1017/jfm.2025.10290" style="text-decoration:none;color:#DE3163;">Jump of an AFM probe towards an elastic substrate in a liquid environment</a>. <b>Journal of Fluid Mechanics</b> 1013, A49 (2025) <a href="http://zhaohedai.github.io/files/2025_JFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_JFM.png" width="280"></p>
