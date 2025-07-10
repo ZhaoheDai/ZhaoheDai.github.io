@@ -19,6 +19,8 @@ redirect_from:
 
 * 9月1日，欢迎陆煌、李世晗同学加入课题组，攻读研究生！
 
+* 7月1日-12日，戴兆贺在<a href="https://droplets2025.org" style="text-decoration:none;color:#DE3163;">Droplets 2025</a>, 法国<a href="https://www.loma.cnrs.fr/dai-4-july-2025/" style="text-decoration:none;color:#DE3163;">CNRS (LOMA)</a>, <a href="https://esmc2025.sciencesconf.org/resource/page/id/8" style="text-decoration:none;color:#DE3163;">EuroMech Solid Mechanics</a>作学术报告。
+
 * 6月19日，祝贺李奇檑荣获北京市自然科学基金委本科生“启研”项目！
 
 * 6月18日，祝贺陆煌入选北京大学校级<a href="https://dean.pku.edu.cn/web/notice_details.php?id=686" style="text-decoration:none;color:#DE3163;">优秀本科毕业论文</a>！
