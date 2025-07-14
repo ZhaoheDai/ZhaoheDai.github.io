@@ -67,9 +67,9 @@ author_profile: false
 <hr>
 <h3>博士后 Post-Docs</h3> 
 
-* 2022.07-2025.06, 李航, <a href="http://zhaohedai.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 薄板结构界面粘附行为的理论研究及其应用</a>. 去向：西南交通大学.
+* 2022.07-2025.06, 李航, <a href="http://zhaohedai.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 薄板结构界面粘附行为的理论研究及其应用</a>. 出站去向：西南交通大学（副教授）.
 
-* 2023.07-2025.09, 李居曜, 论文：. 去向：中国农业大学（副教授）.
+* 2023.07-2025.09, 李居曜, 论文：. 出站去向：中国农业大学（副教授）.
 
 <hr>
 <h3>博士研究生 Graduate Students</h3> 
