@@ -39,12 +39,14 @@ author_profile: false
 
 * 2025.09-present, 陆煌, Huang Lu is working on slender body theories.
 
+* 2025.09-present, 李沛锦, Peijin Li is working on fracture mechanics of biomaterials.
+
 <hr>
 <h3>硕士研究生 Graduate Students</h3> 
 
-* 2024.09-present, 张国政，Guozheng Zhang is working on the indentation of substrate-shell structures.
+* 2024.09-present, 张国政, Guozheng Zhang is working on the indentation of substrate-shell structures.
 
-* 20254.09-present, 李世晗，Shihan Li is tentatively working on fingering instabilities.
+* 2025.09-present, 李世晗, Shihan Li is tentatively working on fingering instabilities.
 
 <hr>
 <h3>本科生 Undergraduate Students</h3> 
