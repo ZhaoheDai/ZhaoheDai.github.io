@@ -17,7 +17,7 @@ redirect_frm:
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-北京大学<a href="https://mech.pku.edu.cn/" style="text-decoration:none;color:indianred;">力学与工程科学学院</a>助理教授、研究员、博士生导师。2013年在中国科学技术大学近代力学系获得学士学位，2016年在中科院力学所获得硕士学位，2020年在德克萨斯大学奥斯汀分校工程力学系获得博士学位，同年入选玛丽居里学者在牛津大学数学所开展博后研究，2022年3月加入北京大学。
+北京大学<a href="https://mech.pku.edu.cn/" style="text-decoration:none;color:indianred;">力学与工程科学学院</a>助理教授、研究员、博士生导师。2013年在中国科学技术大学近代力学系获得学士学位，2016年在中科院力学所获得硕士学位，2020年在德克萨斯大学奥斯汀分校工程力学系获得博士学位，同年入选玛丽居里学者在牛津大学数学研究所开展博后研究，2022年3月加入北京大学。
 
 我的研究方向是固体力学，感兴趣与表界面、纳米材料、细长结构相关的力学和物理问题(见<a href="https://zhaohedai.github.io/research/" style="text-decoration:none;color:indianred;">研究</a>)。目前已发表SCI论文80余篇（见<a href="https://zhaohedai.github.io/publications/" style="text-decoration:none;color:indianred;">论文</a>），授权中国发明专利3项。论文引用5000余次。曾入选欧盟玛丽居里学者、国家级人才计划（青年）等项目。
 
