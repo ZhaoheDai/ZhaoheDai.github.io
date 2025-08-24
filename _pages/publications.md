@@ -20,7 +20,7 @@ author_profile: false
 <style>
   body {
     font-family: 'Lato', 'LM Sans 10', sans-serif;
-    font-size: 10pt;
+    font-size: 16px;
   }
 </style>
 
