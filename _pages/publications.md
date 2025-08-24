@@ -16,16 +16,13 @@ author_profile: false
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-@font-face {font-family: 'LM Sans';
-  src: url('path/to/LMSansRegular.woff2') format('woff2'),
-       url('path/to/LMSansRegular.woff') format('woff');
-  /* Add other formats like .ttf if needed for broader compatibility */
-  font-weight: normal;
-  font-style: normal;}
-
-body {font-family: 'LM Sans', sans-serif; /* 'sans-serif' as a fallback */
-  font-size: 10pt; /* 10 points */}
-
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Lato', 'LM Sans 10', sans-serif;
+    font-size: 10pt;
+  }
+</style>
 
 <h3>Cover Gallary</h3>
 <table border=0>
