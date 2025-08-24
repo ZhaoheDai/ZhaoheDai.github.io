@@ -16,6 +16,17 @@ author_profile: false
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+@font-face {font-family: 'LM Sans';
+  src: url('path/to/LMSansRegular.woff2') format('woff2'),
+       url('path/to/LMSansRegular.woff') format('woff');
+  /* Add other formats like .ttf if needed for broader compatibility */
+  font-weight: normal;
+  font-style: normal;}
+
+body {font-family: 'LM Sans', sans-serif; /* 'sans-serif' as a fallback */
+  font-size: 10pt; /* 10 points */}
+
+
 <h3>Cover Gallary</h3>
 <table border=0>
   <tr><td width=145 ><img src="/images/publications/Cover_2016afm.png" width="145"></td><td width=145><img src="/images/publications/Cover_2016softmatter.png" width="145"></td><td width=145><img src="/images/publications/Cover_2018_PRL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019AM.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019prl.png" width="145"></td><td width=145 ><img src="/images/publications/Cover_2022AMI.JPG" width="145"></td></tr>
