@@ -35,7 +35,7 @@ author_profile: false
 
 * 2023.09-present, 曾维嘉, Weijia Zeng is working on adhesion of membranes and plates (co-advised with Prof. Y. Wei).
 
-* 2024.09-present, 曹嘉聪, Jiacong Cao is working on the nonlinear elasticity and elastodydrodynamics.
+* 2024.09-present, 曹嘉聪, Jiacong Cao is working on the nonlinear elasticity and elastohydrodynamics.
 
 * 2025.09-present, 陆煌, Huang Lu is working on slender body theories.
 
@@ -46,12 +46,12 @@ author_profile: false
 
 * 2024.09-present, 张国政, Guozheng Zhang is working on the indentation of substrate-shell structures.
 
-* 2025.09-present, 李世晗, Shihan Li is tentatively working on fingering instabilities.
+* 2025.09-present, 李世晗, Shihan Li is tentatively working on lubricated contact mechanics.
 
 <hr>
 <h3>本科生 Undergraduate Students</h3> 
 
- * 2024.05-present, 邹济宇, Jiyu Zou is working on the nonlinear dynamics of resonators.
+ * 2024.05-present, 邹济宇, Jiyu Zou is working on the electical double layers.
 
  * 2024.09-present, 王俊骞, Junqian Wang is working on the wetting on lubricated films.
 
@@ -59,7 +59,10 @@ author_profile: false
 
  * 2025.03-present, 李瑀堃, Yukun Li is working on the lubricated thin films.
 
- * 2025.03-present, 卢淅萌, Ximeng Lu is working on the wound healing mechanics.
+ * 2025.03-present, 卢淅萌, Ximeng Lu is working on twisted elastica.
+
+ * 2025.09-present, 宋兴书, Xingshu Song Lu is working on elastohydrodynamic adhesion.
+
 
 <br>
 <br>
