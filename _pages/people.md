@@ -61,7 +61,7 @@ author_profile: false
 
  * 2025.03-present, 卢淅萌, Ximeng Lu is working on twisted elastica.
 
- * 2025.09-present, 宋兴书, Xingshu Song is working on elastohydrodynamic adhesion.
+ * 2025.11-present, 龙想, Xiang Long is working on mechanics of lubricated blisters.
 
 
 <br>
