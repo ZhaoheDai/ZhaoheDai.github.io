@@ -51,7 +51,6 @@ author_profile: false
 
 <li><p><u>J. Cao</u>, <u>Z. Dai</u>*, <u>C. Yu</u>, <u>W. Wang</u>, X. Wei, and Y. Wei*. <a href="https://doi.org/10.1002/adfm.202509438" style="text-decoration:none;color:#DE3163;">Fracture mechanics of 2D crystal blisters with irregular geometry</a>. <b>Advanced Functional Materials</b> 36, 1, e09438 (2026) <a href="http://zhaohedai.github.io/files/2025_AFM2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/Caojiacong/AFM--Fracture-Mechanics-of-2D-Crystal-Blisters-with-Irregular-Geometry-code"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2025_AFM.png" width="450"></p>
-
 <br>
 <hr>
 <h3>2025</h3>
