@@ -46,7 +46,7 @@ author_profile: false
 <li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
 <li><p> Z. Gao†, <u>W. Zheng</u>†, X. Liu, Z. Liu, X. Wang, Y. Long, <u>C. Yu</u>, B. Li, J. Li, X. Li, R. Qiao, L. Wang, <u>Z. Dai</u>*, J. Yin*.
-<a href="https://doi.org/" style="text-decoration:none;color:gray;">Visualizing Elastocapillary Expansion of Graphene through Bulge Tests.</a>. <b>Nano Letters</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<a href="https://doi.org/" style="text-decoration:none;color:gray;">Visualizing Elastocapillary Expansion of Graphene through Bulge Tests</a>. <b>Nano Letters</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_NL.png" width="400"></p>
 
 <li><p><u>W. Zeng</u>, <u>Z. Dai</u>*, and Y. Wei*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Adhesion of elastic membranes Part I: A generalized Tabor parameter</a>. <b>Proceedings of the Royal Society A</b> (2026) <a href="http://zhaohedai.github.io/files/2025_PRSA.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/Proceedings-A"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p></li> 
