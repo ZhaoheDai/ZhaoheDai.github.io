@@ -29,6 +29,7 @@ author_profile: false
 * <b>第一部分：线弹性断裂力学</b>
 	* 概论 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Introduction.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Griffith理论/思想 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	<!--
 	* Irwin裂纹尖端应力场 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* K<sub>I</sub>, K<sub>II</sub>, K<sub>III</sub>的确定 （含傅里叶变换法）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Westergaard应力函数（含III型各向异性） <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
@@ -41,8 +42,9 @@ author_profile: false
 	* 接触与粘附 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic10.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 动态断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic11.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  
 	* 界面断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic12.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
-* <b>考核方法</b>：作业 60% + 期中考试 30% + 大作业10%
-	* 4-5次作业，其目的是练习课堂所授概念。在能帮助你理解和学习的前提下，欢迎学生与任何人（包括导师、其他学生，和我）讨论作业题目（除了个别指定题目外）。 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW1<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW2<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW3<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW4<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW5<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+-->
+* <b>考核方法</b>：作业 50% + 期中考试 40% + 大作业10%
+	* 5次作业，其目的是练习课堂所授概念。在能帮助你理解和学习的前提下，欢迎学生与任何人（包括导师、其他学生，和我）讨论作业题目（除了个别指定题目外）。 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW1<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW2<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW3<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW4<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  <a href="http://zhaohedai.github.io/teaching/FractureMechanics/HM1.pdf" style="text-decoration:none;color:black;">HW5<i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 两次随堂“测试”，每次两道题，其目的是巩固相关概念的理解。题目的类型和难度与作业相当，考试时可以查阅自己的课堂笔记和我认可的教科书。
 	* 一次大作业，内容为调研断裂力学方面的相关（有趣的）实验，研读文献并在课堂汇报。其目的是学习文献中如何发现问题、提出模型、解决/回答问题的研究思路。
 
