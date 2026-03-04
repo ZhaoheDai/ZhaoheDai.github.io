@@ -28,7 +28,8 @@ author_profile: false
 * <b>课程简介</b>：本课程以简单和循序渐进的方式讲述断裂力学的基本原理。断裂力学问题的主要组成部分包括1）裂纹体中的应力和应变场的确定以及2）裂纹扩展的断裂准则。我们将涵盖线性和非线性断裂力学概念，并着眼于裂纹尖端附近的分离机制。此外，根据具体情况，本课程还将部分涵盖黏附力学、动态断裂力学、界面断裂力学、相场断裂模型、柔性器件/微机电系统中的断裂力学问题等专题。课程由两部分组成，其中
 * <b>第一部分：线弹性断裂力学</b>
 	* 概论 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Introduction.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* Griffith理论/思想 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* From ideal strength to Griffith <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* Energy release rate <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	<!--
 	* Irwin裂纹尖端应力场 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* K<sub>I</sub>, K<sub>II</sub>, K<sub>III</sub>的确定 （含傅里叶变换法）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
