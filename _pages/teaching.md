@@ -31,7 +31,7 @@ author_profile: false
 	* From ideal strength to Griffith <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Energy release rate <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Irwin裂纹尖端应力场 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* K fields: Transform method<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* K fields: Transform method <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* K fields: Westergaard应力函数 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* K fields: Rice加权函数法 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* K fields: 断裂准则 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
