@@ -30,19 +30,19 @@ author_profile: false
 	* 概论 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Introduction.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* From ideal strength to Griffith <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic1.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* Energy release rate <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	<!--
-	* Irwin裂纹尖端应力场 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic2.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* K<sub>I</sub>, K<sub>II</sub>, K<sub>III</sub>的确定 （含傅里叶变换法）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* Westergaard应力函数（含III型各向异性） <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* Rice加权函数法 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* 断裂准则 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
+	* Irwin裂纹尖端应力场 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic3.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* K fields: Transform method<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic4.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* K fields: Westergaard应力函数 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic5.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* K fields: Rice加权函数法 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* K fields: 断裂准则 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
+
 * <b>第二部分：断裂力学专题</b>
-	* 非线性断裂（含Dugdale, J积分，介绍HRR）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic7.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* 范德华力 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* 薄膜断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic9.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* 接触与粘附 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic10.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
-	* 动态断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic11.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  
-	* 界面断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic12.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
+	* 非线性断裂（含Dugdale, J积分，介绍HRR）<a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic8.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* 范德华力 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic9.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* 薄膜断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic10.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* 接触与粘附 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic11.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
+	* 动态断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic12.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  
+	* 界面断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic13.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
 -->
 * <b>考核方法</b>：作业 50% + 期中考试 40% + 大作业10%
 	* 5次作业，其目的是练习课堂所授概念。在能帮助你理解和学习的前提下，欢迎学生与任何人（包括导师、其他学生，和我）讨论作业题目（除了个别指定题目外）。 
