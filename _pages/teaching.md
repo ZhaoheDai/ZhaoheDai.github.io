@@ -43,7 +43,7 @@ author_profile: false
 	* 接触与粘附 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic11.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> 
 	* 动态断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic12.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a>  
 	* 界面断裂 <a href="http://zhaohedai.github.io/teaching/FractureMechanics/Topic13.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px;color:black"></i></a> <br>
--->
+
 * <b>考核方法</b>：作业 50% + 期中考试 40% + 大作业10%
 	* 5次作业，其目的是练习课堂所授概念。在能帮助你理解和学习的前提下，欢迎学生与任何人（包括导师、其他学生，和我）讨论作业题目（除了个别指定题目外）。 
 	* 两次随堂“测试”，每次两道题，其目的是巩固相关概念的理解。题目的类型和难度与作业相当，考试时可以查阅自己的课堂笔记和我认可的教科书。
