@@ -46,6 +46,9 @@ author_profile: false
 <li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
 
+<li><p> <u>G. Zhang</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Asymptotic models for thin transversely isotropic elastic layers</a>. <b>Applied Mathematics and Mechanics</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AMM2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<p style="text-align:center;"><img src="/images/publications/2026_AMM2.png" width="375"></p>
+
 <li><p> <u>L. Du</u>, J. Long, <u>Z. Dai</u>, R. Xiao*, W. Chen. <a href="https://doi.org/10.1007/s10483-026-3379-9" style="text-decoration:none;color:#DE3163;">Adhesion of stretched elastomers: a model based on Lennard-Jones potential</a>. <b>Applied Mathematics and Mechanics</b> 47, 1001–1018 (2026) <a href="http://zhaohedai.github.io/files/2026_AMM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
 
