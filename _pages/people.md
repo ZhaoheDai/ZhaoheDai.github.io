@@ -24,12 +24,14 @@ author_profile: false
 
 * 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
 
+* 2026.07-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses (co-advised with Prof. Y. Wei).
+
+* 2026.07-present, 郑婉莹, Wanying Zheng is working on the surface effect in elastic solids.
+
+* 2026.07-present, 潘金鑫, Jinxin Pan is working on the dynamic buckling and fracture of slender solids.
+
 <hr>
 <h3>博士研究生 Graduate Students</h3> 
-
-* 2022.09-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses.
-
-* 2022.12-present, 郑婉莹, Wanying Zheng is working on the surface effect in elastic solids.
 
 * 2023.09-present, 陈尔腾, Erteng Chen is working on deformation and instabilities of slender/soft structures.
 
@@ -40,6 +42,8 @@ author_profile: false
 * 2025.09-present, 陆煌, Huang Lu is working on slender body theories.
 
 * 2025.09-present, 李沛锦, Peijin Li is working on fracture mechanics of biomaterials.
+
+* 2026.09-present, 杜乐, Le Du is working on adhesion and fracture mechanics of nonlinear solids.
 
 <hr>
 <h3>硕士研究生 Graduate Students</h3> 
@@ -78,6 +82,12 @@ author_profile: false
 
 <hr>
 <h3>博士研究生 Graduate Students</h3> 
+
+* 2022.09-2026.06, 于川立, <a href="http://zhaohedai.github.io/files/Phd_Chuanli.pdf" style="text-decoration:none;color:gray;">范德华作用主导的弹性纳米
+薄膜界面力学行为研究</a>. 毕业去向：北京大学（博雅博后）.
+
+* 2022.12-2026.06, 郑婉莹, <a href="http://zhaohedai.github.io/files/Phd_Wanying.pdf" style="text-decoration:none;color:gray;">非线性弹性薄膜表界面效应研究</a>. 毕业去向：北京大学（博后）.
+
 
 <hr>
 <h3>本科生 Undergraduates</h3> 
