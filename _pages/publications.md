@@ -48,13 +48,13 @@ author_profile: false
 hardening effect: Half-space and thin-layer limits</a>. <b>Acta Mechanica Solida Sinica</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
 
-<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">How Slippery Surfaces Retain Their Function: Lubricant Film Dynamics upon Droplet Contact.</a> <b>Small</b> (2026) <a href="http://zhaohedai.github.io/files/2026_Small"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2026_Small.png" width="500"></p>
-
 <!--
 <li><p> <u>G. Zhang</u> and <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Asymptotic models for thin transversely isotropic elastic layers</a>. <b>Applied Mathematics and Mechanics</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AMM2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_AMM2.png" width="375"></p>
 -->
+
+<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">How Slippery Surfaces Retain Their Function: Lubricant Film Dynamics upon Droplet Contact.</a> <b>Small</b> (2026) <a href="http://zhaohedai.github.io/files/2026_Small"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<p style="text-align:center;"><img src="/images/publications/2026_Small.png" width="500"></p>
 
 <li><p> Q. Wu, J. Pei, <u>E. Chen</u>, X. Yuan, Y. Wu, R. Shi, Y. Li, T. Zhang, W. Su, J. Li, X. Sun, H. Hu, Y. Tang, <u>Z. Dai</u>, K. Liu*, S. Zhu*, Y. Gao*. <a href="https://doi.org/10.1016/j.jmps.2026.106680" style="text-decoration:none;color:#DE3163;">Twist-angle dependence of the out-of-plane elasticity in bilayer MoS2</a>. <b>Journal of the Mechanics and Physics of Solids</b> (2026) <a href="http://zhaohedai.github.io/files/2026_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_JMPS.png" width="400"></p>
