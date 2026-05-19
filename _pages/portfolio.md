@@ -14,7 +14,7 @@ author_profile: false
   gtag('config', 'G-K251SYLJ6Y');
 </script>
 <hr>
-<img src="/images/Album/2026.png" width="500"><br>
+<img src="/images/Album/2026.png" width="800"><br>
 2026/05/19 Congrats to Dr. Yu and Dr. Zheng! Good job!
 <hr>
 <table border=0>
