@@ -85,7 +85,7 @@ author_profile: false
 
 * 2022.09-2026.06, 于川立, <a href="http://zhaohedai.github.io/files/Phd_Chuanli.pdf" style="text-decoration:none;color:gray;">范德华作用主导的弹性纳米薄膜界面力学行为研究</a>. 毕业去向：北京大学（博雅博后）.
 
-* 2022.12-2026.06, 郑婉莹, <a href="http://zhaohedai.github.io/files/Phd_Wanying.pdf" style="text-decoration:none;color:gray;">非线性弹性薄膜表界面效应研究</a>. 毕业去向：北京大学（博后）.
+* 2022.12-2026.06, 郑婉莹, <a href="http://zhaohedai.github.io/files/Phd_Wanying.pdf" style="text-decoration:none;color:gray;">非线性弹性薄膜润湿与黏附接触问题研究</a>. 毕业去向：北京大学（博后）.
 
 
 <hr>
