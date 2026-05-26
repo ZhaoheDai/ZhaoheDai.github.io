@@ -52,12 +52,12 @@ author_profile: false
 
 * 2025.09-present, 李世晗, Shihan Li is tentatively working on lubricated contact mechanics.
 
+* 2026.09-present, 邹济宇, Jiyu Zou is working on surface diffusion in thin metals.
+
+* 2026.09-present, 王俊骞, Junqian Wang is working on the wetting on lubricated films.
+
 <hr>
 <h3>本科生 Undergraduate Students</h3> 
-
- * 2024.05-present, 邹济宇, Jiyu Zou is working on the electical double layers.
-
- * 2024.09-present, 王俊骞, Junqian Wang is working on the wetting on lubricated films.
 
  * 2024.09-present, 李奇檑, Qilei Li is working on morphing of liquid surfaces.
 
@@ -91,18 +91,26 @@ author_profile: false
 <hr>
 <h3>本科生 Undergraduates</h3> 
 
-* <p>2022.09-2023.08, 陈尔腾, 毕设题目：基底黏附二维材料压痕响应研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
+* <p>2022.09-2023.06, 陈尔腾, 毕设题目：基底黏附二维材料压痕响应研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
 
-* <p>2022.10-2023.08, 曾维嘉, 毕设题目：刚性球与弹性薄膜的黏附问题研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
+* <p>2022.10-2023.06, 曾维嘉, 毕设题目：刚性球与弹性薄膜的黏附问题研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
 
-* <p>2023.09-2024.08, 曹嘉聪, 毕设题目：二维材料界面黏附能的高通量表方法研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
+* <p>2023.09-2024.06, 曹嘉聪, 毕设题目：二维材料界面黏附能的高通量表方法研究。<em>毕业去向：北京大学攻读博士学位</em>。</p>
 
-* <p>2023.09-2024.08, 张国政, 毕设题目：横观各向同性对不同厚度组合的弹性面板-单层土体体系的静力响应的影响。<em>毕业去向：北京大学攻读硕士学位</em>。</p>
+* <p>2023.09-2024.06, 张国政, 毕设题目：横观各向同性对不同厚度组合的弹性面板-单层土体体系的静力响应的影响。<em>毕业去向：北京大学攻读硕士学位</em>。</p>
 
-* <p>2023.06-2025.08, 陆煌, 
+* <p>2023.06-2025.06, 陆煌, 
 毕设题目：弹性固体与结构中干黏附与毛细黏附的耦合效应。<em>
 毕业去向：北京大学攻读博士学位</em>。</p>
 
-* <p>2023.12-2025.08, 岑昶, 
+* <p>2023.12-2025.06, 岑昶, 
 毕设题目：刚性球与弹性薄膜的软润滑问题。<em>
 毕业去向：日本东京大学研究生</em>。</p>
+
+* <p>2024.05-2026.06, 邹济宇, 
+毕设题目：AFM探针与弹性基底相互作用中的跳降现象研究。<em>
+毕业去向：北京大学攻读硕士学位</em>。</p>
+
+* <p>2024.09-2026.06, 王俊骞, 
+毕设题目：微流控界面对颗粒的毛细驱动及其最速降线问题。<em>
+毕业去向：北京大学攻读硕士学位</em>。</p>
