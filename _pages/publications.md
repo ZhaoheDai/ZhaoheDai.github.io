@@ -43,7 +43,7 @@ author_profile: false
 <!--
 <li><p>S. Gupta, <u>Z. Dai</u>, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:gray;">Liquid Bridges on Lubricated Surfaces: A Counterintuitive Interplay of Liquid Pressure and Thin-Film Dynamics.</a> <b>arXiv</b> (in submission) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
-<li><p> <u>H. Lu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/8s5j-63xf" style="text-decoration:none;color:#DE3163;">Deep indentation of soft thin films beyond the 10% rule</a>. <b>Phys. Rev. Lett.</b> (2026) <a href="http://zhaohedai.github.io/files/2026_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p> <u>H. Lu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/8s5j-63xf" style="text-decoration:none;color:#DE3163;">Deep indentation of soft thin films beyond the 10% rule</a>. <b>Physical Review Letters</b> (2026) <a href="http://zhaohedai.github.io/files/2026_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_PRL.png" width="375"></p>
 
 <li><p> <u>L. Du</u>, <u>Z. Dai</u>, J. Long, R. Xiao*, W. Chen. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Incremental elasticity of pre-stretched elastomers with strain
