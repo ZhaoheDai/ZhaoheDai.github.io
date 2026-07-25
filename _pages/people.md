@@ -22,8 +22,6 @@ author_profile: false
 <hr>
 <h3>博士后 Post-Docs</h3>   
 
-* 2024.07-present, 王文祥, Wenxiang is working on strain engineering in multifunctional 2D devices.
-
 * 2026.07-present, 于川立, Chuanli Yu is working on the metrology of surface/interface energies/stresses (co-advised with Prof. Y. Wei).
 
 * 2026.07-present, 郑婉莹, Wanying Zheng is working on the surface effect in elastic solids.
@@ -79,6 +77,8 @@ author_profile: false
 * 2022.07-2025.06, 李航, <a href="http://zhaohedai.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 薄板结构界面粘附行为的理论研究及其应用</a>. 出站去向：西南交通大学（副教授）.
 
 * 2023.07-2025.10, 李居曜, <a href="http://zhaohedai.github.io/files/Postdoc_Juyao.pdf" style="text-decoration:none;color:gray;"> 横观各向同性弹性层的渐近理论与接触问题研究</a>. 出站去向：中国农业大学（副教授）.
+
+* 2024.07-2026.07, 王文祥, <a href="http://zhaohedai.github.io/" style="text-decoration:none;color:gray;"> 受限固体薄膜润湿稳定性研究</a>. 出站去向：香港大学（访问学者）.
 
 <hr>
 <h3>博士研究生 Graduate Students</h3> 
