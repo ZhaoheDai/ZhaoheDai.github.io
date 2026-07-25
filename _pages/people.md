@@ -65,6 +65,8 @@ author_profile: false
 
  * 2025.11-present, 龙想, Xiang Long is working on statics and dynamics of liquid blisters.
 
+ * 2026.07-present, 叶子畅, Zichang Ye is working on metasurfaces.
+
 
 <br>
 <br>
