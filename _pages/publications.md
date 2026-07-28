@@ -42,7 +42,7 @@ author_profile: false
 <h3>2026</h3>
 <!--
 <li><p>S. Gupta, <u>Z. Dai</u>, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:gray;">Liquid Bridges on Lubricated Surfaces: A Counterintuitive Interplay of Liquid Pressure and Thin-Film Dynamics.</a> <b>arXiv</b> (in submission) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
--->
+
 
 <li><p><u>E. Chen</u>, Z. Fang, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Axisymmetric peeling of thin elastic films: Snap-through and wrinkling instabilities</a>. <b>Under Review</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
@@ -55,6 +55,7 @@ author_profile: false
 <li><p>Q. Lu*, Q. Zhu*, J. Sun, H. Ma, Y. Wei, Z. Zhou, M. Lei, Z. Wang, Z. Hao, Y. Lei, X. Yang, Z. Xu, Y. Wei, X. Wang*, X. Wang*, <u>Z. Dai</u>, W. Huang*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Predictable Conformal Electronics Enabled by a Sliding-Adhesion Competition Model</a>. <b>Under Review</b> (2026) <a href="http://zhaohedai.github.io/files/2026_npjFE.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
 <li><p>L. Zheng†, J. Song†, X. Zhao†, <u>J. Cao</u>, J. Xu, Z. Wang, C. Zhang, W. Sun, B. Chen, X. Gao, H. Liu, J. Yang, Y. Xu, L. Sun, <u>Z. Dai</u>, X. Wei, N. Liu*, H. Peng*, H. Wang*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Control of ice thickness in cryo-EM via confinement</a>. <b>Under Review</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+-->
 
 <li><p> <u>H. Lu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/8s5j-63xf" style="text-decoration:none;color:#DE3163;">Deep indentation of soft thin films beyond the 10% rule</a>. <b>Physical Review Letters</b> 137, 036201 (2026) <a href="http://zhaohedai.github.io/files/2026_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_PRL.png" width="375"></p>
