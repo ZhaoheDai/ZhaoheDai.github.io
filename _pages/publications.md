@@ -57,6 +57,8 @@ author_profile: false
 <li><p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_NC.png" width="550"></p>
 
+<li><p>X. Shen, <u>Z. Dai</u>, Y. Wei*. <a href="https://doi.org/10.1016/j.jmps.2026.106842" style="text-decoration:none;color:#DE3163;">Peeling and snap-through instability of multilayer 2D blisters with dual interfacial slips</a>. <b>Journal of the Mechanics and Physics of Solids</b> (2026) <a href="http://zhaohedai.github.io/files/2026_JMPS2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+
 <li><p>Q. Lu*, Q. Zhu*, J. Sun, H. Ma, Y. Wei, Z. Zhou, M. Lei, Z. Wang, Z. Hao, Y. Lei, X. Yang, Z. Xu, Y. Wei, X. Wang*, X. Wang*, <u>Z. Dai</u>, W. Huang*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Predictable Conformal Electronics Enabled by a Sliding-Adhesion Competition Model</a>. <b>npj Flexible Electronics</b> (2026) <a href="http://zhaohedai.github.io/files/2026_npjFE.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_npjFE.png" width="400"></p>
 
