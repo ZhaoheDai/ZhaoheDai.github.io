@@ -56,7 +56,8 @@ author_profile: false
 <li><p>T. Wang, <u>Z. Dai</u>, L. Shao*, Y. Zhu*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Buckling of a finite-length nanowire on an elastic substrate with finite interfacial shear strength</a>. <b>Under Review</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
 
-<li><p>L. Zheng†, J. Song†, X. Zhao†, <u>J. Cao</u>, J. Xu, Z. Wang, C. Zhang, W. Sun, B. Chen, X. Gao, H. Liu, J. Yang, Y. Xu, L. Sun, <u>Z. Dai</u>, X. Wei, N. Liu*, H. Peng*, H. Wang*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Control of ice thickness in cryo-EM via confinement</a>. <b>Nature Methods</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<li><p>L. Zheng†, J. Song†, X. Zhao†, <u>J. Cao</u>, J. Xu, Z. Wang, C. Zhang, W. Sun, B. Chen, X. Gao, H. Liu, J. Yang, Y. Xu, L. Sun, <u>Z. Dai</u>, X. Wei, N. Liu*, H. Peng*, H. Wang*. <a href="https://doi.org/10.1038/s41592-026-03244-1" style="text-decoration:none;color:#DE3163;">Control of ice thickness in cryo-EM via confinement</a>. <b>Nature Methods</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<p style="text-align:center;"><img src="/images/publications/2026_NM.png" width="450"></p>
 
 <li><p>Q. Zhu, J. Sun, H. Ma, Y. Wei, Z. Zhou, M. Lei, Z. Wang, Z. Hao, Y. Lei, X. Yang, Z. Xu, Y. Wei, X. Wang*, X. Wang*, <u>Z. Dai</u>, W. Huang*, Q. Lu*. <a href="https://doi.org/10.1038/s41528-026-00637-2" style="text-decoration:none;color:#DE3163;">Predictable Conformal Electronics Enabled by a Sliding-Adhesion Competition Model</a>. <b>npj Flexible Electronics</b> (2026) <a href="http://zhaohedai.github.io/files/2026_npjFE.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_npjFE.png" width="400"></p>
@@ -70,7 +71,7 @@ author_profile: false
 <p style="text-align:center;"><img src="/images/publications/2026_PRL.png" width="375"></p>
 
 <li><p> <u>L. Du</u>, <u>Z. Dai</u>, J. Long, R. Xiao*, W. Chen. <a href="https://doi.org/10.1007/s10338-026-00792-z" style="text-decoration:none;color:#DE3163;">Incremental elasticity of pre-stretched elastomers with strain
-hardening effect: Half-space and thin-layer limits</a>. <b>Acta Mechanica Solida Sinica</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+hardening effect: Half-space and thin-layer limits</a>. <b>Acta Mechanica Solida Sinica</b> 47, 1001–1018 (2026) <a href="http://zhaohedai.github.io/files/2026_AMSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 
 <li><p> <u>G. Zhang</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1007/s10483-026-3406-8" style="text-decoration:none;color:#DE3163;">Asymptotic models for thin transversely isotropic elastic layers</a>. <b>Applied Mathematics and Mechanics</b> 47, 1603–1624 (2026) <a href="http://zhaohedai.github.io/files/2026_AMM2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/14523GuozhengZhang/Asymptotic-models"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_AMM2.png" width="375"></p>
