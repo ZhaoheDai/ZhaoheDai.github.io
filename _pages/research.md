@@ -22,7 +22,7 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 <hr>
 <h3>How thin films deform and fail?</h3>
 
-<p style="color:indianred;">Keywards: Perturbation theory, Winkler foundation, Shear lag model, Dielectric breakdown, Tactile sensors</p>
+<p style="color:indianred;">Thin-film mechanics, indentation, foundations, fracture, dielectric/mechanical failure</p>
 <div style="text-align: center;"><img src="/images/Research3.png" width="500"></div>
 
 1. <p><u>H. Lu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/8s5j-63xf" style="text-decoration:none;color:black;">Deep indentation of soft thin films beyond the 10% rule</a>. <b>Physical Review Letters</b> 137, 036201 (2026) <a href="http://zhaohedai.github.io/files/2026_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
@@ -41,7 +41,7 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 
 
 <h3>How thin films evolve?</h3>
-<p style="color:indianred;">Keywards: Thin metals, Interconnect, Solid-state dewtting, Capillary instability, Integrated Circuits</p>
+<p style="color:indianred;">Solid-state dewetting, capillary instability, mass transport, thermal stability of ultrathin metals</p>
 <div style="text-align: center;"><img src="/images/publications/2026_NC.png" width="500"></div>
 
 1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/10.1038/s41467-026-77794-5" style="text-decoration:none;color:black;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
@@ -50,8 +50,8 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 
 3. <p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:black;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022) <a href="http://zhaohedai.github.io/files/2022_PRF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/PRFluids2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
-<h3>How thin plates interact?</h3>
-<p style="color:indianred;">Keywards: MEMS, Stiction, Van der Waals force, Adhesion</p>
+<h3>How thin solids adhere and detach?</h3>
+<p style="color:indianred;">Adhesion, peeling, pull-off, stiction, blistering, vdW interactions</p>
 <div style="text-align: center;"><img src="/images/publications/2025_PRSA.png" width="500"></div>
 
 1. <p><u>C. Yu</u>, <u>W. Zeng</u>, Z. Kou, <u>W. Wang</u>, L. Wang, Q. Li, X. Liu, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/jgqz-gwlc" style="text-decoration:none;color:black;">Transparency of graphene to solid-solid van der Waals interactions</a>. <b> Physical Review Letters</b> 135, 156202 (2025) <a href="http://zhaohedai.github.io/files/2025_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2025_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
@@ -66,8 +66,8 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 5. <p><u>J. Cao</u>, <u>Z. Dai</u>*, <u>C. Yu</u>, <u>W. Wang</u>, X. Wei, and Y. Wei*. <a href="https://doi.org/10.1002/adfm.202509438" style="text-decoration:none;color:black;">Fracture mechanics of 2D crystal blisters with irregular geometry</a>. <b>Advanced Functional Materials</b> 36, 1, e09438 (2026) <a href="http://zhaohedai.github.io/files/2025_AFM2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/Caojiacong/AFM--Fracture-Mechanics-of-2D-Crystal-Blisters-with-Irregular-Geometry-code"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
 
-<h3>How thin plates bend, stretch, and wrinkle?</h3>
-<p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
+<h3>How thin solids bend, stretch, and wrinkle?</h3>
+<p style="color:indianred;">Wrinkling, buckling, tents, blisters, snap-through, geometric instabilities</p>
 
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
 
@@ -84,7 +84,7 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 
 <hr>
 <h3>How 2D materials adhere to substrates?</h3>
-<p style="color:indianred;">Keywards: Wetting, Adhesion, Friction, Delamination, Lubrication, Interface mechanics </p>
+<p style="color:indianred;">Wetting, Adhesion, Friction, Delamination, Lubrication, Interface mechanics </p>
 
 <div style="text-align: center;"><img src="/images/Surface.png" width="700"></div>
 
@@ -104,9 +104,9 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 
 
 <hr>
-<h3>When thin solids meets liquids</h3>
+<h3>How thin solids interact with liquids?</h3>
 
-<p style="color:indianred;">Keywards: Elastic wetting, Liquid-structure interactions, Elastic dewetting, Elastocapillarity, Blisters</p>
+<p style="color:indianred;">Elastic wetting, Liquid-structure interactions, Elastic dewetting, Elastocapillarity, Blisters</p>
 <div style="text-align: center;"><img src="/images/Research2.png" width="700"></div>
 
 1. <p><u>W. Zheng</u>†, Z. Gao†, <u>C. Yu</u>, J. Yin*, <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.eml.2026.102455" style="text-decoration:none;color:black;">Revealing Surface Tension in Elastic Membranes via Indentation</a>. <b>Extreme Mechanics Letters</b> 83, 102455 (2026) <a href="http://zhaohedai.github.io/files/2026_EML.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p> 
@@ -123,9 +123,9 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 6. <p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:black;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018) <a href="http://zhaohedai.github.io/files/29.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 <hr>
-<h3>Elastic strain engineering</h3>
+<h3>How mechanics shapes 2D materials?</h3>
 
-<p style="color:indianred;">Keywards: Strain engineering, Pseudo-magnetic field, 2D material devices</p>
+<p style="color:indianred;">Strain engineering, pseudo-fields, twist/interlayer mechanics, mechanical tuning of transport or functionality</p>
 <div style="text-align: center;"><img src="/images/StrainEngineering.png" width="500"><</div>
 
 1. <p>L. Zheng†, J. Song†, X. Zhao†, <u>J. Cao</u>, J. Xu, Z. Wang, C. Zhang, W. Sun, B. Chen, X. Gao, H. Liu, J. Yang, Y. Xu, L. Sun, <u>Z. Dai</u>, X. Wei, N. Liu*, H. Peng*, H. Wang*. <a href="https://doi.org/10.1038/s41592-026-03244-1" style="text-decoration:none;color:black;">Control of ice thickness in cryo-EM via confinement</a>. <b>Nature Methods</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
@@ -135,9 +135,9 @@ We study how elasticity, adhesion, capillarity, friction, and geometry govern th
 3. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
 <hr>
-<h3>Nanomaterials assemblies</h3>
+<h3>How structure creates functionality?</h3>
 
-<p style="color:indianred;">Keywards: Functional composites, Composite films, Self-assembly, Mechanical properties, Composite sponges, Negative Poisson's ratio</p>
+<p style="color:indianred;">Nanomaterial assemblies, architected materials, negative Poisson’s ratio, artificial muscles, multifunctional composites.</p>
 <p style="text-align:center;"><img src="/images/publications/9.jpg" width="500"></p>
 
 1. <p><u>W. Wang</u>, Z. Wei, Y. Li, J. You, X. Li, J. He, H. Mao, J. Jin*, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1063/5.0245016" style="text-decoration:none;color:black;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>. <b> Applied Physics Letters</b> 126, 023501 (2025) <a href="http://zhaohedai.github.io/files/2025_APL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
