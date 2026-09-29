@@ -22,8 +22,7 @@ redirect_from:
 1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
 
-
-<h3>Mechanics of plates and membranes</h3>
+<h3>Plates and membranes</h3>
 <p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
 
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
