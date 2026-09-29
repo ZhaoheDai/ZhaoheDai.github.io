@@ -84,8 +84,6 @@ redirect_from:
 
 4. <p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:black;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <a href="http://zhaohedai.github.io/files/2024_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024NL.png" style="color:#7B7D7D;">Cover</a></p>
 
-5. <p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:black;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016) <a href="http://zhaohedai.github.io/files/16.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
-
 <hr>
 <h3>Elastic strain engineering</h3>
 
@@ -110,6 +108,7 @@ redirect_from:
 
 4. <p><u>Z. Dai</u>, L. Liu*, J. Kuang, Y. Wei, H. Zhu*, Z. Zhang*. <a href="https://doi.org/10.1038/srep18930" style="text-decoration:none;color:black;">Three-dimensional Sponges with Super Mechanical Stability: Harnessing True Elasticity of Individual Carbon Nanotubes in Macroscopic Architectures</a>. <b>Scientific Reports</b> 6, 18930 (2016) <a href="http://zhaohedai.github.io/files/13.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
+5. <p><u>Z. Dai</u>, G. Wang, L. Liu*, Y. Hou, Y. Wei*, Z. Zhang*. <a href="https://doi.org/10.1016/j.compscitech.2016.09.005" style="text-decoration:none;color:black;">Mechanical Behavior and Properties of Hydrogen bonded Graphene/Polymer Nano-Interfaces</a>. <b>Composites Science and Technology</b> 136, 1 (2016) <a href="http://zhaohedai.github.io/files/16.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 <hr>
 <h3>Grants</h3>
