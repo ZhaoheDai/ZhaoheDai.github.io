@@ -17,7 +17,7 @@ redirect_from:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-We study how elasticity, adhesion, capillarity, friction, and geometry govern thin and soft materials and interfaces. Combining theory, computation, and experiments, we aim to uncover simple mechanical principles behind these behaviors. Below, I group a few related publications to summarize some of research directions in our group.
+Our research asks how simple mechanical principles give rise to the rich behaviors of thin solids, soft materials, and interfaces. We study how elasticity, adhesion, capillarity, friction, and geometry work together to control deformation, instability, failure, evolution, and functionality. Through a combination of theory, computation, and experiments, we aim to uncover connections between seemingly different phenomena across scales—from atomically thin materials and nanoscale interfaces to soft films and architected structures. The themes below highlight several directions currently explored in our group.
 
 <hr>
 <h3>How thin films deform and fail?</h3>
