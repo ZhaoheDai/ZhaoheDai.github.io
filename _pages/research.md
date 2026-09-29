@@ -32,14 +32,14 @@ redirect_from:
 
 5. <p> Q. Wu, J. Pei, <u>E. Chen</u>, X. Yuan, Y. Wu, R. Shi, Y. Li, T. Zhang, W. Su, J. Li, X. Sun, H. Hu, Y. Tang, <u>Z. Dai</u>, K. Liu*, S. Zhu*, Y. Gao*. <a href="https://doi.org/10.1016/j.jmps.2026.106680" style="text-decoration:none;color:black;">Twist-angle dependence of the out-of-plane elasticity in bilayer MoS2</a>. <b>Journal of the Mechanics and Physics of Solids</b> 214, 106680 (2026) <a href="http://zhaohedai.github.io/files/2026_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
-5. <p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:black;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <a href="http://zhaohedai.github.io/files/2024_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
+5. <p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:black;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> 24, 4965–4971 (2024) <a href="http://zhaohedai.github.io/files/2024_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
 6. <p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:black;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2024) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
 
 <h3>How thin films evolve?</h3>
 <p style="color:indianred;">Keywards: Thin metals, Interconnect, Solid-state dewtting, Capillary instability, Integrated Circuits</p>
-<div style="text-align: center;"><img src="/images/CapillaryInstability.png" width="500"><</div>
+<div style="text-align: center;"><img src="/images/CapillaryInstability.png" width="500"></div>
 
 1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/10.1038/s41467-026-77794-5" style="text-decoration:none;color:black;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
@@ -49,6 +49,7 @@ redirect_from:
 
 <h3>How thin plates interact?</h3>
 <p style="color:indianred;">Keywards: MEMS, Stiction, Van der Waals force, Adhesion</p>
+<div style="text-align: center;"><img src="/images/ThinFilmAdhesion.png" width="500"></div>
 
 1. <p><u>C. Yu</u>, <u>W. Zeng</u>, Z. Kou, <u>W. Wang</u>, L. Wang, Q. Li, X. Liu, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/jgqz-gwlc" style="text-decoration:none;color:black;">Transparency of graphene to solid-solid van der Waals interactions</a>. <b> Physical Review Letters</b> 135, 156202 (2025) <a href="http://zhaohedai.github.io/files/2025_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2025_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
@@ -67,7 +68,7 @@ redirect_from:
 
 <div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
 
-1. <p>X. Shen, <u>Z. Dai</u>, Y. Wei*. <a href="https://doi.org/10.1016/j.jmps.2026.106842" style="text-decoration:none;color:#DE3163;">Peeling and snap-through instability of multilayer 2D blisters with dual interfacial slips</a>. <b>Journal of the Mechanics and Physics of Solids</b> 218, 106842 (2026) <a href="http://zhaohedai.github.io/files/2026_JMPS2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
+1. <p>X. Shen, <u>Z. Dai</u>, Y. Wei*. <a href="https://doi.org/10.1016/j.jmps.2026.106842" style="text-decoration:none;color:black;">Peeling and snap-through instability of multilayer 2D blisters with dual interfacial slips</a>. <b>Journal of the Mechanics and Physics of Solids</b> 218, 106842 (2026) <a href="http://zhaohedai.github.io/files/2026_JMPS2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
 2. <p>H. Qian†, J Wang*†, <u>Z. Dai</u>†, Y. Guo, K. Liu, X. Li, M. Hu, Y. Yu, J. Wang, Y. Lai, K. Ren, J. Ji*. <a href="https://doi.org/10.1126/sciadv.adv1182" style="text-decoration:none;color:black;"> Pressure-driven micro-injection (PMI) of porous-coated balloon for ultrafast endoluminal drug delivery across biological barriers</a>. <b>Science Advances</b> 11, eadv1182 (2025) <a href="http://zhaohedai.github.io/files/2025_SA.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
@@ -84,9 +85,9 @@ redirect_from:
 
 <div style="text-align: center;"><img src="/images/Surface.png" width="700"></div>
 
-1. <p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:black;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 36, 2303014 (2024) <a href="http://zhaohedai.github.io/files/2023_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited review</font></p>
+1. <p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:black;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 36, 2303014 (2024) <a href="http://zhaohedai.github.io/files/2023_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
-2. <p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:black;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <a href="http://zhaohedai.github.io/files/2022_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/NanoLett2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2023NL.jpg" style="color:#7B7D7D;">Cover</a></p>
+2. <p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:black;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <a href="http://zhaohedai.github.io/files/2022_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/NanoLett2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
 3. <p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:black;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023) <a href="http://zhaohedai.github.io/files/2023_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
@@ -96,7 +97,7 @@ redirect_from:
 
 6. <p><u>Z. Dai</u>, Y. Hou, D. A. Sanchez, G. Wang, C. J. Brennan, L. Liu*, N. Lu*. <a href="https://doi.org/10.1103/PhysRevLett.121.266101" style="text-decoration:none;color:black;">Interface-Governed Deformation of Nanobubbles and Nanotents Formed by Two-Dimensional Materials</a>. <b>Physical Review Letters</b> 121, 266101 (2018) <a href="http://zhaohedai.github.io/files/2018_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion, featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2018_PRL.jpg" style="color:#7B7D7D;">Cover</a> </p>
 
-7. <p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:black;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017) <a href="http://zhaohedai.github.io/files/23.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion, also featured by news media including APS Physics Focus, Physicsworld, PhysOrg, Chinese Academy of Science, and Nanotechweb (see</font> <a href="https://aps.altmetric.com/details/22013151/news" style="color:#7B7D7D;">Altmetric</a>) <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i> </p>
+7. <p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, Y. Wang, P. Tan, L. Liu*, Z. Xu*, Y. Wei, R. Huang, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.119.036101" style="text-decoration:none;color:black;">Measuring Interlayer Shear Stress in Bilayer Graphene</a>. <b>Physical Review Letters</b> 119, 036101 (2017) <a href="http://zhaohedai.github.io/files/23.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
 
 <hr>
@@ -128,7 +129,7 @@ redirect_from:
 
 2. <p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:black;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p>
 
-3. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:#7B7D7D;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i>  </p>
+3. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
 <hr>
 <h3>Nanomaterials assemblies</h3>
@@ -136,7 +137,7 @@ redirect_from:
 <p style="color:indianred;">Keywards: Functional composites, Composite films, Self-assembly, Mechanical properties, Composite sponges, Negative Poisson's ratio</p>
 <p style="text-align:center;"><img src="/images/publications/9.jpg" width="500"></p>
 
-1. <p><u>W. Wang</u>, Z. Wei, Y. Li, J. You, X. Li, J. He, H. Mao, J. Jin*, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1063/5.0245016" style="text-decoration:none;color:black;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>. <b> Applied Physics Letters</b> 126, 023501 (2025) <a href="http://zhaohedai.github.io/files/2025_APL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Selected as <a href="https://pubs.aip.org/aip/apl/issue/126/2" style="text-decoration:none;color:gray;">featured article</a></p>
+1. <p><u>W. Wang</u>, Z. Wei, Y. Li, J. You, X. Li, J. He, H. Mao, J. Jin*, L. Sun*, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1063/5.0245016" style="text-decoration:none;color:black;">Multifunctional complementary field-effect transistors based on MoS2/SWNTs network heterostructures</a>. <b> Applied Physics Letters</b> 126, 023501 (2025) <a href="http://zhaohedai.github.io/files/2025_APL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
 2. <p><u>Z. Dai</u>, C. Weng, L. Liu*, X. Zhao, J. Kuang, Y. Hou, J. Shi, Y. Wei, J. Lou*, Z. Zhang*. <a href="https://doi.org/10.1038/srep32989" style="text-decoration:none;color:black;">Multifunctional Polymer-Based Graphene Foams with Buckled Structure and Negative Poisson’s Ratio</a>. <b>Scientific Reports</b> 6, 32989 (2016) <a href="http://zhaohedai.github.io/files/15.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
