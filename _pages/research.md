@@ -16,6 +16,13 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<h3>Thin metals and their instability</h3>
+<p style="color:indianred;">Keywards: Thin metals, Interconnect, Solid-state dewtting, Capillary instability</p>
+
+1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
+
+
+
 <h3>Mechanics of plates and membranes</h3>
 <p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
 
@@ -76,7 +83,7 @@ redirect_from:
 <p style="color:indianred;">Keywards: Approximate theory, Winkler foundation model, Shear lag model</p>
 <div style="text-align: center;"><img src="/images/Research3.png" width="500"><</div>
 
-1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
+1. <p> <u>H. Lu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/8s5j-63xf" style="text-decoration:none;color:#DE3163;">Deep indentation of soft thin films beyond the 10% rule</a>. <b>Physical Review Letters</b> 137, 036201 (2026) <a href="http://zhaohedai.github.io/files/2026_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
 2. <p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijsolstr.2025.113346" style="text-decoration:none;color:black;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> 315, 113346 (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/Chen-ET-0224/2025IJSS"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
@@ -90,9 +97,11 @@ redirect_from:
 <p style="color:indianred;">Keywards: Strain engineering, Pseudo-magnetic field, 2D material devices</p>
 <div style="text-align: center;"><img src="/images/StrainEngineering.png" width="500"><</div>
 
-1. <p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:black;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p>
+1. <p>L. Zheng†, J. Song†, X. Zhao†, <u>J. Cao</u>, J. Xu, Z. Wang, C. Zhang, W. Sun, B. Chen, X. Gao, H. Liu, J. Yang, Y. Xu, L. Sun, <u>Z. Dai</u>, X. Wei, N. Liu*, H. Peng*, H. Wang*. <a href="https://doi.org/10.1038/s41592-026-03244-1" style="text-decoration:none;color:black;">Control of ice thickness in cryo-EM via confinement</a>. <b>Nature Methods</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
 
-2. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:#7B7D7D;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i>  </p>
+2. <p>L. Yang*, S. Yue, Y. Tao, S. Qiao, <u>H. Li</u>, <u>Z. Dai</u>, B. Song, Y. Chen, J. Du*, D. Li, P. Gao. <a href="https://doi.org/10.1038/s41586-024-07390-4" style="text-decoration:none;color:black;">Suppressed thermal transport in silicon nanoribbons by inhomogeneous strain</a>. <b>Nature</b> 629, 1021–1026 (2024)</p>
+
+3. <p><u>Z. Dai</u>, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.1002/adma.201805417" style="text-decoration:none;color:black;">Strain Engineering of Two-Dimensional Materials: Issues and Opportunities at the Interface</a>. <b>Advanced Materials</b> 31, 1805417 (2019) <a href="http://zhaohedai.github.io/files/37.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Selected as the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2019AM.jpg" style="color:#7B7D7D;">Frontispiece</a> <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i>  </p>
 
 <hr>
 <h3>Assemblies and composites of nanomaterials</h3>
