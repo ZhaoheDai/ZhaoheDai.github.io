@@ -16,28 +16,30 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<h3>Thin metals and their instability</h3>
+<h3>Thin films and their instability</h3>
 <p style="color:indianred;">Keywards: Thin metals, Interconnect, Solid-state dewtting, Capillary instability</p>
 
 1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
+2. <p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:black;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022) <a href="http://zhaohedai.github.io/files/2022_PRF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/PRFluids2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> </p>
 
-<h3>Plates and membranes</h3>
-<p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
-
-<div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
 
 1. <p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:black;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> 25, 5, 1876–1882 (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Featuredg on <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">Journal Cover</a></p>
 
 
-2. <p><u>H. Li</u>, <u>C. Yu</u>, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijmecsci.2024.109740" style="text-decoration:none;color:black;">Regimes in the axisymmetric stiction of thin elastic plates</a>. <b>International Journal of Mechanical Sciences</b> 284, 109740 (2024) <a href="http://zhaohedai.github.io/files/2024_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
+<h3>Bending and stretching of thin plates</h3>
+<p style="color:indianred;">Keywards: Graphene, 2D materials, Membranes, Wrinkling, Bulge test, Indentation test</p>
+
+<div style="text-align: center;"><img src="/images/Research1.png" width="700"></div>
+
+1. <p>X. Shen, <u>Z. Dai</u>, Y. Wei*. <a href="https://doi.org/10.1016/j.jmps.2026.106842" style="text-decoration:none;color:#DE3163;">Peeling and snap-through instability of multilayer 2D blisters with dual interfacial slips</a>. <b>Journal of the Mechanics and Physics of Solids</b> 218, 106842 (2026) <a href="http://zhaohedai.github.io/files/2026_JMPS2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
+
+2. <p><u>H. Li</u>, <u>C. Yu</u>, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijmecsci.2024.109740" style="text-decoration:none;color:black;">Regimes in the axisymmetric stiction of thin elastic plates</a>. <b>International Journal of Mechanical Sciences</b> 284, 109740 (2024) <a href="http://zhaohedai.github.io/files/2024_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 3. <p><u>Z. Dai</u>*, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104320" style="text-decoration:none;color:black;">Poking and bulging of suspended thin sheets: slippage, instabilities, and metrology</a>. <b>Journal of the Mechanics and Physics of Solids</b> 149, 104320 (2021) <a href="http://zhaohedai.github.io/files/2021_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 4. <p>G. Wang<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, J. Xiao<sup>†</sup>, S. Feng, C. Weng, L. Liu*, Z. Xu*, R. Huang*, Z. Zhang*. <a href="https://doi.org/10.1103/PhysRevLett.123.116101" style="text-decoration:none;color:black;">Bending of multilayer van der Waals materials</a>. <b>Physical Review Letters</b> 123, 116101 (2019) <a href="http://zhaohedai.github.io/files/39.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion, featured on the journal <a href="http://zhaohedai.github.io/images/publications/Cover_2019prl.png" style="color:#7B7D7D;">Cover</a> and by news media <a href="https://www.cambridge.org/core/journals/mrs-bulletin/news/interlayer-shear-determines-bending-rigidity-in-van-der-waals-materials" style="color:#7B7D7D;">MRS News</a></font>  <font color="Gold">ESI highly cited paper</font> <i class="fa fa-trophy" aria-hidden="true" style="font-size:16px;color:gold"></i> </p>
-
-5. <p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:black;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <a href="http://zhaohedai.github.io/files/2022_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/NanoLett2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2023NL.jpg" style="color:#7B7D7D;">Cover</a></p>
 
 
 <hr>
@@ -48,9 +50,10 @@ redirect_from:
 
 1. <p>W. Dong, <u>Z. Dai</u>*, L. Liu*, Zhong Zhang. <a href="https://doi.org/10.1002/adma.202303014" style="text-decoration:none;color:black;">Toward clean 2D materials and devices: Recent progress in transfer and cleaning methods</a>. <b>Advanced Materials</b> 36, 2303014 (2024) <a href="http://zhaohedai.github.io/files/2023_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Invited review</font></p>
 
-2. <p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:black;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023) <a href="http://zhaohedai.github.io/files/2023_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
+2. <p>Z. Fang, <u>Z. Dai</u>*, B. Wang, Z. Tian, C. Yu, Q. Chen, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.2c03145" style="text-decoration:none;color:black;">Pull-to-peel of two-dimensional materials for the simultaneous determination of elasticity and adhesion</a>. <b>Nano Letters</b> 23, 2, 742–749 (2023) <a href="http://zhaohedai.github.io/files/2022_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/NanoLett2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2023NL.jpg" style="color:#7B7D7D;">Cover</a></p>
 
-3. <p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:black;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022) <a href="http://zhaohedai.github.io/files/2022_PRF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/PRFluids2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> </p>
+
+3. <p>Y. Rao, E. Kim, <u>Z. Dai</u>, J. He, Y. Li, N. Lu. <a href="https://doi.org/10.1016/j.jmps.2023.105286" style="text-decoration:none;color:black;">Size-dependent shape characteristics of 2D crystal blisters</a>. <b>Journal of the Mechanics and Physics of Solids</b> 175, 105286 (2023) <a href="http://zhaohedai.github.io/files/2023_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 4. <p><u>Z. Dai</u>, N. Lu, K. Liechti, R. Huang*. <a href="https://doi.org/10.1016/j.cossms.2020.100837" style="text-decoration:none;color:black;">Mechanics at the Interfaces of 2D Materials: Challenges and Opportunities</a>. <b>Current Opinions in Solid State & Materials Science</b> 24, 100837 (2020) <a href="http://zhaohedai.github.io/files/44.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://www.sciencedirect.com/special-issue/10KTFKXPFSP" style="color:#7B7D7D;">Special Issue: 2D Materials</a></p>
 
