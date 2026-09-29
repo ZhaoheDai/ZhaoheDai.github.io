@@ -24,7 +24,7 @@ author_profile: false
   }
 </style>
 
-<h3>Cover Gallary</h3>
+<h3>Cover Gallery</h3>
 <table border=0>
   <tr><td width=145><img src="/images/publications/Cover_2018_PRL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2019prl.png" width="145"></td><td width=145><img src="/images/publications/Cover_2025PRL.png" width="145"></td><td width=145><img src="/images/publications/Cover_2023NL.jpg" width="145"></td><td width=145><img src="/images/publications/Cover_2024NL.png" width="145"></td><td width=145><img src="/images/publications/Cover_2025_NL.png" width="145"></td></tr>
 </table>

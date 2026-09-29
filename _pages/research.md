@@ -16,14 +16,37 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<h3>Thin films and their instability</h3>
-<p style="color:indianred;">Keywards: Thin metals, Interconnect, Solid-state dewtting, Capillary instability</p>
+<hr>
+<h3>How thin films deform and fail?</h3>
 
-1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
+<p style="color:indianred;">Keywards: Perturbation theory, Winkler foundation, Shear lag model, Dielectric breakdown, Tactile sensors</p>
+<div style="text-align: center;"><img src="/images/Research3.png" width="500"><</div>
 
-2. <p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:black;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022) <a href="http://zhaohedai.github.io/files/2022_PRF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/PRFluids2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> </p>
+1. <p> <u>H. Lu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/8s5j-63xf" style="text-decoration:none;color:black;">Deep indentation of soft thin films beyond the 10% rule</a>. <b>Physical Review Letters</b> 137, 036201 (2026) <a href="http://zhaohedai.github.io/files/2026_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
-<h3>Adhesion of plates and membranes</h3>
+2. <p>B. Wang, <u>C. Yu</u>, Y. Jiang, C. Tian, J. Tian, S. Li, Z. Fang, M. Li, W. Wu, <u>Z. Dai</u>, T. Taniguchi, K. Watanabe, Q. Chen, X. Wei*. <a href="https://doi.org/10.1038/s41467-025-63358-6" style="text-decoration:none;color:black;">Dielectric Strength Weakening of Hexagonal Boron Nitride Nanosheets under Mechanical Stress.</a> <b>Nature Communications</b> 16, 8078 (2025) <a href="http://zhaohedai.github.io/files/2025_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
+
+3. <p><u>H. Li</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijmecsci.2025.110331" style="text-decoration:none;color:black;">Peeling from elastomeric layers: Does material compressibility matter?</a> <b>International Journal of Mechanical Sciences</b> 302, 110331 (2025) <a href="http://zhaohedai.github.io/files/2025_IJMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a><font color="#7B7D7D"> Short answer to the question just posed: YES in theory but likely NO in practice.</font></p>
+
+4. <p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijsolstr.2025.113346" style="text-decoration:none;color:black;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> 315, 113346 (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/Chen-ET-0224/2025IJSS"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
+
+5. <p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:#DE3163;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <a href="http://zhaohedai.github.io/files/2024_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024NL.png" style="color:#7B7D7D;">Cover</a></p>
+
+5. <p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:black;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2024) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
+
+
+
+<h3>How thin films evolve?</h3>
+<p style="color:indianred;">Keywards: Thin metals, Interconnect, Solid-state dewtting, Capillary instability, Integrated Circuits</p>
+
+1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/" style="text-decoration:none;color:black;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
+
+2. <p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.1002/smll.73895" style="text-decoration:none;color:black;">How Slippery Surfaces Retain Their Function: Lubricant Film Dynamics upon Droplet Contact.</a> <b>Small</b> 22, 38, e73895 (2026) <a href="http://zhaohedai.github.io/files/2026_Small.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p>
+
+3. <p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:black;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022) <a href="http://zhaohedai.github.io/files/2022_PRF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/PRFluids2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> </p>
+
+<h3>How thin plates adhere?</h3>
+<p style="color:indianred;">Keywards: MEMS, Stiction, Van der Waals force, Adhesion</p>
 
 1. <p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:black;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> 25, 5, 1876–1882 (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Featuredg on <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">Journal Cover</a></p>
 
@@ -78,21 +101,6 @@ redirect_from:
 4. <p>Y. Rao<sup>†</sup>, S. Qiao<sup>†</sup>, <u>Z. Dai</u>, N. Lu*. <a href="https://doi.org/10.1016/j.jmps.2021.104399" style="text-decoration:none;color:black;">Elastic Wetting: Substrate-Supported Droplets Confined by Ultrathin Elastic Membranes</a>. <b>Journal of the Mechanics and Physics of Solids</b> 151, 104399 (2021) <a href="http://zhaohedai.github.io/files/49.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
 
 5. <p>D. Sanchez<sup>†</sup>, <u>Z. Dai</u><sup>†</sup>, P. Wang, A. Cantu-Chavez, C. J. Brennan, R. Huang*, N. Lu*. <a href="https://doi.org/10.1073/pnas.1801551115" style="text-decoration:none;color:black;">Mechanics of Liquid-Filled Nanobubbles Trapped by Two-Dimensional Crystals</a>. <b>Proceedings of the National Academy of Sciences</b> 115, 7884 (2018) <a href="http://zhaohedai.github.io/files/29.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
-
-
-<hr>
-<h3>Thin elastic layers </h3>
-
-<p style="color:indianred;">Keywards: Approximate theory, Winkler foundation model, Shear lag model</p>
-<div style="text-align: center;"><img src="/images/Research3.png" width="500"><</div>
-
-1. <p> <u>H. Lu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/8s5j-63xf" style="text-decoration:none;color:#DE3163;">Deep indentation of soft thin films beyond the 10% rule</a>. <b>Physical Review Letters</b> 137, 036201 (2026) <a href="http://zhaohedai.github.io/files/2026_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
-
-2. <p><u>E. Chen</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.ijsolstr.2025.113346" style="text-decoration:none;color:black;">Elastic sheets on Winkler foundations: Indentation stiffness and nonlinearities</a>. <b>International Journal of Solids and Structures</b> 315, 113346 (2025) <a href="http://zhaohedai.github.io/files/2025_IJSS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/Chen-ET-0224/2025IJSS"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
-
-3. <p><u>C. Yu</u> and <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.jmps.2024.105919" style="text-decoration:none;color:black;">Premature jump-to-contact with elastic surfaces</a>. <b>Journal of the Mechanics and Physics of Solids</b> 193, 105919 (2024) <a href="http://zhaohedai.github.io/files/2024_JMPS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p>
-
-4. <p>B. Wang, <u>J. Li</u>, Z. Fang, Y. Jiang, S. Li, F. Zhan, <u>Z. Dai</u>, Q. Chen*, X. Wei*. <a href="https://doi.org/10.1021/acs.nanolett.4c00687" style="text-decoration:none;color:black;">Large and pressure-dependent c-axis piezoresistivity of highly oriented pyrolytic graphite near zero pressure</a>. <b>Nano Letters</b> (2024) <a href="http://zhaohedai.github.io/files/2024_NL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <font color="#7B7D7D">Featured on the journal</font> <a href="http://zhaohedai.github.io/images/publications/Cover_2024NL.png" style="color:#7B7D7D;">Cover</a></p>
 
 <hr>
 <h3>Elastic strain engineering</h3>
