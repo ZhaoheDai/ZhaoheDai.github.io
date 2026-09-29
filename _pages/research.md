@@ -16,6 +16,9 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+
+We study how elasticity, adhesion, capillarity, friction, and geometry govern thin and soft materials and interfaces. Combining theory, computation, and experiments, we aim to uncover simple mechanical principles behind these behaviors. Below, I group a few related publications to summarize some of research directions in our group.
+
 <hr>
 <h3>How thin films deform and fail?</h3>
 
@@ -39,7 +42,7 @@ redirect_from:
 
 <h3>How thin films evolve?</h3>
 <p style="color:indianred;">Keywards: Thin metals, Interconnect, Solid-state dewtting, Capillary instability, Integrated Circuits</p>
-<div style="text-align: center;"><img src="/images/CapillaryInstability.png" width="500"></div>
+<div style="text-align: center;"><img src="/images/publications/2026_NC.png" width="500"></div>
 
 1. <p><u>W. Wang</u>, J. Wang, G. Wang, Z. Yan, C. Jiang, S. Zhou, <u>C. Yu</u>, J. Chen, K. Zheng, T. Salez, X. Wei, <u>Z. Dai</u>*. <a href="https://doi.org/10.1038/s41467-026-77794-5" style="text-decoration:none;color:black;">Van der Waals epitaxy suppresses thermal rupture in ultrathin metals</a>. <b>Nature Communications</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2026_NatCommun"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
@@ -49,7 +52,7 @@ redirect_from:
 
 <h3>How thin plates interact?</h3>
 <p style="color:indianred;">Keywards: MEMS, Stiction, Van der Waals force, Adhesion</p>
-<div style="text-align: center;"><img src="/images/ThinFilmAdhesion.png" width="500"></div>
+<div style="text-align: center;"><img src="/images/publications/2025_PRSA.png" width="500"></div>
 
 1. <p><u>C. Yu</u>, <u>W. Zeng</u>, Z. Kou, <u>W. Wang</u>, L. Wang, Q. Li, X. Liu, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/jgqz-gwlc" style="text-decoration:none;color:black;">Transparency of graphene to solid-solid van der Waals interactions</a>. <b> Physical Review Letters</b> 135, 156202 (2025) <a href="http://zhaohedai.github.io/files/2025_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2025_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p>
 
