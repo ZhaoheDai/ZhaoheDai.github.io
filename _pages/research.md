@@ -23,6 +23,7 @@ redirect_from:
 
 2. <p><u>Z. Dai</u> and D. Vella*. <a href="https://doi.org/10.1103/PhysRevFluids.7.054003" style="text-decoration:none;color:black;">Droplets on Lubricant Infused Surfaces: The slow dynamics of skirt formation</a>. <b>Physical Review Fluids</b> 7, 054003 (2022) <a href="http://zhaohedai.github.io/files/2022_PRF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/PRFluids2022"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> </p>
 
+<h3>Adhesion of plates and membranes</h3>
 
 1. <p><u>C. Yu</u>, <u>W. Zeng</u>, B. Wang, X. Cui, Z. Gao, J. Yin, L. Liu, X. Wei, Y. Wei, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:black;">Stiffer is stickier: Adhesion in elastic nanofilms</a>. <b> Nano Letters</b> 25, 5, 1876–1882 (2025) <a href="http://zhaohedai.github.io/files/2025_NanoLett.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> Featuredg on <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05309" style="text-decoration:none;color:gray;">Journal Cover</a></p>
 
