@@ -39,7 +39,7 @@ author_profile: false
 <br>
 <hr>
 <h3>2027</h3>
-<li><p><u>G. Zhang</u>, Z. Zhang, K. Liu, K. Xu, <u>Z. Dai</u>*. <a href="https://doi.org/10.1007/s10409-026-60955-x" style="text-decoration:none;color:gray;">Contact stiffness of plates perfectly bonded to transversely isotropic elastic layer</a>. <b>Acta Mechanica Sinica</b> 43, 460955 (2027) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/14523GuozhengZhang/Kernel"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p></li> 
+<li><p><u>G. Zhang</u>, Z. Zhang, K. Liu, K. Xu, <u>Z. Dai</u>*. <a href="https://doi.org/10.1007/s10409-026-60955-x" style="text-decoration:none;color:gray;">Contact stiffness of plates perfectly bonded to a transversely isotropic elastic foundation</a>. <b>Acta Mechanica Sinica</b> 43, 460955 (2027) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/14523GuozhengZhang/Kernel"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2027_AMS.png" width="400"></p>
 
 
