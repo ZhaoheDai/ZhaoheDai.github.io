@@ -347,6 +347,8 @@ hardening effect: Half-space and thin-layer limits</a>. <b>Acta Mechanica Solida
 <hr>
 <h3>Other writings</h3>
 
+<li><p><u>Z. Dai</u>*, F. Feng, J. Wang. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Column Stability: Energy Landscapes Before and After Buckling</b> (in Chinese) (2026) <a href="http://zhaohedai.github.io/files/Teaching_1.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
+
 <li><p>Y. Li, G. Wang, <u>Z. Dai</u>, Y. Hou, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-19-037" style="text-decoration:none;color:#DE3163;">Measurement of Young’s Modulus of 2D Materials Through in situ Through-Hole Bubble Tests</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-19-037 (2019) <a href="http://zhaohedai.github.io/files/3.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 
 <li><p>J. Xiao, G. Wang, <u>Z. Dai</u>, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-18-061" style="text-decoration:none;color:#DE3163;">Nanoindentation of Multilayer Two-dimensional Materials: An Experimental Study</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-18-061 (2018) <a href="http://zhaohedai.github.io/files/2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
