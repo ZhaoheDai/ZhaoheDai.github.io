@@ -41,7 +41,7 @@ author_profile: false
 
 * 2025.09-present, 李沛锦, Peijin Li is working on fracture mechanics of biomaterials.
 
-* 2026.07-present, 杜乐, Le Du is working on adhesion and fracture mechanics of nonlinear solids.
+* 2026.09-present, 杜乐, Le Du is working on adhesion and fracture mechanics of nonlinear solids.
 
 <hr>
 <h3>硕士研究生 Graduate Students</h3> 
