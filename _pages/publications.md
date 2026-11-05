@@ -52,12 +52,11 @@ author_profile: false
 <li><p>T. Wang, <u>Z. Dai</u>, L. Shao*, Y. Zhu*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Buckling of a finite-length nanowire on an elastic substrate with finite interfacial shear strength</a>. <b>Under Review</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
 
-<li><p><u>E. Chen</u>, Z. Fang, X. Wei*, <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.eml.2026.102538" style="text-decoration:none;color:gray;">Axisymmetric peeling of thin elastic films: Snap-through and wrinkling instabilities</a>. <b>Extreme Mechanics Letters</b> 89, 102538 (2026) <a href="http://zhaohedai.github.io/files/2026_EML2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
-<p style="text-align:center;"><img src="/images/publications/2026_EML2.png" width="300"></p>
-
-
 <li><p>Q. Zhang, O. Doustdar, H. Kim, C. Dancer, <u>Z. Dai</u>, W. Huang*, K. Dearn*, D. Vella*, M. Liu*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Learning to Program Dimple-Encoded Strips for Morphing Architectures</a>. <b>Advanced Materials</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_AM.png" width="500"></p>
+
+<li><p><u>E. Chen</u>, Z. Fang, X. Wei*, <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.eml.2026.102538" style="text-decoration:none;color:gray;">Axisymmetric peeling of thin elastic films: Snap-through and wrinkling instabilities</a>. <b>Extreme Mechanics Letters</b> 89, 102538 (2026) <a href="http://zhaohedai.github.io/files/2026_EML2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
+<p style="text-align:center;"><img src="/images/publications/2026_EML2.png" width="300"></p>
 
 <li><p>L. Zheng†, J. Song†, X. Zhao†, <u>J. Cao</u>, J. Xu, Z. Wang, C. Zhang, W. Sun, B. Chen, X. Gao, H. Liu, J. Yang, Y. Xu, L. Sun, <u>Z. Dai</u>, X. Wei, N. Liu*, H. Peng*, H. Wang*. <a href="https://doi.org/10.1038/s41592-026-03244-1" style="text-decoration:none;color:#DE3163;">Control of ice thickness in cryo-EM via confinement</a>. <b>Nature Methods</b> (2026) <a href="http://zhaohedai.github.io/files/2026_NM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2026_NM.png" width="450"></p>
