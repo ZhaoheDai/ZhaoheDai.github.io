@@ -42,6 +42,9 @@ author_profile: false
 <li><p><u>G. Zhang</u>, Z. Zhang, K. Liu, K. Xu, <u>Z. Dai</u>*. <a href="https://doi.org/10.1007/s10409-026-60955-x" style="text-decoration:none;color:gray;">Contact stiffness of plates perfectly bonded to a transversely isotropic elastic foundation</a>. <b>Acta Mechanica Sinica</b> 43, 460955 (2027) <a href="http://zhaohedai.github.io/files/2026_NC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/14523GuozhengZhang/Kernel"><i class="fa fa-github" style="font-size:16px; color:black"></i></a></p></li> 
 <p style="text-align:center;"><img src="/images/publications/2027_AMS.png" width="400"></p>
 
+<li><p>Q. Zhang, O. Doustdar, H. Kim, C. Dancer, <u>Z. Dai</u>, W. Huang*, K. Dearn*, D. Vella*, M. Liu*. <a href="https://doi.org/10.1002/adma.75796" style="text-decoration:none;color:#DE3163;">Learning to Program Dimple-Encoded Strips for Morphing Architectures</a>. <b>Advanced Materials</b> (2026) <a href="http://zhaohedai.github.io/files/2027_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
+<p style="text-align:center;"><img src="/images/publications/2026_AM.png" width="500"></p>
+
 
 <br>
 <hr>
@@ -51,9 +54,6 @@ author_profile: false
 
 <li><p>T. Wang, <u>Z. Dai</u>, L. Shao*, Y. Zhu*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Buckling of a finite-length nanowire on an elastic substrate with finite interfacial shear strength</a>. <b>Under Review</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AMS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
-
-<li><p>Q. Zhang, O. Doustdar, H. Kim, C. Dancer, <u>Z. Dai</u>, W. Huang*, K. Dearn*, D. Vella*, M. Liu*. <a href="https://doi.org/" style="text-decoration:none;color:gray;">Learning to Program Dimple-Encoded Strips for Morphing Architectures</a>. <b>Advanced Materials</b> (2026) <a href="http://zhaohedai.github.io/files/2026_AM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
-<p style="text-align:center;"><img src="/images/publications/2026_AM.png" width="500"></p>
 
 <li><p><u>E. Chen</u>, Z. Fang, X. Wei*, <u>Z. Dai</u>*. <a href="https://doi.org/10.1016/j.eml.2026.102538" style="text-decoration:none;color:#DE3163;">Axisymmetric peeling of thin elastic films: Snap-through and wrinkling instabilities</a>. <b>Extreme Mechanics Letters</b> 89, 102538 (2026) <a href="http://zhaohedai.github.io/files/2026_EML2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
 <p style="text-align:center;"><img src="/images/publications/2026_EML2.png" width="300"></p>
